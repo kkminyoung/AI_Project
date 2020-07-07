@@ -1,0 +1,28 @@
+Small Non-coding Transfer RNA-Derived RNA Fragments (tRFs): Their Biogenesis, Function and Implication in Human Diseases.
+Editor's Introduction to This Issue.
+ERRATUM: Acknowledgments Correction. Cell-Free miR-27a, a Potential Diagnostic and Prognostic Biomarker for Gastric Cancer.
+Building the Frequency Profile of the Core Promoter Element Patterns in the Three ChromHMM Promoter States at 200bp Intervals: A Statistical Perspective.
+Heritability Estimated Using 50K SNPs Indicates Missing Heritability Problem in Holstein Breeding.
+Prediction of Genes Related to Positive Selection Using Whole-Genome Resequencing in Three Commercial Pig Breeds.
+Expressional Subpopulation of Cancers Determined by G64, a Co-regulated Module.
+Association of HLA Genotype and Fulminant Type 1 Diabetes in Koreans.
+Analysis of Whole Transcriptome Sequencing Data: Workflow and Software.
+Introns: The Functional Benefits of Introns in Genomes.
+Role of Chromosome Changes in Crocodylus Evolution and Diversity.
+VBioindex: A Visual Tool to Estimate Biodiversity.
+A Database of Gene Expression Profiles of Korean Cancer Genome.
+Efficiency to Discovery Transgenic Loci in GM Rice Using Next Generation Sequencing Whole Genome Re-sequencing.
+The Construction of Regulatory Network for Insulin-Mediated Genes by Integrating Methods Based on Transcription Factor Binding Motifs and Gene Expression Variations.
+Cell-Free miR-27a, a Potential Diagnostic and Prognostic Biomarker for Gastric Cancer.
+Editor's Introduction to This Issue.
+In Silico Docking to Explicate Interface between Plant-Originated Inhibitors and E6 Oncogenic Protein of Highly Threatening Human Papillomavirus 18.
+In Silico Structural and Functional Annotation of Hypothetical Proteins of Vibrio cholerae O139.
+Elucidation of the Molecular Interaction between miRNAs and the HOXA9 Gene, Involved in Acute Myeloid Leukemia, by the Assistance of Argonaute Protein through a Computational Approach.
+Genetic Architecture of Transcription and Chromatin Regulation.
+Effect of Next-Generation Exome Sequencing Depth for Discovery of Diagnostic Variants.
+A Novel Type of Non-coding RNA, nc886, Implicated in Tumor Sensing and Suppression.
+Editor's Introduction to This Issue.
+An Ontology-Based GIS for Genomic Data Management of Rumen Microbes.
+Genes Involved in the Biosynthesis and Transport of Acinetobactin in Acinetobacter baumannii.
+Comparative Modeling and Molecular Dynamics Simulation of Substrate Binding in Human Fatty Acid Synthase: Enoyl Reductase and β-Ketoacyl Reductase Catalytic Domains.
+Editor's Introduction to This Issue.

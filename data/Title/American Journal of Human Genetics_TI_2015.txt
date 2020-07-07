@@ -1,0 +1,219 @@
+Genome Sequencing of Autism-Affected Families Reveals Disruption of Putative Noncoding Regulatory DNA.
+An Efficient Multiple-Testing Adjustment for eQTL Studies that Accounts for Linkage Disequilibrium between Variants.
+Correlations between Synaptic Initiation and Meiotic Recombination: A Study of Humans and Mice.
+Maternal Modifiers and Parent-of-Origin Bias of the Autism-Associated 16p11.2 CNV.
+Autosomal-Dominant Corneal Endothelial Dystrophies CHED1 and PPCD1 Are Allelic Disorders Caused by Non-coding Mutations in the Promoter of OVOL2.
+Limited Clinical Utility of Non-invasive Prenatal Testing for Subchromosomal Abnormalities.
+Biallelic Mutations in UNC80 Cause Persistent Hypotonia, Encephalopathy, Growth Retardation, and Severe Intellectual Disability.
+Mutations in UNC80, Encoding Part of the UNC79-UNC80-NALCN Channel Complex, Cause Autosomal-Recessive Severe Infantile Encephalopathy.
+Spell Checking Nature: Versatility of CRISPR/Cas9 for Developing Treatments for Inherited Disorders.
+TAF1 Variants Are Associated with Dysmorphic Features, Intellectual Disability, and Neurological Manifestations.
+De Novo GMNN Mutations Cause Autosomal-Dominant Primordial Dwarfism Associated with Meier-Gorlin Syndrome.
+Somatic Activating PIK3CA Mutations Cause Venous Malformation.
+Autosomal-Recessive Intellectual Disability with Cerebellar Atrophy Syndrome Caused by Mutation of the Manganese and Zinc Transporter Gene SLC39A8.
+Mutations in Either TUBB or MAPRE2 Cause Circumferential Skin Creases Kunze Type.
+Mutations Preventing Regulated Exon Skipping in MET Cause Osteofibrous Dysplasia.
+Genome-wide Comparative Analysis of Atopic Dermatitis and Psoriasis Gives Insight into Opposing Genetic Mechanisms.
+Multiple Hepatic Regulatory Variants at the GALNT2 GWAS Locus Associated with High-Density Lipoprotein Cholesterol.
+SLC39A8 Deficiency: A Disorder of Manganese Transport and Glycosylation.
+Genome-wide Association Analysis of Psoriatic Arthritis and Cutaneous Psoriasis Reveals Differences in Their Genetic Architecture.
+Congenital Myasthenic Syndrome Type 19 Is Caused by Mutations in COL13A1, Encoding the Atypical Non-fibrillar Collagen Type XIII α1 Chain.
+Histone Modifier Genes Alter Conotruncal Heart Phenotypes in 22q11.2 Deletion Syndrome.
+RTTN Mutations Cause Primary Microcephaly and Primordial Dwarfism in Humans.
+Mutations in MECOM, Encoding Oncoprotein EVI1, Cause Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia.
+Leveraging Distant Relatedness to Quantify Human Mutation and Gene-Conversion Rates.
+Disruptive SCYL1 Mutations Underlie a Syndrome Characterized by Recurrent Episodes of Liver Failure, Peripheral Neuropathy, Cerebellar Atrophy, and Ataxia.
+Two-Variance-Component Model Improves Genetic Prediction in Family Datasets.
+Nonrecurrent 17p11.2p12 Rearrangement Events that Result in Two Concomitant Genomic Disorders: The PMP22-RAI1 Contiguous Gene Duplication Syndrome.
+Association between Rare Variants in AP4E1, a Component of Intracellular Trafficking, and Persistent Stuttering.
+Genomic Analyses Reveal Mutational Signatures and Frequently Altered Genes in Esophageal Squamous Cell Carcinoma.
+Dominant Genetic Variation and Missing Heritability for Human Complex Traits: Insights from Twin versus Genome-wide Common SNP Models.
+Recessive Mutations in RTN4IP1 Cause Isolated and Syndromic Optic Neuropathies.
+Germline Heterozygous Variants in SEC23B Are Associated with Cowden Syndrome and Enriched in Apparently Sporadic Thyroid Cancer.
+Intra-mitochondrial Methylation Deficiency Due to Mutations in SLC25A26.
+Privacy Risks from Genomic Data-Sharing Beacons.
+Allelic Mutations of KITLG, Encoding KIT Ligand, Cause Asymmetric and Unilateral Hearing Loss and Waardenburg Syndrome Type 2.
+Recessive Mutations in RTN4IP1 Cause Isolated and Syndromic Optic Neuropathies.
+Joubert Syndrome in French Canadians and Identification of Mutations in CEP104.
+A Recurrent Mutation in CACNA1G Alters Cav3.1 T-Type Calcium-Channel Conduction and Causes Autosomal-Dominant Cerebellar Ataxia.
+Amino Acid Variation in HLA Class II Proteins Is a Major Determinant of Humoral Response to Common Viruses.
+Modeling Linkage Disequilibrium Increases Accuracy of Polygenic Risk Scores.
+Imputation of KIR Types from SNP Variation Data.
+Alternative Splicing QTLs in European and African Populations.
+Biallelic Mutations in Nuclear Pore Complex Subunit NUP107 Cause Early-Childhood-Onset Steroid-Resistant Nephrotic Syndrome.
+Loss-of-Function Mutations in the WNT Co-receptor LRP6 Cause Autosomal-Dominant Oligodontia.
+Heimler Syndrome Is Caused by Hypomorphic Mutations in the Peroxisome-Biogenesis Genes PEX1 and PEX6.
+Loss-of-Function GAS8 Mutations Cause Primary Ciliary Dyskinesia and Disrupt the Nexin-Dynein Regulatory Complex.
+Genetic Defects in TAPT1 Disrupt Ciliogenesis and Cause a Complex Lethal Osteochondrodysplasia.
+Penetrance of Hemochromatosis in HFE Genotypes Resulting in p.Cys282Tyr and p.[Cys282Tyr];[His63Asp] in the eMERGE Network.
+Identification of a Recognizable Progressive Skeletal Dysplasia Caused by RSPRY1 Mutations.
+Truncating Mutations of MAGEL2, a Gene within the Prader-Willi Locus, Are Responsible for Severe Arthrogryposis.
+Chromatin-Remodeling-Factor ARID1B Represses Wnt/β-Catenin Signaling.
+De Novo Mutations in CHAMP1 Cause Intellectual Disability with Severe Speech Impairment.
+Unraveling Multiple MHC Gene Associations with Systemic Lupus Erythematosus: Model Choice Indicates a Role for HLA Alleles and Non-HLA Genes in Europeans.
+A Genetic-Pathophysiological Framework for Craniosynostosis.
+Gain-of-Function Mutations in ZIC1 Are Associated with Coronal Craniosynostosis and Learning Disability.
+Points to Consider: Ethical, Legal, and Psychosocial Implications of Genetic Testing in Children and Adolescents.
+Increased Power for Detection of Parent-of-Origin Effects via the Use of Haplotype Estimation.
+Recurrent De Novo Mutations Affecting Residue Arg138 of Pyrroline-5-Carboxylate Synthase Cause a Progeroid Form of Autosomal-Dominant Cutis Laxa.
+Sequence-Level Analysis of the Major European Huntington Disease Haplotype.
+Heterozygous Loss-of-Function Mutations in DLL4 Cause Adams-Oliver Syndrome.
+Mutations in SPATA5 Are Associated with Microcephaly, Intellectual Disability, Seizures, and Hearing Loss.
+Accurate Non-parametric Estimation of Recent Effective Population Size from Segments of Identity by Descent.
+Haploinsufficiency of the NF-κB1 Subunit p50 in Common Variable Immunodeficiency.
+A Point Mutation in PDGFRB Causes Autosomal-Dominant Penttinen Syndrome.
+A Fast Method that Uses Polygenic Scores to Estimate the Variance Explained by Genome-wide Marker Panels and the Proportion of Variants Affecting a Trait.
+Incorporating Functional Information in Tests of Excess De Novo Mutational Load.
+Decoding NF1 Intragenic Copy-Number Variations.
+Long-Range Modulation of PAG1 Expression by 8q21 Allergy Risk Variants.
+Mutations in KIAA0586 Cause Lethal Ciliopathies Ranging from a Hydrolethalus Phenotype to Short-Rib Polydactyly Syndrome.
+THOC2 Mutations Implicate mRNA-Export Pathway in X-Linked Intellectual Disability.
+Leveraging Functional-Annotation Data in Trans-ethnic Fine-Mapping Studies.
+Mutations in KIAA0586 Cause Lethal Ciliopathies Ranging from a Hydrolethalus Phenotype to Short-Rib Polydactyly Syndrome.
+Leveraging Functional-Annotation Data in Trans-ethnic Fine-Mapping Studies.
+A Functional SNP in BNC2 Is Associated with Adolescent Idiopathic Scoliosis.
+Symmetrical Dose-Dependent DNA-Methylation Profiles in Children with Deletion or Duplication of 7q11.23.
+This Month in Genetics.
+TRMT5 Mutations Cause a Defect in Post-transcriptional Modification of Mitochondrial tRNA Associated with Multiple Respiratory-Chain Deficiencies.
+The Genetic Basis of Mendelian Phenotypes: Discoveries, Challenges, and Opportunities.
+Correcting for Sample Contamination in Genotype Calling of DNA Sequence Data.
+This Month in The Journal.
+Mutations in DDX3X Are a Common Cause of Unexplained Intellectual Disability with Gender-Specific Effects on Wnt Signaling.
+Runs of Homozygosity: Association with Coronary Artery Disease and Gene Expression in Monocytes and Macrophages.
+Mutations in TBX18 Cause Dominant Urinary Tract Malformations via Transcriptional Dysregulation of Ureter Development.
+Biallelic Mutations in NBAS Cause Recurrent Acute Liver Failure with Onset in Infancy.
+Disentangling the Effects of Colocalizing Genomic Annotations to Functionally Prioritize Non-coding Variants within Complex-Trait Loci.
+RNASEH1 Mutations Impair mtDNA Replication and Cause Adult-Onset Mitochondrial Encephalomyopathy.
+Polymorphisms in a Putative Enhancer at the 10q21.2 Breast Cancer Risk Locus Regulate NRBF2 Expression.
+A Powerful Pathway-Based Adaptive Test for Genetic Association with Common or Rare Variants.
+The Human Phenotype Ontology: Semantic Unification of Common and Rare Disease.
+Recurrent Mutations in the Basic Domain of TWIST2 Cause Ablepharon Macrostomia and Barber-Say Syndromes.
+F. Clarke Fraser (1920–2014).
+This Month in Genetics.
+Improving Phenotypic Prediction by Combining Genetic and Epigenetic Associations.
+A Joint Location-Scale Test Improves Power to Detect Associated SNPs, Gene Sets, and Pathways.
+A 3.4-kb Copy-Number Deletion near EPAS1 Is Significantly Enriched in High-Altitude Tibetans but Absent from the Denisovan Sequence.
+Meta-analysis for Discovering Rare-Variant Associations: Statistical Methods and Software Programs.
+Paired-Duplication Signatures Mark Cryptic Inversions and Other Complex Structural Variation.
+Post-zygotic Point Mutations Are an Underrecognized Source of De Novo Genomic Variation.
+RSPH3 Mutations Cause Primary Ciliary Dyskinesia with Central-Complex Defects and a Near Absence of Radial Spokes.
+Loss-of-Function Mutations in APPL1 in Familial Diabetes Mellitus.
+Points to Consider: Ethical, Legal, and Psychosocial Implications of Genetic Testing in Children and Adolescents.
+This Month in The Journal.
+Concurrent Whole-Genome Haplotyping and Copy-Number Profiling of Single Cells.
+Biallelic Mutations in the Autophagy Regulator DRAM2 Cause Retinal Dystrophy with Early Macular Involvement.
+Heterozygous Reelin Mutations Cause Autosomal-Dominant Lateral Temporal Epilepsy.
+Improved Ancestry Estimation for both Genotyping and Sequencing Data using Projection Procrustes Analysis and Genotype Imputation.
+Accurate and Fast Multiple-Testing Correction in eQTL Studies.
+A Missense Mutation in KCTD17 Causes Autosomal Dominant Myoclonus-Dystonia.
+Individualized Iterative Phenotyping for Genome-wide Analysis of Loss-of-Function Mutations.
+Recessive Osteogenesis Imperfecta Caused by Missense Mutations in SPARC.
+Mutations in SNX14 Cause a Distinctive Autosomal-Recessive Cerebellar Ataxia and Intellectual Disability Syndrome.
+Comprehensively Evaluating cis-Regulatory Variation in the Human Prostate Transcriptome by Using Gene-Level Allele-Specific Expression.
+This Month in The Journal.
+Recessive Mutations in the α3 (VI) Collagen Gene COL6A3 Cause Early-Onset Isolated Dystonia.
+Jump from Pre-mutation to Pathologic Expansion in C9orf72.
+Mutations in the Gene Encoding the E2 Conjugating Enzyme UBE2T Cause Fanconi Anemia.
+De Novo Mutations in SIK1 Cause a Spectrum of Developmental Epilepsies.
+Homozygosity for Frameshift Mutations in XYLT2 Result in a Spondylo-Ocular Syndrome with Bone Fragility, Cataracts, and Hearing Defects.
+Mutations of GPR126 Are Responsible for Severe Arthrogryposis Multiplex Congenita.
+This Month in Genetics.
+Tracing the Route of Modern Humans out of Africa by Using 225 Human Genome Sequences from Ethiopians and Egyptians.
+Low-Frequency Coding Variants at 6p21.33 and 20q11.21 Are Associated with Lung Cancer Risk in Chinese Populations.
+Mutations Impairing GSK3-Mediated MAF Phosphorylation Cause Cataract, Deafness, Intellectual Disability, Seizures, and a Down Syndrome-like Facies.
+Leveraging Multi-ethnic Evidence for Mapping Complex Traits in Minority Populations: An Empirical Bayes Approach.
+Mutations in the GABA Transporter SLC6A1 Cause Epilepsy with Myoclonic-Atonic Seizures.
+Testing in Microbiome-Profiling Studies with MiRKAT, the Microbiome Regression-Based Kernel Association Test.
+A Potential Contributory Role for Ciliary Dysfunction in the 16p11.2 600 kb BP4-BP5 Pathology.
+Acrofacial Dysostosis, Cincinnati Type, a Mandibulofacial Dysostosis Syndrome with Limb Anomalies, Is Caused by POLR1A Dysfunction.
+Genome-wide Analysis of Body Proportion Classifies Height-Associated Variants by Mechanism of Action and Implicates Genes Important for Skeletal Development.
+Autosomal-Dominant Multiple Pterygium Syndrome Is Caused by Mutations in MYH3.
+This Month in The Journal.
+The Kalash Genetic Isolate: Ancient Divergence, Drift, and Selection.
+Mutations in PYCR2, Encoding Pyrroline-5-Carboxylate Reductase 2, Cause Microcephaly and Hypomyelination.
+Lupus Risk Variant Increases pSTAT1 Binding and Decreases ETS1 Expression.
+IDS Crossing of the Blood-Brain Barrier Corrects CNS Defects in MPSII Mice.
+Copy-Number Variation of the Glucose Transporter Gene SLC2A3 and Congenital Heart Defects in the 22q11.2 Deletion Syndrome.
+Mixed Model with Correction for Case-Control Ascertainment Increases Association Power.
+Biallelic Mutations of Methionyl-tRNA Synthetase Cause a Specific Type of Pulmonary Alveolar Proteinosis Prevalent on Réunion Island.
+This Month in Genetics.
+HLA-DPB1 and HLA Class I Confer Risk of and Protection from Narcolepsy.
+Mutations in DVL1 Cause an Osteosclerotic Form of Robinow Syndrome.
+Mutations in NDUFB11, Encoding a Complex I Component of the Mitochondrial Respiratory Chain, Cause Microphthalmia with Linear Skin Defects Syndrome.
+A Large-Scale Genetic Analysis Reveals a Strong Contribution of the HLA Class II Region to Giant Cell Arteritis Susceptibility.
+This Month in Genetics.
+This Month in The Journal.
+Mutations in the Endothelin Receptor Type A Cause Mandibulofacial Dysostosis with Alopecia.
+A Statistical Approach for Rare-Variant Association Testing in Affected Sibships.
+Genomic Analyses Reveal Mutational Signatures and Frequently Altered Genes in Esophageal Squamous Cell Carcinoma.
+Chromothripsis in Healthy Individuals Affects Multiple Protein-Coding Genes and Can Result in Severe Congenital Abnormalities in Offspring.
+Meta-analysis of 65,734 Individuals Identifies TSPAN15 and SLC44A2 as Two Susceptibility Loci for Venous Thromboembolism.
+Loss-of-Function Alanyl-tRNA Synthetase Mutations Cause an Autosomal-Recessive Early-Onset Epileptic Encephalopathy with Persistent Myelination Defect.
+De Novo Mutations in SIK1 Cause a Spectrum of Developmental Epilepsies.
+Mutations in TUBGCP4 Alter Microtubule Organization via the γ-Tubulin Ring Complex in Autosomal-Recessive Microcephaly with Chorioretinopathy.
+DVL1 Frameshift Mutations Clustering in the Penultimate Exon Cause Autosomal-Dominant Robinow Syndrome.
+Absence of Heterozygosity Due to Template Switching during Replicative Rearrangements.
+Submicroscopic Deletions at 13q32.1 Cause Congenital Microcoria.
+Functional Loss of Semaphorin 3C and/or Semaphorin 3D and Their Epistatic Interaction with Ret Are Critical to Hirschsprung Disease Liability.
+Mutations in HPCA Cause Autosomal-Recessive Primary Isolated Dystonia.
+Complex History of Admixture between Modern Humans and Neandertals.
+2014 Curt Stern Award: A Tryst with Genetics1.
+2014 William Allan Award: A Hematologist’s Pursuit of Hemoglobin Genetics1.
+A Somatic MAP3K3 Mutation Is Associated with Verrucous Venous Malformation.
+2014 William Allan Award Introduction: Stuart Orkin1.
+De Novo Nonsense Mutations in KAT6A, a Lysine Acetyl-Transferase Gene, Cause a Syndrome Including Microcephaly and Global Developmental Delay.
+Dominance Genetic Variation Contributes Little to the Missing Heritability for Human Complex Traits.
+Selection and Reduced Population Size Cannot Explain Higher Amounts of Neandertal Ancestry in East Asian than in European Human Populations.
+Mutations in the NHEJ Component XRCC4 Cause Primordial Dwarfism.
+Mutations in SEC24D, Encoding a Component of the COPII Machinery, Cause a Syndromic Form of Osteogenesis Imperfecta.
+Homozygous SLC6A17 Mutations Cause Autosomal-Recessive Intellectual Disability with Progressive Tremor, Speech Impairment, and Behavioral Problems.
+This Month in The Journal.
+Loss-of-Function Mutations in CAST Cause Peeling Skin, Leukonychia, Acral Punctate Keratoses, Cheilitis, and Knuckle Pads.
+2014 Victor A. McKusick Leadership Award Introduction: David Valle1.
+2014 Presidential Address: The Time of Our Lives1.
+2014 Victor A. McKusick Leadership Award1.
+Mutations in PNKP Cause Recessive Ataxia with Oculomotor Apraxia Type 4.
+De Novo Mutations in NALCN Cause a Syndrome Characterized by Congenital Contractures of the Limbs and Face, Hypotonia, and Developmental Delay.
+Cole-Carpenter Syndrome Is Caused by a Heterozygous Missense Mutation in P4HB.
+This Month in Genetics.
+Characterization of Large Structural Genetic Mosaicism in Human Autosomes.
+2014 Curt Stern Award: Adventures in Human Genetics1.
+2014 ASHG Awards and Addresses.
+Absence of BiP Co-chaperone DNAJC3 Causes Diabetes Mellitus and Multisystemic Neurodegeneration.
+2014 Curt Stern Award Introduction: Mark Daly1.
+Identification of Functional Variants for Cleft Lip with or without Cleft Palate in or near PAX7, FGFR2, and NOG by Targeted Sequencing of GWAS Loci.
+Dominant Mutations in KAT6A Cause Intellectual Disability with Recognizable Syndromic Features.
+2014 Curt Stern Award Introduction: Gonçalo Abecasis1.
+Adjusting for Heritable Covariates Can Bias Effect Estimates in Genome-Wide Association Studies.
+Joint Analysis of Psychiatric Disorders Increases Accuracy of Risk Prediction for Schizophrenia, Bipolar Disorder, and Major Depressive Disorder.
+This Month in The Journal.
+TFIIH Subunit Alterations Causing Xeroderma Pigmentosum and Trichothiodystrophy Specifically Disturb Several Steps during Transcription.
+Gene Expression in Transformed Lymphocytes Reveals Variation in Endomembrane and HLA Pathways Modifying Cystic Fibrosis Pulmonary Phenotypes.
+A Recurrent Mutation in PARK2 Is Associated with Familial Lung Cancer.
+A Specific IFIH1 Gain-of-Function Mutation Causes Singleton-Merten Syndrome.
+Keppen-Lubinsky Syndrome Is Caused by Mutations in the Inwardly Rectifying K+ Channel Encoded by KCNJ6.
+Mouse and Human CRKL Is Dosage Sensitive for Cardiac Outflow Tract Formation.
+CLPB Mutations Cause 3-Methylglutaconic Aciduria, Progressive Brain Atrophy, Intellectual Disability, Congenital Neutropenia, Cataracts, Movement Disorder.
+Estimates of Continental Ancestry Vary Widely among Individuals with the Same mtDNA Haplogroup.
+UBE2L3 Polymorphism Amplifies NF-κB Activation and Promotes Plasma Cell Development, Linking Linear Ubiquitination to Multiple Autoimmune Diseases.
+Next-Generation Sequencing of Duplication CNVs Reveals that Most Are Tandem and Some Create Fusion Genes at Breakpoints.
+This Month in Genetics.
+COQ4 Mutations Cause a Broad Spectrum of Mitochondrial Disorders Associated with CoQ10 Deficiency.
+CLPB Variants Associated with Autosomal-Recessive Mitochondrial Disorder with Cataract, Neutropenia, Epilepsy, and Methylglutaconic Aciduria.
+Mutations in DDX58, which Encodes RIG-I, Cause Atypical Singleton-Merten Syndrome.
+Fine-Scale Mapping of the 5q11.2 Breast Cancer Locus Reveals at Least Three Independent Risk Variants Regulating MAP3K1.
+Meta-analysis of Correlated Traits via Summary Statistics from GWASs with an Application in Hypertension.
+Genome-wide Comparative Analysis of Atopic Dermatitis and Psoriasis Gives Insight into Opposing Genetic Mechanisms.
+Defects of CRB2 Cause Steroid-Resistant Nephrotic Syndrome.
+Recessive Mutations in COL25A1 Are a Cause of Congenital Cranial Dysinnervation Disorder.
+CRB2 Mutations Produce a Phenotype Resembling Congenital Nephrosis, Finnish Type, with Cerebral Ventriculomegaly and Raised Alpha-Fetoprotein.
+Improvement of SMN2 Pre-mRNA Processing Mediated by Exon-Specific U1 Small Nuclear RNA.
+The Genetic Ancestry of African Americans, Latinos, and European Americans across the United States.
+This Month in The Journal.
+Mutations Affecting the SAND Domain of DEAF1 Cause Intellectual Disability with Severe Speech Impairment and Behavioral Problems.
+MAT2A Mutations Predispose Individuals to Thoracic Aortic Aneurysms.
+Biased Allelic Expression in Human Primary Fibroblast Single Cells.
+HLA-DPB1 and HLA Class I Confer Risk of and Protection from Narcolepsy.
+DCDC2 Mutations Cause a Renal-Hepatic Ciliopathy by Disrupting Wnt Signaling.
+CODAS Syndrome Is Associated with Mutations of LONP1, Encoding Mitochondrial AAA+ Lon Protease.
+This Month in Genetics.

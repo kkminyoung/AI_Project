@@ -1,0 +1,45 @@
+MN1–Fli1 oncofusion transforms murine hematopoietic progenitor cells into acute megakaryoblastic leukemia cells.
+CancerNet: a database for decoding multilevel molecular interactions across diverse cancer types.
+Chloroquine alleviates etoposide-induced centrosome amplification by inhibiting CDK2 in adrenocortical tumor cells.
+TERT promoter mutations and monoallelic activation of TERT in cancer.
+A positive feedback loop between Gli1 and tyrosine kinase Hck amplifies shh signaling activities in medulloblastoma.
+Prognostic significance of Versican expression in gastric adenocarcinoma.
+Targeting self-renewal pathways in cancer stem cells: clinical implications for cancer therapy.
+Multiple region whole-exome sequencing reveals dramatically evolving intratumor genomic heterogeneity in esophageal squamous cell carcinoma.
+A novel BRD4-NUT fusion in an undifferentiated sinonasal tumor highlights alternative splicing as a contributing oncogenic factor in NUT midline carcinoma.
+TIFA, an inflammatory signaling adaptor, is tumor suppressive for liver cancer.
+Nodes-and-connections RNAi knockdown screening: identification of a signaling molecule network involved in fulvestrant action and breast cancer prognosis.
+Epstein–Barr virus LMP1 induces focal adhesions and epithelial cell migration through effects on integrin-α5 and N-cadherin.
+MiR expression profiles of paired primary colorectal cancer and metastases by next-generation sequencing.
+PIK3CA mutations can initiate pancreatic tumorigenesis and are targetable with PI3K inhibitors.
+Regulation of triple-negative breast cancer cell metastasis by the tumor-suppressor liver kinase B1.
+Forkhead box K2 modulates epirubicin and paclitaxel sensitivity through FOXO3a in breast cancer.
+FOXO1 inhibits osteosarcoma oncogenesis via Wnt/β-catenin pathway suppression.
+Stiff substrates increase YAP-signaling-mediated matrix metalloproteinase-7 expression.
+Diacylglycerol kinase-ζ regulates mTORC1 and lipogenic metabolism in cancer cells through SREBP-1.
+Urothelial cells undergo epithelial-to-mesenchymal transition after exposure to muscle invasive bladder cancer exosomes.
+SPINK1 promotes colorectal cancer progression by downregulating Metallothioneins expression.
+Combined transcriptome studies identify AFF3 as a mediator of the oncogenic effects of β-catenin in adrenocortical carcinoma.
+Atlas of Cancer Signalling Network: a systems biology resource for integrative analysis of cancer data with Google Maps.
+Metformin induces ER stress-dependent apoptosis through miR-708-5p/NNAT pathway in prostate cancer.
+An aberrant nuclear localization of E-cadherin is a potent inhibitor of Wnt/β-catenin-elicited promotion of the cancer stem cell phenotype.
+Human dCTP pyrophosphatase 1 promotes breast cancer cell growth and stemness through the modulation on 5-methyl-dCTP metabolism and global hypomethylation.
+Kruppel-like factor 4 signals through microRNA-206 to promote tumor initiation and cell survival.
+The phosphorylated prodrug FTY720 is a histone deacetylase inhibitor that reactivates ERα expression and enhances hormonal therapy for breast cancer.
+Mutations of the functional ARH1 allele in tumors from ARH1 heterozygous mice and cells affect ARH1 catalytic activity, cell proliferation and tumorigenesis.
+Regulation of lipid synthesis by the RNA helicase Mov10 controls Wnt5a production.
+Compensatory angiogenesis and tumor refractoriness.
+Real-time and simultaneous monitoring of the phosphorylation and enhanced interaction of p53 and XPC acidic domains with the TFIIH p62 subunit.
+Nuclear accumulation of CDH1 mRNA in hepatocellular carcinoma cells.
+Endothelial Caveolin-1 regulates the radiation response of epithelial prostate tumors.
+The oncogenic role of the cochaperone Sgt1.
+Prediction of recurrence-free survival using a protein expression-based risk classifier for head and neck cancer.
+RUNX1/ETO blocks selectin-mediated adhesion via epigenetic silencing of PSGL-1.
+Inhibiting phosphorylation of the oncogenic PAX3-FOXO1 reduces alveolar rhabdomyosarcoma phenotypes identifying novel therapy options.
+Rap1 is indispensable for TRF2 function in etoposide-induced DNA damage response in gastric cancer cell line.
+DACH1 inhibits SNAI1-mediated epithelial–mesenchymal transition and represses breast carcinoma metastasis.
+MUTYH, an adenine DNA glycosylase, mediates p53 tumor suppression via PARP-dependent cell death.
+Cellular memory of hypoxia elicits neuroblastoma metastasis and enables invasion by non-aggressive neighbouring cells.
+Histone acetyltransferase inhibitors block neuroblastoma cell growth in vivo.
+Circulating APRIL levels are correlated with advanced disease and prognosis in rectal cancer patients.
+An internal ribosome entry site in the 5′ untranslated region of epidermal growth factor receptor allows hypoxic expression.

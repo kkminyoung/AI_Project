@@ -1,0 +1,31 @@
+Interpretation and approximation tools for big, dense Markov chain transition matrices in population genetics.
+HIA: a genome mapper using hybrid index-based sequence alignment.
+Designing minimal microbial strains of desired functionality using a genetic algorithm.
+A reconstruction problem for a class of phylogenetic networks with lateral gene transfers.
+A polynomial time algorithm for computing the area under a GDT curve.
+Instability in progressive multiple sequence alignment algorithms.
+Erratum to: Inferring interaction type in gene regulatory networks using co-expression data.
+A multiobjective approach for identifying protein complexes and studying their association in multiple disorders.
+Inferring interaction type in gene regulatory networks using co-expression data.
+Pareto optimization in algebraic dynamic programming.
+Detecting conserved protein complexes using a dividing-and-matching algorithm and unequally lenient criteria for network comparison.
+A polynomial delay algorithm for the enumeration of bubbles with length constraints in directed graphs.
+Fair evaluation of global network aligners.
+GAML: genome assembly by maximum likelihood.
+An online peak extraction algorithm for ion mobility spectrometry data.
+A graph modification approach for finding core–periphery structures in protein interaction networks.
+Algorithms for detecting and analysing autocatalytic sets.
+A novel method for identifying disease associated protein complexes based on functional similarity protein complex networks.
+On the family-free DCJ distance and similarity.
+Sorting signed permutations by short operations.
+A virtual pebble game to ensemble average graph rigidity.
+A simple data-adaptive probabilistic variant calling model.
+Protein docking with predicted constraints.
+MoDock: A multi-objective strategy improves the accuracy for molecular docking.
+Algorithmic approaches to protein-protein interaction site prediction.
+An integrative approach for a network based meta-analysis of viral RNAi screens.
+Estimating evolutionary distances between genomic sequences from spaced-word matches.
+Clustering of reads with alignment-free measures and quality values.
+EUCALYPT: efficient tree reconciliation enumerator.
+A two-phase binning algorithm using l-mer frequency on groups of non-overlapping reads.
+Double and multiple knockout simulations for genome-scale metabolic network reconstructions.

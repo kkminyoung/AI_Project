@@ -1,0 +1,36 @@
+Consequences of Common Topological Rearrangements for Partition Trees in Phylogenomic Inference.
+Bayesian Inference for Duplication–Mutation with Complementarity Network Models.
+Biological Data Analysis as an Information Theory Problem: Multivariable Dependence Measures and the Shadows Algorithm.
+Comparison of Analytic Methods for Quantitative Real-Time Polymerase Chain Reaction Data.
+A Method for Determining Taxonomical Contributions to Group Differences in Microbiomic Investigations.
+Application of Subspace Clustering in DNA Sequence Analysis.
+Defining the Domain Arrangement of the Mammalian Target of Rapamycin Complex Component Rictor Protein.
+Computational Analysis of SAXS Data Acquisition.
+Accurate Prediction of Docked Protein Structure Similarity.
+Multiresolution Topological Simplification.
+Discovering What Dimensionality Reduction Really Tells Us About RNA-Seq Data.
+Modified SuperCurve Method for Analysis of Reverse-Phase Protein Array Data.
+Gene–Gene Interactions Detection Using a Two-stage Model.
+Learning Sequence Determinants of Protein:Protein Interaction Specificity with Sparse Graphical Models.
+Reconstructing Breakage Fusion Bridge Architectures Using Noisy Copy Numbers.
+Data Imputation in Epistatic MAPs by Network-Guided Matrix Completion.
+dipSPAdes: Assembler for Highly Polymorphic Diploid Genomes.
+Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data.
+A Spatial Haplotype Copying Model with Applications to Genotype Imputation.
+A Geometric Clustering Algorithm with Applications to Structural Data.
+The Generating Function Approach for Peptide Identification in Spectral Networks.
+Building a Pan-Genome Reference for a Population.
+PASTA: Ultra-Large Multiple Sequence Alignment for Nucleotide and Amino-Acid Sequences.
+CSAX: Characterizing Systematic Anomalies in eXpression Data.
+Disease Gene Prioritization Using Network and Feature.
+A Scalable Method for Molecular Network Reconstruction Identifies Properties of Targets and Mutations in Acute Myeloid Leukemia.
+Inferring Genome-Wide Functional Modulatory Network: A Case Study on NF-κB/RelA Transcription Factor.
+cDREM: Inferring Dynamic Combinatorial Gene Regulation.
+A Stationary Wavelet Entropy-Based Clustering Approach Accurately Predicts Gene Expression.
+Fast, Approximate Kinetics of RNA Folding.
+Finding Genetic Overlaps Among Diseases Based on Ranked Gene Lists.
+Computing Smallest Intervention Strategies for Multiple Metabolic Networks in a Boolean Model.
+DIME: A Novel Framework for De Novo Metagenomic Sequence Assembly.
+A Simulation Approach for Change-Points on Phylogenetic Trees.
+Principal Component Analysis of Binding Energies for Single-Point Mutants of hT2R16 Bound to an Agonist Correlate with Experimental Mutant Cell Response.
+Probabilistic Generation of Random Networks Taking into Account Information on Motifs Occurrence.

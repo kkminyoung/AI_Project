@@ -1,0 +1,50 @@
+Computational analysis of protein interaction networks for infectious diseases.
+Systematic dissection of dysregulated transcription factor–miRNA feed-forward loops across tumor types.
+Progress and challenges in bioinformatics approaches for enhancer identification.
+Evaluation of preprocessing, mapping and postprocessing algorithms for analyzing whole genome bisulfite sequencing data.
+Towards improved genome-scale metabolic network reconstructions: unification, transcript specificity and beyond.
+In the loop: promoter–enhancer interactions and bioinformatics.
+Comparative study of joint analysis of microarray gene expression data in survival prediction and risk assessment of breast cancer patients.
+Interpreting functional effects of coding variants: challenges in proteome-scale prediction, annotation and assessment.
+Pathway Tools version 19.0 update: software for pathway/genome informatics and systems biology.
+Public data and open source tools for multi-assay genomic investigation of disease.
+Statistical methods for detecting differentially methylated regions based on MethylCap-seq data.
+MST2-RASSF protein–protein interactions through SARAH domains.
+The digital revolution in phenotyping.
+Recent Advances and Emerging Applications in Text and Data Mining for Biomedical Discovery.
+Collaborative science in the next-generation sequencing era: a viewpoint on how to combine exome sequencing data across sites to identify novel disease susceptibility genes.
+Gene set analysis approaches for RNA-seq data: performance evaluation and application guideline.
+Comparison of haplotype-based statistical tests for disease association with rare and common variants.
+Systems medicine of inflammaging.
+Advances in computational approaches for prioritizing driver mutations and significantly mutated genes in cancer genomes.
+Algorithms for modeling global and context-specific functional relationship networks.
+Mitochondria sequence mapping strategies and practicability of mitochondria variant detection from exome and RNA sequencing data.
+Reasoning over genetic variance information in cause-and-effect models of neurodegenerative diseases.
+Normalization of circulating microRNA expression data obtained by quantitative real-time RT-PCR.
+A literature mining-based approach for identification of cellular pathways associated with chemoresistance in cancer.
+Evaluation of somatic copy number estimation tools for whole-exome sequencing data.
+VCF-Miner: GUI-based application for mining variants and annotations stored in VCF files.
+Empirical comparison of structure-based pathway methods.
+Critical evaluation of in silico methods for prediction of coiled-coil domains in proteins.
+Improving protein identification from tandem mass spectrometry data by one-step methods and integrating data from other platforms.
+Using prior knowledge from cellular pathways and molecular networks for diagnostic specimen classification.
+A roadmap to multifactor dimensionality reduction methods.
+Building a virtual ligand screening pipeline using free software: a survey.
+Microbial bioinformatics for food safety and production.
+Revealing protein–lncRNA interaction.
+Denoising DNA deep sequencing data—high-throughput sequencing errors and their correction.
+Progress and challenges in predicting protein interfaces.
+Community challenges in biomedical text mining over 10 years: success, failure and the future.
+Crowdsourcing in biomedicine: challenges and opportunities.
+Optimization of miRNA-seq data preprocessing.
+The role of ontologies in biological and biomedical research: a functional perspective.
+A survey of current trends in computational drug repositioning.
+Molecular portraits: the evolution of the concept of transcriptome-based cancer signatures.
+Adapting bioinformatics curricula for big data.
+Assessing the consistency of public human tissue RNA-seq data sets.
+Predicting protein interface residues using easily accessible on-line resources.
+Evaluation of a two-stage framework for prediction using big genomic data.
+A comparative study of RNA-seq analysis strategies.
+Environmental genes and genomes: understanding the differences and challenges in the approaches and software for their analyses.
+The complexity, challenges and benefits of comparing two transporter classification systems in TCDB and Pfam.
+Detecting associations of rare variants with common diseases: collapsing or haplotyping?

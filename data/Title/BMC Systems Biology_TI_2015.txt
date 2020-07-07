@@ -1,0 +1,132 @@
+A synthetic mammalian network to compute population borders based on engineered reciprocal cell-cell communication.
+Scope and limitations of yeast as a model organism for studying human tissue-specific pathways.
+JigCell Run Manager (JC-RM): a tool for managing large sets of biochemical model parametrizations.
+PROXIMAL: a method for Prediction of Xenobiotic Metabolism.
+FlexFlux: combining metabolic flux and regulatory network analyses.
+A simple method for identifying parameter correlations in partially observed linear dynamic models.
+Identification of network-based biomarkers of cardioembolic stroke using a systems biology approach with time series data.
+Disentangling the multigenic and pleiotropic nature of molecular function.
+A model for gene deregulation detection using expression data.
+Constructing a molecular interaction network for thyroid cancer via large-scale text mining of gene and pathway events.
+Functional redundancy of transcription factors explains why most binding targets of a transcription factor are not affected when the transcription factor is knocked out.
+YAGM: a web tool for mining associated genes in yeast based on diverse biological associations.
+A cell size- and cell cycle-aware stochastic model for predicting time-dynamic gene network activity in individual cells.
+Cellular automaton-based model for radiation-induced bystander effects.
+Tracing regulatory routes in metabolism using generalised supply-demand analysis.
+The relationship between stochastic and deterministic quasi-steady state approximations.
+Resource constrained flux balance analysis predicts selective pressure on the global structure of metabolic networks.
+A global sensitivity analysis approach for morphogenesis models.
+Tip cell overtaking occurs as a side effect of sprouting in computational models of angiogenesis.
+Pathobiochemical signatures of cholestatic liver disease in bile duct ligated mice.
+Reconstruction of gene networks using prior knowledge.
+Differential variability and correlation of gene expression identifies key genes involved in neuronal differentiation.
+Analyzing Th17 cell differentiation dynamics using a novel integrative modeling framework for time-course RNA sequencing data.
+Integrating transcriptional and protein interaction networks to prioritize condition-specific master regulators.
+In silico evaluation and exploration of antibiotic tuberculosis treatment regimens.
+Mining for novel candidate clock genes in the circadian regulatory network.
+Deciphering the signaling mechanisms of the plant cell wall degradation machinery in Aspergillus oryzae.
+Bayesian modeling suggests that IL-12 (p40), IL-13 and MCP-1 drive murine cytokine networks in vivo.
+A multi-omic analysis of human naïve CD4+ T cells.
+Flux-sum analysis identifies metabolite targets for strain improvement.
+Robust and efficient parameter estimation in dynamic models of biological systems.
+Optimization of lipid production with a genome-scale model of Yarrowia lipolytica.
+Systems analysis of non-parenchymal cell modulation of liver repair across multiple regeneration modes.
+Conditional robustness analysis for fragility discovery and target identification in biochemical networks and in cancer systems biology.
+Mathematical analysis of the regulation of competing methyltransferases.
+SBMLsqueezer 2: context-sensitive creation of kinetic equations in biochemical networks.
+Solution of the chemical master equation by radial basis functions approximation with interface tracking.
+Towards in vivo estimation of reaction kinetics using high-throughput metabolomics data: a maximum likelihood approach.
+Clustering reveals limits of parameter identifiability in multi-parameter models of biochemical dynamics.
+Impact of kinetic isotope effects in isotopic studies of metabolic systems.
+Analysis of a spatial gene expression database for sea anemone Nematostella vectensis during early development.
+Incorporating prior knowledge improves detection of differences in bacterial growth rate.
+Inference of spatiotemporal effects on cellular state transitions from time-lapse microscopy.
+Integrating genetics and epigenetics in breast cancer: biological insights, experimental, computational methods and therapeutic potential.
+Exploring causal networks underlying fat deposition and muscularity in pigs through the integration of phenotypic, genotypic and transcriptomic data.
+Systematic synergy modeling: understanding drug synergy from a systems biology perspective.
+Metabolic modeling predicts metabolite changes in Mycobacterium tuberculosis.
+Bacterial social interactions drive the emergence of differential spatial colony structures.
+Inferring microbial interaction network from microbiome data using RMN algorithm.
+Dysregulation of the vascular endothelial growth factor and semaphorin ligand-receptor families in prostate cancer metastasis.
+Nonlinear mixed-effects modelling for single cell estimation: when, why, and how to use it.
+A correction method for systematic error in 1H-NMR time-course data validated through stochastic cell culture simulation.
+The wright stuff: reimagining path analysis reveals novel components of the sex determination hierarchy in drosophila melanogaster.
+Kidney segmentation in CT sequences using SKFCM and improved GrowCut algorithm.
+Evaluating a common semi-mechanistic mathematical model of gene-regulatory networks.
+Connectivity mapping using a combined gene signature from multiple colorectal cancer datasets identified candidate drugs including existing chemotherapies.
+An empirical study of ensemble-based semi-supervised learning approaches for imbalanced splice site datasets.
+Structural neighboring property for identifying protein-protein binding sites.
+Erratum to: ppiPre: predicting protein-protein interactions by combining heterogeneous features.
+A tree-like Bayesian structure learning algorithm for small-sample datasets from complex biological model systems.
+An algorithm for the reduction of genome-scale metabolic network models to meaningful core models.
+Computational modeling of sphingolipid metabolism.
+DeDaL: Cytoscape 3 app for producing and morphing data-driven and structure-driven network layouts.
+The organization of domains in proteins obeys Menzerath-Altmann’s law of language.
+Stochastic simulation of Boolean rxncon models: towards quantitative analysis of large signaling networks.
+Genome-scale metabolic model of Rhodococcus jostii RHA1 (iMT1174) to study the accumulation of storage compounds during nitrogen-limited condition.
+Complex regulation of Hsf1-Skn7 activities by the catalytic subunits of PKA in Saccharomyces cerevisiae: experimental and computational evidences.
+Regulation of ERK-MAPK signaling in human epidermis.
+The gastrin and cholecystokinin receptors mediated signaling network: a scaffold for data analysis and new hypotheses on regulatory mechanisms.
+Logical-continuous modelling of post-translationally regulated bistability of curli fiber expression in Escherichia coli.
+Estimating cell diffusivity and cell proliferation rate by interpreting IncuCyte ZOOM™ assay data using the Fisher-Kolmogorov model.
+Identification of putative drug targets for human sperm-egg interaction defect using protein network approach.
+Systems biology surveillance decrypts pathological transcriptome remodeling.
+Finding directionality and gene-disease predictions in disease associations.
+SEEK: a systems biology data and model management platform.
+CytoASP: a Cytoscape app for qualitative consistency reasoning, prediction and repair in biological networks.
+Validation and selection of ODE based systems biology models: how to arrive at more reliable decisions.
+Genome-scale resources for Thermoanaerobacterium saccharolyticum.
+Domain-specific model selection for structural identification of the Rab5-Rab7 dynamics in endocytosis.
+Distinguishing the rates of gene activation from phenotypic variations.
+From ERα66 to ERα36: a generic method for validating a prognosis marker of breast tumor progression.
+A weighted and integrated drug-target interactome: drug repurposing for schizophrenia as a use case.
+Predicting and exploring network components involved in pathogenesis in the malaria parasite via novel subnetwork alignments.
+CD8 + T cell response to adenovirusvaccination and subsequent suppression of tumor growth: modeling, simulation and analysis.
+Dynamics of the discovery process of protein-protein interactions from low content studies.
+Gene network analysis shows immune-signaling and ERK1/2 as novel genetic markers for multiple addiction phenotypes: alcohol, smoking and opioid addiction.
+Uncovering distinct protein-network topologies in heterogeneous cell populations.
+Increased robustness of early embryogenesis through collective decision-making by key transcription factors.
+DT-Web: a web-based application for drug-target interaction and drug combination prediction through domain-tuned network-based inference.
+A knowledge base for Vitis vinifera functional analysis.
+Modelling the effects of cell-to-cell variability on the output of interconnected gene networks in bacterial populations.
+Single-molecule modeling of mRNA degradation by miRNA: Lessons from data.
+Modelling non-Markovian dynamics in biochemical reactions.
+A renewal model for the emergence of anomalous solute crowding in liposomes.
+A versatile mathematical work-flow to explore how Cancer Stem Cell fate influences tumor progression.
+The hierarchical organization of natural protein interaction networks confers self-organization properties on pseudocells.
+Finding the positive feedback loops underlying multi-stationarity.
+Urothelial cancer gene regulatory networks inferred from large-scale RNAseq, Bead and Oligo gene expression data.
+Reshaping the epigenetic landscape during early flower development: induction of attractor transitions by relative differences in gene decay rates.
+Iron acquisition and oxidative stress response in aspergillus fumigatus.
+Molecular association of pathogenetic contributors to pre-eclampsia (pre-eclampsia associome).
+ANDSystem: an Associative Network Discovery System for automated literature mining in the field of biology.
+Bicluster Sampled Coherence Metric (BSCM) provides an accurate environmental context for phenotype predictions.
+KPP: KEGG Pathway Painter.
+Predicting internal cell fluxes at sub-optimal growth.
+Robust network structure of the Sln1-Ypd1-Ssk1 three-component phospho-relay prevents unintended activation of the HOG MAPK pathway in Saccharomyces cerevisiae.
+Effects of promoter leakage on dynamics of gene expression.
+Spatially-resolved metabolic cooperativity within dense bacterial colonies.
+Genomic data assimilation using a higher moment filtering technique for restoration of gene regulatory networks.
+Identification of AMP-activated protein kinase targets by a consensus sequence search of the proteome.
+Evolutionary tradeoffs, Pareto optimality and the morphology of ammonite shells.
+Time-dependent variation of pathways and networks in a 24-hour window after cerebral ischemia-reperfusion injury.
+A computational model of PKD and CERT interactions at the trans-Golgi network of mammalian cells.
+Mimoza: web-based semantic zooming and navigation in metabolic networks.
+BioPreDyn-bench: a suite of benchmark problems for dynamic modelling in systems biology.
+Annual acknowledgement of reviewers.
+Fluxome study of Pseudomonas fluorescens reveals major reorganisation of carbon flux through central metabolic pathways in response to inactivation of the anti-sigma factor MucA.
+Discovery of substrate cycles in large scale metabolic networks using hierarchical modularity.
+microRNAs’ differential regulations mediate the progress of Human Papillomavirus (HPV)-induced Cervical Intraepithelial Neoplasia (CIN).
+Identifying DNA-binding proteins by combining support vector machine and PSSM distance transformation.
+Positive regulation of Rho GTPase activity by RhoGDIs as a result of their direct interaction with GAPs.
+Protein functional properties prediction in sparsely-label PPI networks through regularized non-negative matrix factorization.
+Investigating the utility of clinical outcome-guided mutual information network in network-based Cox regression.
+Accurate multiple network alignment through context-sensitive random walk.
+Protein-protein docking on hardware accelerators: comparison of GPU and MIC architectures.
+Transcription factor and microRNA-regulated network motifs for cancer and signal transduction networks.
+Computational cell fate modelling for discovery of rewiring in apoptotic network for enhanced cancer drug sensitivity.
+Integrating multiple networks for protein function prediction.
+Predicting target-ligand interactions using protein ligand-binding site and ligand substructures.
+cisPath: an R/Bioconductor package for cloud users for visualization and management of functional protein interaction networks.
+Prediction of signaling cross-talks contributing to acquired drug resistance in breast cancer cells by Bayesian statistical modeling.
+Reconstruction and analysis of a genome-scale metabolic model of the oleaginous fungus Mortierella alpina.

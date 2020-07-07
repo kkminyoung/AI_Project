@@ -1,0 +1,1496 @@
+ConBind: motif-aware cross-species alignment for the identification of functional transcription factor binding sites.
+Hepatoma-derived growth factor-related protein 2 promotes DNA repair by homologous recombination.
+Multisite-specific archaeosine tRNA-guanine transglycosylase (ArcTGT) from Thermoplasma acidophilum, a thermo-acidophilic archaeon.
+Dynamics and recognition within a protein–DNA complex: a molecular dynamics study of the SKN-1/DNA interaction.
+Shade avoidance 6 encodes an Arabidopsis flap endonuclease required for maintenance of genome integrity and development.
+The cellular growth rate controls overall mRNA turnover, and modulates either transcription or degradation rates of particular gene regulons.
+Sliding of a 43S ribosomal complex from the recognized AUG codon triggered by a delay in eIF2-bound GTP hydrolysis.
+The first crystal structures of RNA–PNA duplexes and a PNA-PNA duplex containing mismatches—toward anti-sense therapy against TREDs.
+The RNA-binding protein LARP1 is a post-transcriptional regulator of survival and tumorigenesis in ovarian cancer.
+The use of modified and non-natural nucleotides provide unique insights into pro-mutagenic replication catalyzed by polymerase eta.
+Epigenome-wide effects of vitamin D and their impact on the transcriptome of human monocytes involve CTCF.
+Structure of the hypusinylated eukaryotic translation factor eIF-5A bound to the ribosome.
+Nucleic Acids Research: VOLUME 44 DATABASE ISSUE JANUARY 4 2016.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+The 2016 database issue of Nucleic Acids Research and an updated molecular biology database collection.
+Nuclear factor 90 uses an ADAR2-like binding mode to recognize specific bases in dsRNA.
+Phosphorylation of Ku dictates DNA double-strand break (DSB) repair pathway choice in S phase.
+TCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data.
+Dicer interacts with SIRT7 and regulates H3K18 deacetylation in response to DNA damaging agents.
+Involvement of condensin-directed gene associations in the organization and regulation of chromosome territories during the cell cycle.
+Evidence for a non-canonical role of HDAC5 in regulation of the cardiac Ncx1 and Bnp genes.
+TopDom: an efficient and deterministic method for identifying topological domains in genomes.
+Integrating gene synthesis and microfluidic protein analysis for rapid protein engineering.
+Standardizing chromatin research: a simple and universal method for ChIP-seq.
+Enhanced sequencing coverage with digital droplet multiple displacement amplification.
+ChIP-BIT: Bayesian inference of target genes using a novel joint probabilistic model of ChIP-seq profiles.
+Effects of tRNA modification on translational accuracy depend on intrinsic codon–anticodon strength.
+A genome landscape of SRSF3-regulated splicing events and gene expression in human osteosarcoma U2OS cells.
+PARP-2 domain requirements for DNA damage-dependent activation and localization to sites of DNA damage.
+The crystal structure of yeast mitochondrial ThrRS in complex with the canonical threonine tRNA.
+Coexistence of coil and globule domains within a single confined DNA chain.
+Precision methylome characterization of Mycobacterium tuberculosis complex (MTBC) using PacBio single-molecule real-time (SMRT) technology.
+Periodic-shRNA molecules are capable of gene silencing, cytotoxicity and innate immune activation in cancer cells.
+OxyR-dependent formation of DNA methylation patterns in OpvABOFF and OpvABON cell lineages of Salmonella enterica.
+Controlled DNA double-strand break induction in mice reveals post-damage transcriptome stability.
+SimRNA: a coarse-grained method for RNA folding simulations and 3D structure prediction.
+Temporal dynamics of methyltransferase and restriction endonuclease accumulation in individual cells after introducing a restriction-modification system.
+Ensembl 2016.
+Genome-wide analysis reveals NRP1 as a direct HIF1α-E2F7 target in the regulation of motorneuron guidance in vivo.
+Transcriptional regulatory networks in Arabidopsis thaliana during single and combined stresses.
+Endoplasmic reticulum stress increases AT1R mRNA expression via TIA-1-dependent mechanism.
+Locking-to-unlocking system is an efficient strategy to design DNA/silver nanoclusters (AgNCs) probe for human miRNAs.
+The spliceosome-associated protein Nrl1 suppresses homologous recombination-dependent R-loop formation in fission yeast.
+Binding of transcription factor GabR to DNA requires recognition of DNA shape at a location distinct from its cognate binding site.
+Biogenesis and growth phase-dependent alteration of 5-methoxycarbonylmethoxyuridine in tRNA anticodons.
+piggyBac transposons expressing full-length human dystrophin enable genetic correction of dystrophic mesoangioblasts.
+Cancer-predisposition gene KLLN maintains pericentric H3K9 trimethylation protecting genomic stability.
+Dynamic recruitment of Ets1 to both nucleosome-occupied and -depleted enhancer regions mediates a transcriptional program switch during early T-cell differentiation.
+The Arabidopsis homologs of trithorax (ATX1) and enhancer of zeste (CLF) establish ‘bivalent chromatin marks’ at the silent AGAMOUS locus.
+A comprehensive comparison of general RNA–RNA interaction prediction methods.
+A transcription-independent epigenetic mechanism is associated with antigenic switching in Trypanosoma brucei.
+Directing an artificial zinc finger protein to new targets by fusion to a non-DNA-binding domain.
+The histone chaperone sNASP binds a conserved peptide motif within the globular core of histone H3 through its TPR repeats.
+Differential contribution of cis-regulatory elements to higher order chromatin structure and expression of the CFTR locus.
+Transcriptional, post-transcriptional and chromatin-associated regulation of pri-miRNAs, pre-miRNAs and moRNAs.
+The de-ubiquitylating enzymes USP26 and USP37 regulate homologous recombination by counteracting RAP80.
+Single molecule detection of PARP1 and PARP2 interaction with DNA strand breaks and their poly(ADP-ribosyl)ation using high-resolution AFM imaging.
+A mass spectrometry-based method for direct determination of pseudouridine in RNA.
+Conservative site-specific and single-copy transgenesis in human LINE-1 elements.
+Synthetic dual-input mammalian genetic circuits enable tunable and stringent transcription control by chemical and light.
+Circularization pathway of a bacterial group II intron.
+The structural diversity of artificial genetic polymers.
+Readers of poly(ADP-ribose): designed to be fit for purpose.
+Structural requirements for protein-catalyzed annealing of U4 and U6 RNAs during di-snRNP assembly.
+Functional dissection of a plant Argonaute.
+Structure and stereochemistry of the base excision repair glycosylase MutY reveal a mechanism similar to retaining glycosidases.
+DNA recognition for virus assembly through multiple sequence-independent interactions with a helix-turn-helix motif.
+Cold-inducible RNA-binding protein CIRP/hnRNP A18 regulates telomerase activity in a temperature-dependent manner.
+Different duplex/quadruplex junctions determine the properties of anti-thrombin aptamers with mixed folding.
+A novel RNA-binding mode of the YTH domain reveals the mechanism for recognition of determinant of selective removal by Mmi1.
+Structural and functional insights into tRNA binding and adenosine N1-methylation by an archaeal Trm10 homologue.
+G-quadruplexes with (4n - 1) guanines in the G-tetrad core: formation of a G-triad·water complex and implication for small-molecule binding.
+MethylAction: detecting differentially methylated regions that distinguish biological subtypes.
+Cap homeostasis is independent of poly(A) tail length.
+MMB-GUI: a fast morphing method demonstrates a possible ribosomal tRNA translocation trajectory.
+L1 retrotransposition requires rapid ORF1p oligomerization, a novel coiled coil-dependent property conserved despite extensive remodeling.
+A human transcription factor in search mode.
+The European Bioinformatics Institute in 2016: Data growth and integration.
+The Pfam protein families database: towards a more sustainable future.
+GtRNAdb 2.0: an expanded database of transfer RNA genes identified in complete and draft genomes.
+canSAR: an updated cancer research and drug discovery knowledgebase.
+Nucleic Acids Research: VOLUME 43 ISSUE 22 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Quantification of transcription factor-DNA binding affinity in a living cell.
+Integrin α4β1 controls G9a activity that regulates epigenetic changes and nuclear properties required for lymphocyte migration.
+Comparison of circular RNA prediction tools.
+Assays for DNA double-strand break repair by microhomology-based end-joining repair mechanisms.
+Improved methods of AAV-mediated gene targeting for human cell lines using ribosome-skipping 2A peptide.
+Chemo-enzymatic synthesis of site-specific isotopically labeled nucleotides for use in NMR resonance assignment, dynamics and structural characterizations.
+Exchange between Escherichia coli polymerases II and III on a processivity clamp.
+Circular RNAs are long-lived and display only minimal early alterations in response to a growth factor.
+Targeted cross-linking-mass spectrometry determines vicinal interactomes within heterogeneous RNP complexes.
+Human polypyrimidine tract-binding protein interacts with mitochondrial tRNAThr in the cytosol.
+Taking a molecular motor for a spin: helicase mechanism studied by spin labeling and PELDOR.
+Concerted removal of the Erb1–Ytm1 complex in ribosome biogenesis relies on an elaborate interface.
+Temperature dependent mistranslation in a hyperthermophile adapts proteins to lower temperatures.
+B′-protein phosphatase 2A is a functional binding partner of delta-retroviral integrase.
+A DNAzyme requiring two different metal ions at two distinct sites.
+HaploReg v4: systematic mining of putative causal variants, cell types, regulators and target genes for human complex traits and disease.
+The International Nucleotide Sequence Database Collaboration.
+Editorial: NAR Awards 2015.
+Linc-RoR promotes c-Myc expression through hnRNP I and AUF1.
+A novel role for CARM1 in promoting nonsense-mediated mRNA decay: potential implications for spinal muscular atrophy.
+Natural C-independent expression of restriction endonuclease in a C protein-associated restriction-modification system.
+KRAS promoter oligonucleotide with decoy activity dimerizes into a unique topology consisting of two G-quadruplex units.
+Probing the reactivity of singlet oxygen with purines.
+RNA-seq reveals post-transcriptional regulation of Drosophila insulin-like peptide dilp8 and the neuropeptide-like precursor Nplp2 by the exoribonuclease Pacman/XRN1.
+Dealing with the genetic load in bacterial synthetic biology circuits: convergences with the Ohm's law.
+The Reactome pathway Knowledgebase.
+An updated version of NPIDB includes new classifications of DNA–protein complexes and their families.
+GeneWeaver: data driven alignment of cross-species genomics in biology and disease.
+The MG-RAST metagenomics database and portal in 2015.
+ATP dependent NS3 helicase interaction with RNA: insights from molecular simulations.
+Prioritizing and selecting likely novel miRNAs from NGS data.
+Integrated microfluidic approach for quantitative high-throughput measurements of transcription factor binding affinities.
+The expression of a viral microRNA is regulated by clustering to allow optimal B cell transformation.
+On the role of steric clashes in methylation control of restriction endonuclease activity.
+Systematic identification and annotation of human methylation marks based on bisulfite sequencing methylomes reveals distinct roles of cell type-specific hypomethylation in the regulation of cell identity genes.
+COMBREX-DB: an experiment centered database of protein function: knowledge, predictions and knowledge gaps.
+DriverDBv2: a database for human cancer driver gene research.
+RBP-Var: a database of functional variants involved in regulation mediated by RNA-binding proteins.
+LOOP IIId of the HCV IRES is essential for the structural rearrangement of the 40S-HCV IRES complex.
+Exploded view of higher order G-quadruplex structures through click-chemistry assisted single-molecule mechanical unfolding.
+Bivalent interaction of the PZP domain of BRPF1 with the nucleosome impacts chromatin dynamics and acetylation.
+Automated physics-based design of synthetic riboswitches from diverse RNA aptamers.
+MERAV: a tool for comparing gene expression across human tissues and cell types.
+Where does transcription start? 5′-RACE adapted to next-generation sequencing.
+The long noncoding RNA Gm15055 represses Hoxa gene expression by recruiting PRC2 to the gene cluster.
+Analysis of long-range interactions in primary human cells identifies cooperative CFTR regulatory elements.
+Nucleolar responses to DNA double-strand breaks.
+Folding dynamics and conformational heterogeneity of human telomeric G-quadruplex structures in Na+ solutions by single molecule FRET microscopy.
+Tetramerization and interdomain flexibility of the replication initiation controller YabA enables simultaneous binding to multiple partners.
+StreptomeDB 2.0—an extended resource of natural products produced by streptomycetes.
+GWASdb v2: an update database for human genetic variants identified by genome-wide association studies.
+PDBFlex: exploring flexibility in protein structures.
+EK3D: an E. coli K antigen 3-dimensional structure database.
+Biocuration of functional annotation at the European nucleotide archive.
+The SIB Swiss Institute of Bioinformatics’ resources: focus on curated databases.
+ELM 2016—data update and new functionality of the eukaryotic linear motif resource.
+Database resources of the National Center for Biotechnology Information.
+Substantial DNA methylation differences between two major neuronal subtypes in human brain.
+Regulation of mammalian transcription and splicing by Nuclear RNAi.
+The autoinhibitory CARD2-Hel2i Interface of RIG-I governs RNA selection.
+A general strategy to inhibiting viral −1 frameshifting based on upstream attenuation duplex formation.
+BIGNASim: a NoSQL database structure and analysis portal for nucleic acids simulation data.
+The Dfam database of repetitive DNA families.
+DIANA-LncBase v2: indexing microRNA targets on non-coding transcripts.
+Ribonucleoprotein particles of bacterial small non-coding RNA IsrA (IS61 or McaS) and its interaction with RNA polymerase core may link transcription to mRNA fate.
+Genome-wide analysis of the specificity and mechanisms of replication infidelity driven by imbalanced dNTP pools.
+Functional dichotomy in the 16S rRNA (m1A1408) methyltransferase family and control of catalytic activity via a novel tryptophan mediated loop reorganization.
+The 3D folding of metazoan genomes correlates with the association of similar repetitive elements.
+Effects of cooperation between translating ribosome and RNA polymerase on termination efficiency of the Rho-independent terminator.
+Systematic identification and correction of annotation errors in the genetic interaction map of Saccharomyces cerevisiae.
+Gbp2 interacts with THO/TREX through a novel type of RRM domain.
+Signature motifs of GDP polyribonucleotidyltransferase, a non-segmented negative strand RNA viral mRNA capping enzyme, domain in the L protein are required for covalent enzyme–pRNA intermediate formation.
+TCGASpliceSeq a compendium of alternative mRNA splicing in cancer.
+Aging Chart: a community resource for rapid exploratory pathway analysis of age-related processes.
+Cancer RNA-Seq Nexus: a database of phenotype-specific transcriptome profiling in cancer cells.
+APD3: the antimicrobial peptide database as a tool for research and education.
+PSORTdb: expanding the bacteria and archaea protein subcellular localization database to better reflect diversity in cell envelope structures.
+AREsite2: an enhanced database for the comprehensive investigation of AU/GU/U-rich elements.
+Developmental progress and current status of the Animal QTLdb.
+Modeling co-occupancy of transcription factors using chromatin features.
+Evolution of disorder in Mediator complex and its functional relevance.
+CancerResource—updated database of cancer-relevant proteins, mutations and interacting drugs.
+UET: a database of evolutionarily-predicted functional determinants of protein sequences that cluster as functional sites in protein structures.
+STITCH 5: augmenting protein–chemical interaction networks with tissue and affinity data.
+GenBank.
+The UCSC Genome Browser database: 2016 update.
+FunTree: advances in a resource for exploring and contextualising protein function evolution.
+deepBase v2.0: identification, expression, evolution and function of small RNAs, LncRNAs and circular RNAs from deep-sequencing data.
+EffectiveDB—updates and novel features for a better annotation of bacterial secreted proteins and Type III, IV, VI secretion systems.
+TSGene 2.0: an updated literature-based knowledgebase for tumor suppressor genes.
+SBR-Blood: systems biology repository for hematopoietic cells.
+miRTarBase 2016: updates to the experimentally validated miRNA-target interactions database.
+Lynx: a knowledge base and an analytical workbench for integrative medicine.
+MitoAge: a database for comparative analysis of mitochondrial DNA, with a special focus on animal longevity.
+MutationAligner: a resource of recurrent mutation hotspots in protein domains in cancer.
+Comparative genomic analyses reveal a vast, novel network of nucleotide-centric systems in biological conflicts, immunity and signaling.
+A novel role for the histone acetyltransferase Hat1 in the CENP-A/CID assembly pathway in Drosophila melanogaster.
+Estimate of within population incremental selection through branch imbalance in lineage trees.
+CPPsite 2.0: a repository of experimentally validated cell-penetrating peptides.
+BreCAN-DB: a repository cum browser of personalized DNA breakpoint profiles of cancer genomes.
+DIANA-miRGen v3.0: accurate characterization of microRNA promoters and their regulators.
+NONCODE 2016: an informative and valuable data source of long non-coding RNAs.
+COLOMBOS v3.0: leveraging gene expression compendia for cross-species analyses.
+HOCOMOCO: expansion and enhancement of the collection of transcription factor binding sites models.
+probeBase—an online resource for rRNA-targeted oligonucleotide probes and primers: new features 2016.
+<mds_ies_db>: a database of ciliate genome rearrangements.
+The anatomical distribution of genetic associations.
+Foreign DNA acquisition by the I-F CRISPR–Cas system requires all components of the interference machinery.
+CRISPR interference and priming varies with individual spacer sequences.
+The methyltransferase domain of dengue virus protein NS5 ensures efficient RNA synthesis initiation and elongation by the polymerase domain.
+Phosphorylation of the chromatin remodeling factor DPF3a induces cardiac hypertrophy through releasing HEY repressors from DNA.
+Structure and specificity of the RNA-guided endonuclease Cas9 during DNA interrogation, target binding and cleavage.
+Improved knockdown from artificial microRNAs in an enhanced miR-155 backbone: a designer's guide to potent multi-target RNAi.
+The quorum-sensing regulator ComA from Bacillus subtilis activates transcription using topologically distinct DNA motifs.
+Comprehensive evaluation of fusion transcript detection algorithms and a meta-caller to combine top performing methods in paired-end RNA-seq data.
+RING1A and BMI1 bookmark active genes via ubiquitination of chromatin-associated proteins.
+The CSB chromatin remodeler and CTCF architectural protein cooperate in response to oxidative stress.
+The nucleosome landscape of Plasmodium falciparum reveals chromatin architecture and dynamics of regulatory sequences.
+Hydroxymethyluracil modifications enhance the flexibility and hydrophilicity of double-stranded DNA.
+csaw: a Bioconductor package for differential binding analysis of ChIP-seq data using sliding windows.
+Simultaneous characterization of sense and antisense genomic processes by the double-stranded hidden Markov model.
+An ultra-dense library resource for rapid deconvolution of mutations that cause phenotypes in Escherichia coli.
+Control of alternative end joining by the chromatin remodeler p400 ATPase.
+Genome-wide binding studies reveal DNA binding specificity mechanisms and functional interplay amongst Forkhead transcription factors.
+BubbleTree: an intuitive visualization to elucidate tumoral aneuploidy and clonality using next generation sequencing data.
+DNA-PK triggers histone ubiquitination and signaling in response to DNA double-strand breaks produced during the repair of transcription-blocking topoisomerase I lesions.
+HMGB1 interacts with XPA to facilitate the processing of DNA interstrand crosslinks in human cells.
+Multiple Cis-acting elements modulate programmed -1 ribosomal frameshifting in Pea enation mosaic virus.
+Cellular localization of long non-coding RNAs affects silencing by RNAi more than by antisense oligonucleotides.
+Nucleotide modifications within bacterial messenger RNAs regulate their translation and are able to rewire the genetic code.
+Mcm10 coordinates the timely assembly and activation of the replication fork helicase.
+Bioinformatic tools for microRNA dissection.
+Death of a dogma: eukaryotic mRNAs can code for more than one protein.
+piRNA cluster database: a web resource for piRNA producing loci.
+SureChEMBL: a large-scale, chemically annotated patent document database.
+The Saccharomyces Genome Database Variant Viewer.
+eggNOG 4.5: a hierarchical orthology framework with improved functional annotations for eukaryotic, prokaryotic and viral sequences.
+SugarBindDB, a resource of glycan-mediated host–pathogen interactions.
+HGTree: database of horizontally transferred genes determined by tree reconciliation.
+SEA: a super-enhancer archive.
+dbPTM 2016: 10-year anniversary of a resource for post-translational modification of proteins.
+VFDB 2016: hierarchical and refined dataset for big data analysis—10 years on.
+LegumeIP 2.0—a platform for the study of gene function and genome evolution in legumes.
+iGNM 2.0: the Gaussian network model database for biomolecular structural dynamics.
+Gene3D: expanding the utility of domain assignments.
+Therapeutic target database update 2016: enriched resource for bench to clinical drug target and targeted pathway information.
+enviPath – The environmental contaminant biotransformation pathway resource.
+WeGET: predicting new genes for molecular systems by weighted co-expression.
+Enhanced annotations and features for comparing thousands of Pseudomonas genomes in the Pseudomonas genome database.
+Assembly: a resource for assembled genomes at NCBI.
+ClinVar: public archive of interpretations of clinically relevant variants.
+SomamiR 2.0: a database of cancer somatic mutations altering microRNA–ceRNA interactions.
+WormBase 2016: expanding to enable helminth genomic research.
+HPMCD: the database of human microbial communities from metagenomic datasets and microbial reference genomes.
+GREENC: a Wiki-based database of plant lncRNAs.
+Mouse genome database 2016.
+Ensembl Genomes 2016: more genomes, more complexity.
+Hymenoptera Genome Database: integrating genome annotations in HymenopteraMine.
+InsectBase: a resource for insect genomes and transcriptomes.
+ORegAnno 3.0: a community-driven resource for curated regulatory annotation.
+EBI metagenomics in 2016 - an expanding and evolving resource for the analysis and archiving of metagenomic data.
+PANTHER version 10: expanded protein families and functions, and analysis tools.
+Start2Fold: a database of hydrogen/deuterium exchange data on protein folding and stability.
+GPCRdb: an information system for G protein-coupled receptors.
+DBAASP v.2: an enhanced database of structure and antimicrobial/cytotoxic activity of natural and synthetic peptides.
+PlanMine – a mineable resource of planarian biology and biodiversity.
+PCOSKB: A KnowledgeBase on genes, diseases, ontology terms and biochemical pathways associated with PolyCystic Ovary Syndrome.
+EMDataBank unified data resource for 3DEM.
+DNA data bank of Japan (DDBJ) progress report.
+BioGPS: building your own mash-up of gene annotations and expression profiles.
+The structures of the SNM1A and SNM1B/Apollo nuclease domains reveal a potential basis for their distinct DNA processing activities.
+Probing the active site tryptophan of Staphylococcus aureus thioredoxin with an analog.
+Binding dynamics of a monomeric SSB protein to DNA: a single-molecule multi-process approach.
+Site-specific replacement of the thymine methyl group by fluorine in thrombin binding aptamer significantly improves structural stability and anticoagulant activity.
+Different genome stability proteins underpin primed and naïve adaptation in E. coli CRISPR-Cas immunity.
+Structural basis for RNA-genome recognition during bacteriophage Qβ replication.
+GEN1 promotes Holliday junction resolution by a coordinated nick and counter-nick mechanism.
+RNAi revised - target mRNA-dependent enhancement of gene silencing.
+Unique transposon landscapes are pervasive across Drosophila melanogaster genomes.
+Discover hidden splicing variations by mapping personal transcriptomes to personal genomes.
+Nucleic Acids Research: Editorial Board.
+Subscriptions.
+Nucleic Acids Research: VOLUME 43 ISSUE 20 2015.
+The casposon-encoded Cas1 protein from Aciduliprofundum boonei is a DNA integrase that generates target site duplications.
+GEneSTATION 1.0: a synthetic resource of diverse evolutionary and functional genomic data for studying the evolution of pregnancy-associated tissues and phenotypes.
+Hepatotoxicity of high affinity gapmer antisense oligonucleotides is mediated by RNase H1 dependent promiscuous reduction of very long pre-mRNA transcripts.
+Multiplex pairwise assembly of array-derived DNA oligonucleotides.
+Binding of 14-3-3 reader proteins to phosphorylated DNMT1 facilitates aberrant DNA methylation and gene expression.
+Theoretical estimates of exposure timescales of protein binding sites on DNA regulated by nucleosome kinetics.
+A novel conceptual approach to read-filtering in high-throughput amplicon sequencing studies.
+A dynamic checkpoint in oxidative lesion discrimination by formamidopyrimidine–DNA glycosylase.
+PASS2 database for the structure-based sequence alignment of distantly related SCOP domain superfamilies: update to version 5 and added features.
+The Degradome database: expanding roles of mammalian proteases in life and disease.
+WITHDRAWN—a resource for withdrawn and discontinued drugs.
+Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation.
+DASHR: database of small human noncoding RNAs.
+InterRNA: a database of base interactions in RNA structures.
+Gramene 2016: comparative plant genomics and pathway resources.
+An endogenous protein inhibitor, YjhX (TopAI), for topoisomerase I from Escherichia coli.
+Knockout of Drosophila RNase ZL impairs mitochondrial transcript processing, respiration and cell cycle progression.
+A predictive modeling approach for cell line-specific long-range regulatory interactions.
+Legume information system (LegumeInfo.org): a key component of a set of federated data resources for the legume family.
+DESM: portal for microbial knowledge exploration systems.
+The Transporter Classification Database (TCDB): recent advances.
+Cross talk of tyrosine kinases with the DNA damage signaling pathways.
+Thermodynamic fingerprints of ligand binding to human telomeric G-quadruplexes.
+Identification of bacterial sRNA regulatory targets using ribosome profiling.
+EMERGE: a flexible modelling framework to predict genomic regulatory elements from genomic signatures.
+HSP70 binding protein 1 (HspBP1) suppresses HIV-1 replication by inhibiting NF-κB mediated activation of viral gene expression.
+Requirement for human Mps1/TTK in oxidative DNA damage repair and cell survival through MDM2 phosphorylation.
+A dynamic intron retention program enriched in RNA processing genes regulates gene expression during terminal erythropoiesis.
+Domain swapping between homologous bacterial small RNAs dissects processing and Hfq binding determinants and uncovers an aptamer for conditional RNase E cleavage.
+JASPAR 2016: a major expansion and update of the open-access database of transcription factor binding profiles.
+DGIdb 2.0: mining clinically relevant drug–gene interactions.
+Tools and data services registry: a community effort to document bioinformatics resources.
+Re-evaluating the kinetics of ATP hydrolysis during initiation of DNA sliding by Type III restriction enzymes.
+Thermodynamic properties of water molecules in the presence of cosolute depend on DNA structure: a study using grid inhomogeneous solvation theory.
+Collaborator of alternative reading frame protein (CARF) regulates early processing of pre-ribosomal RNA by retaining XRN2 (5′-3′ exoribonuclease) in the nucleoplasm.
+Automated design of hammerhead ribozymes and validation by targeting the PABPN1 gene transcript.
+Highly efficient homology-driven genome editing in human T cells by combining zinc-finger nuclease mRNA and AAV6 donor delivery.
+The role of topoisomerase I in suppressing genome instability associated with a highly transcribed guanine-rich sequence is not restricted to preventing RNA:DNA hybrid accumulation.
+sORFs.org: a repository of small ORFs identified by ribosome profiling.
+The MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases.
+CEGA—a catalog of conserved elements from genomic alignments.
+ENCODE data at the ENCODE portal.
+RegulonDB version 9.0: high-level integration of gene regulation, coexpression, motif clustering and beyond.
+MouseNet v2: a database of gene networks for studying the laboratory mouse and eight other model vertebrates.
+2016 update of the PRIDE database and its related tools.
+Norine, the knowledgebase dedicated to non-ribosomal peptides, is now open to crowdsourcing.
+PGSB PlantsDB: updates to the database framework for comparative plant genome research.
+Twenty years of the MEROPS database of proteolytic enzymes, their substrates and inhibitors.
+MetaNetX/MNXref – reconciliation of metabolites and biochemical reactions to bring together genome-scale metabolic networks.
+SATPdb: a database of structurally annotated therapeutic peptides.
+Allosteric ring assembly and chemo-mechanical melting by the interaction between 5′-phosphate and λ exonuclease.
+Computational learning on specificity-determining residue-nucleotide interactions.
+JuncDB: an exon–exon junction database.
+Information Commons for Rice (IC4R).
+Deciphering the mechanisms of developmental disorders: phenotype analysis of embryos from mutant mouse lines.
+ccmGDB: a database for cancer cell metabolism genes.
+DNA targeting by the type I-G and type I-A CRISPR–Cas systems of Pyrococcus furiosus.
+Zebrafish lacking functional DNA polymerase gamma survive to juvenile stage, despite rapid and sustained mitochondrial DNA depletion, altered energetics and growth.
+The current state of eukaryotic DNA base damage and repair.
+Algorithmic co-optimization of genetic constructs and growth conditions: application to 6-ACA, a potential nylon-6 precursor.
+NCG 5.0: updates of a manually curated repository of cancer genes and associated properties from cancer mutational screenings.
+Integrated interactions database: tissue-specific view of the human and model organism interactomes.
+SynLethDB: synthetic lethality database toward discovery of selective and sensitive anticancer drug targets.
+Nucleic Acids Research: VOLUME 43 ISSUE 19 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Intragenic G-quadruplex structure formed in the human CD133 and its biological and translational relevance.
+Nucleotide binding database NBDB – a collection of sequence motifs with specific protein-ligand interactions.
+BloodSpot: a database of gene expression profiles and transcriptional programs for healthy and malignant haematopoiesis.
+Mapping DNA cleavage by the Type ISP restriction-modification enzymes following long-range communication between DNA sites in different orientations.
+DNA deletion as a mechanism for developmentally programmed centromere loss.
+A gene network engineering platform for lactic acid bacteria.
+Mechanism of activation of methyltransferases involved in translation by the Trm112 ‘hub’ protein.
+Tim/Timeless, a member of the replication fork protection complex, operates with the Warsaw breakage syndrome DNA helicase DDX11 in the same fork recovery pathway.
+Recombinational repair of radiation-induced double-strand breaks occurs in the absence of extensive resection.
+sRNATarBase 3.0: an updated database for sRNA-target interactions in bacteria.
+Digital development: a database of cell lineage differentiation in C. elegans with lineage phenotypes, cell-specific gene functions and a multiscale model.
+rVarBase: an updated database for regulatory features of human variants.
+dbMAE: the database of autosomal monoallelic expression.
+BDB: biopanning data bank.
+Assembly and dynamics of the U4/U6 di-snRNP by single-molecule FRET.
+Discovery and characterization of Alu repeat sequences via precise local read assembly.
+Transient overexpression of DNA adenine methylase enables efficient and mobile genome engineering with reduced off-target effects.
+Autoregulation of topoisomerase I expression by supercoiling sensitive transcription.
+CstF-64 and 3′-UTR cis-element determine Star-PAP specificity for target mRNA selection by excluding PAPα.
+Colorectal cancer atlas: An integrative resource for genomic and proteomic annotations from colorectal cancer cell lines and tissues.
+OpenTein: a database of digital whole-slide images of stem cell-derived teratomas.
+KLIFS: a structural kinase-ligand interaction database.
+Backtracking behavior in viral RNA-dependent RNA polymerase provides the basis for a second initiation site.
+Slx4 and Rtt107 control checkpoint signalling and DNA resection at double-strand breaks.
+Stability of blocked replication forks in vivo.
+Functional coordination and HuR-mediated regulation of mRNA stability during T cell activation.
+5SRNAdb: an information resource for 5S ribosomal RNAs.
+SigMol: repertoire of quorum sensing signaling molecules in prokaryotes.
+Structural basis for suppression of hypernegative DNA supercoiling by E. coli topoisomerase I.
+A non-canonical multisubunit RNA polymerase encoded by a giant bacteriophage.
+Robust expression of vault RNAs induced by influenza A virus plays a critical role in suppression of PKR-mediated innate immunity.
+DNA-binding proteins from marine bacteria expand the known sequence diversity of TALE-like repeats.
+Mechanism of aromatic amine carcinogen bypass by the Y-family polymerase, Dpo4.
+Synthesis and cell-free cloning of DNA libraries using programmable microfluidics.
+ZFP57 recognizes multiple and closely spaced sequence motif variants to maintain repressive epigenetic marks in mouse embryonic stem cells.
+CRISPR-CAS9 D10A nickase target-specific fluorescent labeling of double strand DNA for whole genome mapping and structural variation analysis.
+C7orf30 is necessary for biogenesis of the large subunit of the mitochondrial ribosome.
+Human telomerase reverse transcriptase binds to a pre-organized hTR in vivo exposing its template.
+Secondary structure encodes a cooperative tertiary folding funnel in the Azoarcus ribozyme.
+Epitope-tagged yeast strains reveal promoter driven changes to 3′-end formation and convergent antisense-transcription from common 3′ UTRs.
+Lnc2Cancer: a manually curated database of experimentally supported lncRNAs associated with various human cancers.
+Bovine Genome Database: new tools for gleaning function from the Bos taurus genome.
+The SIDER database of drugs and side effects.
+BindingDB in 2015: A public database for medicinal chemistry, computational chemistry and systems pharmacology.
+DIDA: A curated and annotated digenic diseases database.
+ECMDB 2.0: A richer resource for understanding the biochemistry of E. coli.
+Expression Atlas update—an integrated database of gene and protein expression in humans, animals and plants.
+WikiPathways: capturing the full diversity of pathway knowledge.
+Direct evidence of mitochondrial G-quadruplex DNA by using fluorescent anti-cancer agents.
+Directly lighting up RNA G-quadruplexes from test tubes to living human cells.
+H3K23me2 is a new heterochromatic mark in Caenorhabditis elegans.
+Inner nuclear envelope protein SUN1 plays a prominent role in mammalian mRNA export.
+The ubiquitin ligase HERC3 attenuates NF-κB-dependent transcription independently of its enzymatic activity by delivering the RelA subunit for degradation.
+Epigenetic program and transcription factor circuitry of dendritic cell development.
+Selection of 2′-deoxy-2′-fluoroarabinonucleotide (FANA) aptamers that bind HIV-1 reverse transcriptase with picomolar affinity.
+Universal digital high-resolution melt: a novel approach to broad-based profiling of heterogeneous biological samples.
+KEGG as a reference resource for gene and protein annotation.
+FLOR-ID: an interactive database of flowering-time gene networks in Arabidopsis thaliana.
+PhytoPath: an integrative resource for plant pathogen genomics.
+CauloBrowser: A systems biology resource for Caulobacter crescentus.
+BiGG Models: A platform for integrating, standardizing and sharing genome-scale models.
+PDBe: improved accessibility of macromolecular structure data from PDB and EMDB.
+GlyTouCan 1.0 – The international glycan structure repository.
+PlantPAN 2.0: an update of plant promoter analysis navigator for reconstructing transcriptional regulatory networks in plants.
+The structure of Erb1-Ytm1 complex reveals the functional importance of a high-affinity binding between two β-propellers during the assembly of large ribosomal subunits in eukaryotes.
+Nucleic Acids Research: VOLUME 43 ISSUE 21 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Full-length RNA structure prediction of the HIV-1 genome reveals a conserved core domain.
+Harnessing Type I and Type III CRISPR-Cas systems for genome editing.
+A deep learning framework for modeling structural features of RNA-binding protein targets.
+CAMPR3: a database on sequences, structures and signatures of antimicrobial peptides.
+SIGNOR: a database of causal relationships between biological entities.
+FlyBase: establishing a Gene Group resource for Drosophila melanogaster.
+Metabolomics Workbench: An international repository for metabolomics data and metadata, metabolite standards, protocols, tutorials and training, and analysis tools.
+ChEBI in 2016: Improved services and an expanding collection of metabolites.
+Trans-oligomerization of duplicated aminoacyl-tRNA synthetases maintains genetic code fidelity under stress.
+Crystallographic characterization of the ribosomal binding site and molecular mechanism of action of Hygromycin A.
+Perturbations of PIP3 signalling trigger a global remodelling of mRNA landscape and reveal a transcriptional feedback loop.
+Whole transcriptome profiling reveals the RNA content of motor axons.
+Genome-wide CpG island methylation and intergenic demethylation propensities vary among different tumor sites.
+RORα switches transcriptional mode of ERRγ that results in transcriptional repression of CYP2E1 under ethanol-exposure.
+DTIE, a novel core promoter element that directs start site selection in TATA-less genes.
+The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands.
+RMBase: a resource for decoding the landscape of RNA modifications from high-throughput sequencing data.
+SKI2 mediates degradation of RISC 5′-cleavage fragments and prevents secondary siRNA production from miRNA targets in Arabidopsis.
+A gating mechanism for Pi release governs the mRNA unwinding by eIF4AI during translation initiation.
+Explaining the striking difference in twist-stretch coupling between DNA and RNA: A comparative molecular dynamics analysis.
+Guanabenz (Wytensin™) selectively enhances uptake and efficacy of hydrophobically modified siRNAs.
+Robust, tunable genetic memory from protein sequestration combined with positive feedback.
+Accurate transcriptome-wide prediction of microRNA targets and small interfering RNA off-targets with MIRZA-G.
+The rates of the major steps in the molecular mechanism of RNase H1-dependent antisense oligonucleotide induced degradation of RNA.
+The Bacteroides sp. 3_1_23 Pif1 protein is a multifunctional helicase.
+The STAT3 HIES mutation is a gain-of-function mutation that activates genes via AGG-element carrying promoters.
+Structure of a human translation termination complex.
+Redesign of the monomer–monomer interface of Cre recombinase yields an obligate heterotetrameric complex.
+Nucleolin stabilizes G-quadruplex structures folded by the LTR promoter and silences HIV-1 viral transcription.
+Structure and specificity of the RNA-guided endonuclease Cas9 during DNA interrogation, target binding and cleavage.
+Interference activity of a minimal Type I CRISPR–Cas system from Shewanella putrefaciens.
+Sequence-specific recognition of DNA minor groove by an NIR-fluorescence switch-on probe and its potential applications.
+Cooperation between SMYD3 and PC4 drives a distinct transcriptional program in cancer cells.
+ATP dependent NS3 helicase interaction with RNA: insights from molecular simulations.
+A legion of potential regulatory sRNAs exists beyond the typical microRNAs microcosm.
+A predictive modeling approach for cell line-specific long-range regulatory interactions.
+A ruthenium dimer complex with a flexible linker slowly threads between DNA bases in two distinct steps.
+Cell type-selective disease-association of genes under high regulatory load.
+G-quadruplexes and their regulatory roles in biology.
+Structure of mitochondrial poly(A) RNA polymerase reveals the structural basis for dimerization, ATP selectivity and the SPAX4 disease phenotype.
+In silico and in vitro evaluation of exonic and intronic off-target effects form a critical element of therapeutic ASO gapmer optimization.
+Structural basis for the Smad5 MH1 domain to recognize different DNA sequences.
+Role of a non-canonical surface of Rad6 in ubiquitin conjugating activity.
+Crystal structure of the full-length bacterial selenocysteine-specific elongation factor SelB.
+Noncanoncial signal recognition particle RNAs in a major eukaryotic phylum revealed by purification of SRP from the human pathogen Cryptococcus neoformans.
+TRAP150 interacts with the RNA-binding domain of PSF and antagonizes splicing of numerous PSF-target genes in T cells.
+TDP-43 affects splicing profiles and isoform production of genes involved in the apoptotic and mitotic cellular pathways.
+NUFIP and the HSP90/R2TP chaperone bind the SMN complex and facilitate assembly of U4-specific proteins.
+A conserved Polϵ binding module in Ctf18-RFC is required for S-phase checkpoint activation downstream of Mec1.
+hSSB1 (NABP2/ OBFC2B) is required for the repair of 8-oxo-guanine by the hOGG1-mediated base excision repair pathway.
+Extended molecular dynamics of a c-kit promoter quadruplex.
+Loss of EZH2 results in precocious mammary gland development and activation of STAT5-dependent genes.
+Telomeric repeat silencing in germ cells is essential for early development in Drosophila.
+Structure-function relationships governing activity and stability of a DNA alkylation damage repair thermostable protein.
+DNA sequence templates adjacent nucleosome and ORC sites at gene amplification origins in Drosophila.
+The N-terminus of RPA large subunit and its spatial position are important for the 5′->3′ resection of DNA double-strand breaks.
+The master regulator of IncA/C plasmids is recognized by the Salmonella Genomic island SGI1 as a signal for excision and conjugal transfer.
+RlmCD-mediated U747 methylation promotes efficient G748 methylation by methyltransferase RlmAII in 23S rRNA in Streptococcus pneumoniae; interplay between two rRNA methylations responsible for telithromycin susceptibility.
+RNASequel: accurate and repeat tolerant realignment of RNA-seq reads.
+High-throughput prediction of RNA, DNA and protein binding regions mediated by intrinsic disorder.
+Efficient production of superior dumbbell-shaped DNA minimal vectors for small hairpin RNA expression.
+Varying levels of complexity in transcription factor binding motifs.
+Cas9-chromatin binding information enables more accurate CRISPR off-target prediction.
+Bacteriophage strain typing by rapid single molecule analysis.
+Characterization of fusion genes and the significantly expressed fusion isoforms in breast cancer by hybrid sequencing.
+A mass spectrometry-based method for comprehensive quantitative determination of post-transcriptional RNA modifications: the complete chemical structure of Schizosaccharomyces pombe ribosomal RNAs.
+Nucleic Acids Research: VOLUME 43 ISSUE 18 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Control of the localization and function of a miRNA silencing component TNRC6A by Argonaute protein.
+LymAnalyzer: a tool for comprehensive analysis of next generation sequencing data of T cell receptors and immunoglobulins.
+An autoregulatory enhancer controls mammary-specific STAT5 functions.
+Chromatin association of the SMC5/6 complex is dependent on binding of its NSE3 subunit to DNA.
+Impaired TIP60-mediated H4K16 acetylation accounts for the aberrant chromatin accumulation of 53BP1 and RAP80 in Fanconi anemia pathway-deficient cells.
+Mechanism of Wnt signaling induced down regulation of mrhl long non-coding RNA in mouse spermatogonial cells.
+CircNet: a database of circular RNAs derived from transcriptome sequencing data.
+MEPD: medaka expression pattern database, genes and more.
+MitoCarta2.0: an updated inventory of mammalian mitochondrial proteins.
+SplicePie: a novel analytical approach for the detection of alternative, non-sequential and recursive splicing.
+Two distinct modes of metal ion binding in the nuclease active site of a viral DNA-packaging terminase: insight into the two-metal-ion catalytic mechanism.
+Intrastrand triplex DNA repeats in bacteria: a source of genomic instability.
+Enhancing antisense efficacy with multimers and multi-targeting oligonucleotides (MTOs) using cleavable linkers.
+MiRNA-891a-5p mediates HIV-1 Tat and KSHV Orf-K1 synergistic induction of angiogenesis by activating NF-κB signaling.
+Integrated genome-wide analysis of genomic changes and gene regulation in human adrenocortical tissue samples.
+NPGPx modulates CPEB2-controlled HIF-1α RNA translation in response to oxidative stress.
+Genomes to natural products PRediction Informatics for Secondary Metabolomes (PRISM).
+NCLscan: accurate identification of non-co-linear transcripts (fusion, trans-splicing and circular RNA) with a good balance between sensitivity and precision.
+Attomole quantification and global profile of RNA modifications: Epitranscriptome of human neural stem cells.
+CRISPRz: a database of zebrafish validated sgRNAs.
+dbSUPER: a database of super-enhancers in mouse and human genome.
+Insights into molecular plasticity in protein complexes from Trm9-Trm112 tRNA modifying enzyme crystal structure.
+A novel transcriptional regulator of L-arabinose utilization in human gut bacteria.
+Influence of 5-N-carboxamide modifications on the thermodynamic stability of oligonucleotides.
+Hairpins participating in folding of human telomeric sequence quadruplexes studied by standard and T-REMD simulations.
+Acentric chromosome ends are prone to fusion with functional chromosome ends through a homology-directed rearrangement.
+RPFdb: a database for genome wide information of translated mRNA generated from ribosome profiling.
+SubtiWiki 2.0—an integrated database for the model organism Bacillus subtilis.
+BacWGSTdb, a database for genotyping and source tracking bacterial pathogens.
+SerRS-tRNASec complex structures reveal mechanism of the first step in selenocysteine biosynthesis.
+A cytoplasmic pathway for gapmer antisense oligonucleotide-mediated gene silencing in mammalian cells.
+Molecular basis for the substrate specificity and catalytic mechanism of thymine-7-hydroxylase in fungi.
+Quadruplex formation by both G-rich and C-rich DNA strands of the C9orf72 (GGGGCC)8•(GGCCCC)8 repeat: effect of CpG methylation.
+Assembly and analysis of eukaryotic Argonaute–RNA complexes in microRNA-target recognition.
+Genome-wide profiling of nucleosome sensitivity and chromatin accessibility in Drosophila melanogaster.
+Detection of uracil within DNA using a sensitive labeling method for in vitro and cellular applications.
+iPPI-DB: an online database of modulators of protein–protein interactions.
+MaizeGDB update: new tools, data and interface for the maize model organism database.
+MitoMiner v3.1, an update on the mitochondrial proteomics database.
+New insights into the enzymatic role of EF-G in ribosome recycling.
+Dynamical features of the Plasmodium falciparum ribosome during translation.
+Nuclear domain ‘knock-in’ screen for the evaluation and identification of small molecule enhancers of CRISPR-based genome editing.
+An extended dsRBD is required for post-transcriptional modification in human tRNAs.
+Subscriptions.
+Nucleic Acids Research: VOLUME 43 ISSUE 17 2015.
+Nucleic Acids Research: Editorial Board.
+KSHV but not MHV-68 LANA induces a strong bend upon binding to terminal repeat viral DNA.
+Femtosecond near-infrared laser microirradiation reveals a crucial role for PARP signaling on factor assemblies at DNA damage sites.
+BacDive – The Bacterial Diversity Metadatabase in 2016.
+Dynamic modulation of Dnmt2-dependent tRNA methylation by the micronutrient queuine.
+Nucleotide sequence of miRNA precursor contributes to cleavage site selection by Dicer.
+RNA binding to APOBEC3G induces the disassembly of functional deaminase complexes by displacing single-stranded DNA substrates.
+The players may change but the game remains: network analyses of ruminal microbiomes suggest taxonomic differences mask functional similarity.
+Ultra-fast local-haplotype variant calling using paired-end DNA-sequencing data reveals somatic mosaicism in tumor and normal blood samples.
+Reduced cohesin destabilizes high-level gene amplification by disrupting pre-replication complex bindings in human cancers with chromosomal instability.
+DNA double-strand breaks with 5′ adducts are efficiently channeled to the DNA2-mediated resection pathway.
+DnaC traps DnaB as an open ring and remodels the domain that binds primase.
+ATM and KAT5 safeguard replicating chromatin against formaldehyde damage.
+ANISEED 2015: a digital framework for the comparative developmental biology of ascidians.
+Mammalian splicing factor SF1 interacts with SURP domains of U2 snRNP-associated proteins.
+Direct-Coupling Analysis of nucleotide coevolution facilitates RNA secondary and tertiary structure prediction.
+GeoPCA: a new tool for multivariate analysis of dihedral angles based on principal component geodesics.
+Methylation of histone H3 lysine 9 occurs during translation.
+Molecular basis for DNA strand displacement by NHEJ repair polymerases.
+Dual transcriptional-translational cascade permits cellular level tuneable expression control.
+Nuclear pyruvate kinase M2 complex serves as a transcriptional coactivator of arylhydrocarbon receptor.
+A SnoRNA-derived piRNA interacts with human interleukin-4 pre-mRNA and induces its decay in nuclear exosomes.
+QmRLFS-finder: a model, web server and stand-alone tool for prediction and analysis of R-loop forming sequences.
+miR-58 family and TGF-β pathways regulate each other in Caenorhabditis elegans.
+A novel high-throughput activity assay for the Trypanosoma brucei editosome enzyme REL1 and other RNA ligases.
+Imprinting control regions (ICRs) are marked by mono-allelic bivalent chromatin when transcriptionally inactive.
+SUVH1, a Su(var)3–9 family member, promotes the expression of genes targeted by DNA methylation.
+The activity of CouR, a MarR family transcriptional regulator, is modulated through a novel molecular mechanism.
+LRH-1 drives colon cancer cell growth by repressing the expression of the CDKN1A gene in a p53-dependent manner.
+Novel nucleosomal particles containing core histones and linker DNA but no histone H1.
+Characterization of a novel DNA glycosylase from S. sahachiroi involved in the reduction and repair of azinomycin B induced DNA damage.
+hPSCreg—the human pluripotent stem cell registry.
+PlantDHS: a database for DNase I hypersensitive sites in plants.
+PubChem Substance and Compound databases.
+PARN deadenylase is involved in miRNA-dependent degradation of TP53 mRNA in mammalian cells.
+Cytotoxic and mutagenic properties of O4-alkylthymidine lesions in Escherichia coli cells.
+The PIN domain of EXO1 recognizes poly(ADP-ribose) in DNA damage response.
+Intergenic Alu exonisation facilitates the evolution of tissue-specific transcript ends.
+Xanthine and 8-oxoguanine in G-quadruplexes: formation of a G·G·X·O tetrad.
+Joint modeling of RNase footprint sequencing profiles for genome-wide inference of RNA structure.
+Systematic reconstruction of binding and stability landscapes of the fluorogenic aptamer spinach.
+Searching target sites on DNA by proteins: Role of DNA dynamics under confinement.
+Beyond the one-locus-one-miRNA paradigm: microRNA isoforms enable deeper insights into breast cancer heterogeneity.
+Base damage, local sequence context and TP53 mutation hotspots: a molecular dynamics study of benzo[a]pyrene induced DNA distortion and mutability.
+Editorial: Alfred Pingoud (1945–2015).
+Architecture of the eIF2B regulatory subcomplex and its implications for the regulation of guanine nucleotide exchange on eIF2.
+Biologically-supported structural model for a viral satellite RNA.
+miRVaS: a tool to predict the impact of genetic variants on miRNAs.
+Targeted single molecule mutation detection with massively parallel sequencing.
+ENmix: a novel background correction method for Illumina HumanMethylation450 BeadChip.
+Beegle: from literature mining to disease-gene discovery.
+A versatile toolbox for posttranscriptional chemical labeling and imaging of RNA.
+Polysome shift assay for direct measurement of miRNA inhibition by anti-miRNA drugs.
+Nuclear positioning rather than contraction controls ordered rearrangements of immunoglobulin loci.
+The p53-p21-DREAM-CDE/CHR pathway regulates G2/M cell cycle genes.
+Guanine quadruplex structures localize to heterochromatin.
+CITED2 silencing sensitizes cancer cells to cisplatin by inhibiting p53 trans-activation and chromatin relaxation on the ERCC1 DNA repair gene.
+The sliding clamp tethers the endonuclease domain of MutL to DNA.
+Conformational toggling controls target site choice for the heteromeric transposase element Tn7.
+Integrating multi-scale data on homologous recombination into a new recognition mechanism based on simulations of the RecA-ssDNA/dsDNA structure.
+Slicer-independent mechanism drives small-RNA strand separation during human RISC assembly.
+Molecular basis of the attenuated phenotype of human APOBEC3B DNA mutator enzyme.
+The novel influenza A virus protein PA-X and its naturally deleted variant show different enzymatic properties in comparison to the viral endonuclease PA.
+A structural approach reveals how neighbouring C2H2 zinc fingers influence DNA binding specificity.
+Nucleic Acids Research: VOLUME 43 ISSUE 16 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+The reverse transcription signature of N-1-methyladenosine in RNA-Seq is sequence dependent.
+A computational method for studying the relation between alternative splicing and DNA methylation.
+Sizing femtogram amounts of dsDNA by single-molecule counting.
+Adapting capillary gel electrophoresis as a sensitive, high-throughput method to accelerate characterization of nucleic acid metabolic enzymes.
+A high-throughput assay for the comprehensive profiling of DNA ligase fidelity.
+Probing binding hot spots at protein–RNA recognition sites.
+ASD v3.0: unraveling allosteric regulation with structural mechanisms and biological networks.
+MCM ring hexamerization is a prerequisite for DNA-binding.
+Lack of correlation between reaction speed and analytical sensitivity in isothermal amplification reveals the value of digital methods for optimization: validation using digital real-time RT-LAMP.
+Characterization of a cAMP responsive transcription factor, Cmr (Rv1675c), in TB complex mycobacteria reveals overlap with the DosR (DevR) dormancy regulon.
+An atlas of RNA base pairs involving modified nucleobases with optimal geometries and accurate energies.
+Thymine DNA glycosylase exhibits negligible affinity for nucleobases that it removes from DNA.
+Mammalian RAD51 paralogs protect nascent DNA at stalled forks and mediate replication restart.
+Mitochondrial poly(A) polymerase is involved in tRNA repair.
+Effects of non-CpG site methylation on DNA thermal stability: a fluorescence study.
+Simultaneous characterization of cellular RNA structure and function with in-cell SHAPE-Seq.
+Epigenetic factor EPC1 is a master regulator of DNA damage response by interacting with E2F1 to silence death and activate metastasis-related gene signatures.
+Turning publicly available gene expression data into discoveries using gene set context analysis.
+Human HLTF mediates postreplication repair by its HIRAN domain-dependent replication fork remodelling.
+Single-stranded DNA oligomers stimulate error-prone alternative repair of DNA double-strand breaks through hijacking Ku protein.
+Co-evolution of quaternary organization and novel RNA tertiary interactions revealed in the crystal structure of a bacterial protein–RNA toxin–antitoxin system.
+Nano-mechanical measurements of protein-DNA interactions with a silicon nitride pulley.
+Directional transition from initiation to elongation in bacterial translation.
+Epigenetic instability of imprinted genes in human cancers.
+A reconstituted system reveals how activating and inhibitory interactions control DDK dependent assembly of the eukaryotic replicative helicase.
+EF-Tu dynamics during pre-translocation complex formation: EF-Tu·GDP exits the ribosome via two different pathways.
+Hairpins under tension: RNA versus DNA.
+NUCKS1 is a novel RAD51AP1 paralog important for homologous recombination and genome stability.
+Structure of Naegleria Tet-like dioxygenase (NgTet1) in complexes with a reaction intermediate 5-hydroxymethylcytosine DNA.
+Profiling of promoter occupancy by the SND1 transcriptional coactivator identifies downstream glycerolipid metabolic genes involved in TNFα response in human hepatoma cells.
+The histone variant H2A.Z is an important regulator of enhancer activity.
+A novel mode of nuclease action is revealed by the bacterial Mre11/Rad50 complex.
+Sumoylation of Sir2 differentially regulates transcriptional silencing in yeast.
+Nucleosome compaction facilitates HP1γ binding to methylated H3K9.
+Nucleic Acids Research: VOLUME 43 ISSUE 15 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+A unique uracil-DNA binding protein of the uracil DNA glycosylase superfamily.
+Cis-acting signals modulate the efficiency of programmed DNA elimination in Paramecium tetraurelia.
+The energetic basis of the DNA double helix: a combined microcalorimetric approach.
+Discovery of an essential nucleotidylating activity associated with a newly delineated conserved domain in the RNA polymerase-containing protein of all nidoviruses.
+Competitive interaction of monovalent cations with DNA from 3D-RISM.
+LARVA: an integrative framework for large-scale analysis of recurrent variants in noncoding annotations.
+The mRNA related ceRNA–ceRNA landscape and significance across 20 major cancer types.
+DNA-binding protein prediction using plant specific support vector machines: validation and application of a new genome annotation tool.
+DREAMing: a simple and ultrasensitive method for assessing intratumor epigenetic heterogeneity directly from liquid biopsies.
+Histone variant H3.3 provides the heterochromatic H3 lysine 9 tri-methylation mark at telomeres.
+DksA involvement in transcription fidelity buffers stochastic epigenetic change.
+Cooperation meets competition in microRNA-mediated DMPK transcript regulation.
+RAG-3D: a search tool for RNA 3D substructures.
+Involvement of SRSF11 in cell cycle-specific recruitment of telomerase to telomeres at nuclear speckles.
+Carbohydrate structure database merged from bacterial, archaeal, plant and fungal parts.
+Local sequence assembly reveals a high-resolution profile of somatic structural variations in 97 cancer genomes.
+Optimizing RNA structures by sequence extensions using RNAcop.
+The role of wobble uridine modifications in +1 translational frameshifting in eukaryotes.
+Functional interaction of Rpb1 and Spt5 C-terminal domains in co-transcriptional histone modification.
+The WRN exonuclease domain protects nascent strands from pathological MRE11/EXO1-dependent degradation.
+Mapping the interactions of the single-stranded DNA binding protein of bacteriophage T4 (gp32) with DNA lattices at single nucleotide resolution: polynucleotide binding and cooperativity.
+Mapping the interactions of the single-stranded DNA binding protein of bacteriophage T4 (gp32) with DNA lattices at single nucleotide resolution: gp32 monomer binding.
+Nucleic Acids Research: VOLUME 43 ISSUE 14 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Extensive RPA2 hyperphosphorylation promotes apoptosis in response to DNA replication stress in CHK1 inhibited cells.
+Oct-2 forms a complex with Oct-1 on the iNOS promoter and represses transcription by interfering with recruitment of RNA PolII by Oct-1.
+Large-scale profiling of microRNAs for The Cancer Genome Atlas.
+A polymerase engineered for bisulfite sequencing.
+Topoisomerase 1-dependent deletions initiated by incision at ribonucleotides are biased to the non-transcribed strand of a highly activated reporter.
+mRNA and DNA selection via protein multimerization: YB-1 as a case study.
+Structure and primase-mediated activation of a bacterial dodecameric replicative helicase.
+Structural basis for selective targeting of leishmanial ribosomes: aminoglycoside derivatives as promising therapeutics.
+The impact of the phosphomimetic eIF2αS/D on global translation, reinitiation and the integrated stress response is attenuated in N2a cells.
+DNA binding fluorescent proteins for the direct visualization of large DNA molecules.
+Identification of large-scale genomic variation in cancer genomes using in silico reference models.
+Quantification of DNA cleavage specificity in Hi-C experiments.
+ROTS: reproducible RNA-seq biomarker detector—prognostic markers for clear cell renal cell cancer.
+Paradoxical suppression of small RNA activity at high Hfq concentrations due to random-order binding.
+Widespread alternative and aberrant splicing revealed by lariat sequencing.
+Integrated analysis of numerous heterogeneous gene expression profiles for detecting robust disease-specific biomarkers and proposing drug targets.
+Molecular basis of ribosome recognition and mRNA hydrolysis by the E. coli YafQ toxin.
+Solution structure of a DNA quadruplex containing ALS and FTD related GGGGCC repeat stabilized by 8-bromodeoxyguanosine substitution.
+GC skew is a conserved property of unmethylated CpG island promoters across vertebrates.
+DynaMIT: the dynamic motif integration toolkit.
+CRISPR-STAT: an easy and reliable PCR-based method to evaluate target-specific sgRNA activity.
+Linkage of catalysis and 5′ end recognition in ribonuclease RNase J.
+Regulation of DNA replication at the end of the mitochondrial D-loop involves the helicase TWINKLE and a conserved sequence element.
+The FMRP/GRK4 mRNA interaction uncovers a new mode of binding of the Fragile X mental retardation protein in cerebellum.
+FUS/TLS contributes to replication-dependent histone gene expression by interaction with U7 snRNPs and histone-specific transcription factors.
+Rationally evolving tRNAPyl for efficient incorporation of noncanonical amino acids.
+Simultaneous measurement of passage through the restriction point and MCM loading in single cells.
+Free energy landscape and transition pathways from Watson–Crick to Hoogsteen base pairing in free duplex DNA.
+Site specific replacements of a single loop nucleoside with a dibenzyl linker may switch the activity of TBA from anticoagulant to antiproliferative.
+High speed BLASTN: an accelerated MegaBLAST search tool.
+Crosslinking reactions of 4-amino-6-oxo-2-vinylpyrimidine with guanine derivatives and structural analysis of the adducts.
+Agonistic aptamer to the insulin receptor leads to biased signaling and functional selectivity through allosteric modulation.
+Genome-wide analysis of YB-1-RNA interactions reveals a novel role of YB-1 in miRNA processing in glioblastoma multiforme.
+ATM-dependent phosphorylation of MRE11 controls extent of resection during homology directed repair by signalling through Exonuclease 1.
+Structural basis for DNA strand separation by a hexameric replicative helicase.
+Mechanism of CRISPR-RNA guided recognition of DNA targets in Escherichia coli.
+The conserved 3′X terminal domain of hepatitis C virus genomic RNA forms a two-stem structure that promotes viral RNA dimerization.
+Elongator-dependent modification of cytoplasmic tRNALysUUU is required for mitochondrial function under stress conditions.
+RiboAbacus: a model trained on polyribosome images predicts ribosome density and translational efficiency from mammalian transcriptomes.
+A novel method for the multiplexed target enrichment of MinION next generation sequencing libraries using PCR-generated baits.
+Oligonucleotide gap-fill ligation for mutation detection and sequencing in situ.
+Reassignment of a rare sense codon to a non-canonical amino acid in Escherichia coli.
+Functional significance of protein assemblies predicted by the crystal structure of the restriction endonuclease BsaWI.
+Thermodynamic insights into 2-thiouridine-enhanced RNA hybridization.
+Revisiting the structure/function relationships of H/ACA(-like) RNAs: a unified model for Euryarchaea and Crenarchaea.
+Origin-of-transfer sequences facilitate mobilisation of non-conjugative antimicrobial-resistance plasmids in Staphylococcus aureus.
+The interaction of ω2 with the RNA polymerase β’ subunit functions as an activation to repression switch.
+A bacterial regulatory RNA attenuates virulence, spread and human host cell phagocytosis.
+Mediator independently orchestrates multiple steps of preinitiation complex assembly in vivo.
+The RNA-binding protein HOS5 and serine/arginine-rich proteins RS40 and RS41 participate in miRNA biogenesis in Arabidopsis.
+Towards a comprehensive picture of alloacceptor tRNA remolding in metazoan mitochondrial genomes.
+Global identification of the genetic networks and cis-regulatory elements of the cold response in zebrafish.
+On the availability of microRNA-induced silencing complexes, saturation of microRNA-binding sites and stoichiometry.
+Dissecting the target specificity of RNase H recruiting oligonucleotides using massively parallel reporter analysis of short RNA motifs.
+DNA polymerases κ and ζ cooperatively perform mutagenic translesion synthesis of the C8–2′-deoxyguanosine adduct of the dietary mutagen IQ in human cells.
+Identification of siRNA delivery enhancers by a chemical library screen.
+Nucleotide binding interactions modulate dNTP selectivity and facilitate 8-oxo-dGTP incorporation by DNA polymerase lambda.
+Post-transcriptional gene silencing triggered by sense transgenes involves uncapped antisense RNA and differs from silencing intentionally triggered by antisense transgenes.
+Transcription yield of fully 2′-modified RNA can be increased by the addition of thermostabilizing mutations to T7 RNA polymerase mutants.
+Blocking of targeted microRNAs from next-generation sequencing libraries.
+Altered expression and editing of miRNA-100 regulates iTreg differentiation.
+Processing by MRE11 is involved in the sensitivity of subtelomeric regions to DNA double-strand breaks.
+ChIP-seq reveals the global regulator AlgR mediating cyclic di-GMP synthesis in Pseudomonas aeruginosa.
+The La-related protein 1-specific domain repurposes HEAT-like repeats to directly bind a 5′TOP sequence.
+SETDB1, HP1 and SUV39 promote repositioning of 53BP1 to extend resection during homologous recombination in G2 cells.
+Accurate placement of substrate RNA by Gar1 in H/ACA RNA-guided pseudouridylation.
+Nucleic Acids Research: VOLUME 43 ISSUE 13 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Deciphering the principles that govern mutually exclusive expression of Plasmodium falciparum clag3 genes.
+Splicing inhibition decreases phosphorylation level of Ser2 in Pol II CTD.
+The yeast genome undergoes significant topological reorganization in quiescence.
+In vivo detection and replication studies of α-anomeric lesions of 2′-deoxyribonucleosides.
+Conformation-sensitive nucleoside analogues as topology-specific fluorescence turn-on probes for DNA and RNA G-quadruplexes.
+BayesPI-BAR: a new biophysical model for characterization of regulatory sequence variations.
+Allelome.PRO, a pipeline to define allele-specific genomic features from high-throughput sequencing data.
+G-quadruplex formation in double strand DNA probed by NMM and CV fluorescence.
+A design principle for a single-stranded RNA genome that replicates with less double-strand formation.
+SUMOylation at K707 of DGCR8 controls direct function of primary microRNA.
+How data analysis affects power, reproducibility and biological insight of RNA-seq studies in complex datasets.
+Complex long-distance effects of mutations that confer linezolid resistance in the large ribosomal subunit.
+Single cell measurement of telomerase expression and splicing using microfluidic emulsion cultures.
+tRNA recognition by a bacterial tRNA Xm32 modification enzyme from the SPOUT methyltransferase superfamily.
+ΔNp63 intronic miR-944 is implicated in the ΔNp63-mediated induction of epidermal differentiation.
+FANCD2 and REV1 cooperate in the protection of nascent DNA strands in response to replication stress.
+Sources of PCR-induced distortions in high-throughput sequencing data sets.
+Novel insights into RNP granules by employing the trypanosome's microtubule skeleton as a molecular sieve.
+ROCK inhibition enhances microRNA function by promoting deadenylation of targeted mRNAs via increasing PAIP2 expression.
+Elastic network models for RNA: a comparative assessment with molecular dynamics and SHAPE experiments.
+Data quality aware analysis of differential expression in RNA-seq with NOISeq R/Bioc package.
+Dynamic profiling of double-stranded RNA binding proteins.
+ZNF555 protein binds to transcriptional activator site of 4qA allele and ANT1: potential implication in Facioscapulohumeral dystrophy.
+STAR3D: a stack-based RNA 3D structural alignment tool.
+Base-resolution detection of N4-methylcytosine in genomic DNA using 4mC-Tet-assisted-bisulfite- sequencing.
+DSSR: an integrated software tool for dissecting the spatial structure of RNA.
+Detection of differentially methylated regions from whole-genome bisulfite sequencing data without replicates.
+The unusual and dynamic character of PX-DNA.
+RNA aptamer inhibitors of a restriction endonuclease.
+Dual-colour imaging of RNAs using quencher- and fluorophore-binding aptamers.
+The Saccharomyces cerevisiae Dna2 can function as a sole nuclease in the processing of Okazaki fragments in DNA replication.
+Xylonucleic acid: synthesis, structure, and orthogonal pairing properties.
+Adenine versus guanine DNA adducts of aristolochic acids: role of the carcinogen–purine linkage in the differential global genomic repair propensity.
+The interplay between DNA methylation and sequence divergence in recent human evolution.
+Chromosomal position shift of a regulatory gene alters the bacterial phenotype.
+Different types of interaction between PCNA and PIP boxes contribute to distinct cellular functions of Y-family DNA polymerases.
+Acetylation-dependent function of human single-stranded DNA binding protein 1.
+BatAlign: an incremental method for accurate alignment of sequencing reads.
+RefSeq curation and annotation of antizyme and antizyme inhibitor genes in vertebrates.
+Improved prediction of RNA secondary structure by integrating the free energy model with restraints derived from experimental probing data.
+Importin-β facilitates nuclear import of human GW proteins and balances cytoplasmic gene silencing protein levels.
+The microRNA-183 cluster: the family that plays together stays together.
+Role of the central cations in the mechanical unfolding of DNA and RNA G-quadruplexes.
+Utilizing mapping targets of sequences underrepresented in the reference assembly to reduce false positive alignments.
+A framework for improving microRNA prediction in non-human genomes.
+Characterisation of aptamer–target interactions by branched selection and high-throughput sequencing of SELEX pools.
+Nucleic Acids Research: VOLUME 43 ISSUE 12 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Count ratio model reveals bias affecting NGS fold changes.
+Shaping the landscape of the Escherichia coli chromosome: replication-transcription encounters in cells with an ectopic replication origin.
+Ty1 retrovirus-like element Gag contains overlapping restriction factor and nucleic acid chaperone functions.
+EXO1 is critical for embryogenesis and the DNA damage response in mice with a hypomorphic Nbs1 allele.
+A new method to prevent carry-over contaminations in two-step PCR NGS library preparations.
+Upregulating endogenous genes by an RNA-programmable artificial transactivator.
+Different motif requirements for the localization zipcode element of β-actin mRNA binding by HuD and ZBP1.
+SUV3 helicase is required for correct processing of mitochondrial transcripts.
+Synthetic biosensors for precise gene control and real-time monitoring of metabolites.
+The transcription factors SOX9 and SOX5/SOX6 cooperate genome-wide through super-enhancers to drive chondrogenesis.
+Structural and functional studies of the Mycobacterium tuberculosis VapBC30 toxin-antitoxin system: implications for the design of novel antimicrobial peptides.
+Structural heterogeneity and functional diversity of topologically associating domains in mammalian genomes.
+Generation of supercoils in nicked and gapped DNA drives DNA unknotting and postreplicative decatenation.
+Structural basis of the mercury(II)-mediated conformational switching of the dual-function transcriptional regulator MerR.
+UV induced ubiquitination of the yeast Rad4–Rad23 complex promotes survival by regulating cellular dNTP pools.
+Nucleic acid-binding specificity of human FUS protein.
+Recovery of the poisoned topoisomerase II for DNA religation: coordinated motion of the cleavage core revealed with the microsecond atomistic simulation.
+Microbial species delineation using whole genome sequences.
+Transcriptomic profiling of gene expression and RNA processing during Leishmania major differentiation.
+Bacteriophage GIL01 gp7 interacts with host LexA repressor to enhance DNA binding and inhibit RecA-mediated auto-cleavage.
+Mediator tail subunits can form amyloid-like aggregates in vivo and affect stress response in yeast.
+A fungicide-responsive kinase as a tool for synthetic cell fate regulation.
+Phosphorylation regulates the Star-PAP-PIPKIα interaction and directs specificity toward mRNA targets.
+Tight regulation of plant immune responses by combining promoter and suicide exon elements.
+Structural basis for substrate recognition and processive cleavage mechanisms of the trimeric exonuclease PhoExo I.
+Identification of in vivo DNA-binding mechanisms of Pax6 and reconstruction of Pax6-dependent gene regulatory networks during forebrain and lens development.
+A nested parallel experiment demonstrates differences in intensity-dependence between RNA-seq and microarrays.
+Biological chromodynamics: a general method for measuring protein occupancy across the genome by calibrating ChIP-seq.
+MicroRNA-29b/Tet1 regulatory axis epigenetically modulates mesendoderm differentiation in mouse embryonic stem cells.
+The missing indels: an estimate of indel variation in a human genome and analysis of factors that impede detection.
+Destabilization of microRNAs in human cells by 3′ deadenylation mediated by PARN and CUGBP1.
+A network of SMG-8, SMG-9 and SMG-1 C-terminal insertion domain regulates UPF1 substrate recruitment and phosphorylation.
+Two separable functions of Ctp1 in the early steps of meiotic DNA double-strand break repair.
+Linking two DNA duplexes with a rigid linker for DNA nanotechnology.
+Enriching CRISPR-Cas9 targeted cells by co-targeting the HPRT gene.
+DDB2 modulates TGF-β signal transduction in human ovarian cancer cells by downregulating NEDD4L.
+Sense and antisense transcription are associated with distinct chromatin architectures across genes.
+Identifying novel sequence variants of RNA 3D motifs.
+Human DNA ligase III bridges two DNA ends to promote specific intermolecular DNA end joining.
+Characterization of ERM transactivation domain binding to the ACID/PTOV domain of the Mediator subunit MED25.
+In vitro evolution of distinct self-cleaving ribozymes in diverse environments.
+CTNNBL1 facilitates the association of CWC15 with CDC5L and is required to maintain the abundance of the Prp19 spliceosomal complex.
+Site-specific labeling of RNA by combining genetic alphabet expansion transcription and copper-free click chemistry.
+The XRCC1 phosphate-binding pocket binds poly (ADP-ribose) and is required for XRCC1 function.
+Transcriptional and post-transcriptional control of adipocyte differentiation by Jumonji domain-containing protein 6.
+Integrative genomic analysis in K562 chronic myelogenous leukemia cells reveals that proximal NCOR1 binding positively regulates genes that govern erythroid differentiation and Imatinib sensitivity.
+The NEIL glycosylases remove oxidized guanine lesions from telomeric and promoter quadruplex DNA structures.
+Structures of the T. brucei kRNA editing factor MRB1590 reveal unique RNA-binding pore motif contained within an ABC-ATPase fold.
+Redefining the transcriptional regulatory dynamics of classically and alternatively activated macrophages by deepCAGE transcriptomics.
+Chemical intervention of the NM23-H2 transcriptional programme on c-MYC via a novel small molecule.
+The structure of Rpf2–Rrs1 explains its role in ribosome biogenesis.
+Active promoters give rise to false positive ‘Phantom Peaks’ in ChIP-seq experiments.
+A predictive biophysical model of translational coupling to coordinate and control protein expression in bacterial operons.
+The ancestor of modern Holozoa acquired the CCA-adding enzyme from Alphaproteobacteria by horizontal gene transfer.
+Complementing tissue characterization by integrating transcriptome profiling from the Human Protein Atlas and from the FANTOM5 consortium.
+An atlas of RNA base pairs involving modified nucleobases with optimal geometries and accurate energies.
+BreakSeek: a breakpoint-based algorithm for full spectral range INDEL detection.
+Editorial: Nucleic Acids Research annual Web Server Issue in 2015.
+MRPrimer: a MapReduce-based method for the thorough design of valid and ranked primers for PCR.
+Dynamic contact network between ribosomal subunits enables rapid large-scale rotation during spontaneous translocation.
+Evidence that avian reovirus σNS is an RNA chaperone: implications for genome segment assortment.
+Primase-polymerases are a functionally diverse superfamily of replication and repair enzymes.
+Nucleic Acids Research: VOLUME 43 ISSUE 11 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Multiplexed highly-accurate DNA sequencing of closely-related HIV-1 variants using continuous long reads from single molecule, real-time sequencing.
+Ca2+ enrichment in culture medium potentiates effect of oligonucleotides.
+ECHO-liveFISH: in vivo RNA labeling reveals dynamic regulation of nuclear RNA foci in living tissues.
+BioJazz: in silico evolution of cellular networks with unbounded complexity using rule-based modeling.
+Ribosomal protein L10(L12)4 autoregulates expression of the Bacillus subtilis rplJL operon by a transcription attenuation mechanism.
+Transcription blockage by stable H-DNA analogs in vitro.
+FKBP51 employs both scaffold and isomerase functions to promote NF-κB activation in melanoma.
+The de-ubiquitylating enzymes USP26 and USP37 regulate homologous recombination by counteracting RAP80.
+SAMHD1 is a single-stranded nucleic acid binding protein with no active site-associated nuclease activity.
+Induced folding in RNA recognition by Arabidopsis thaliana DCL1.
+Structural and biochemical studies of the distinct activity profiles of Rai1 enzymes.
+Post-translational environmental switch of RadA activity by extein–intein interactions in protein splicing.
+microRNAs and the evolution of complex multicellularity: identification of a large, diverse complement of microRNAs in the brown alga Ectocarpus.
+Simultaneous live imaging of the transcription and nuclear position of specific genes.
+Molecular insights into HSD10 disease: impact of SDR5C1 mutations on the human mitochondrial RNase P complex.
+Ionic switch controls the DNA state in phage λ.
+The eIF3 complex of Leishmania—subunit composition and mode of recruitment to different cap-binding complexes.
+By the company they keep: interaction networks define the binding ability of transcription factors.
+Efficient conditional knockout targeting vector construction using co-selection BAC recombineering (CoSBR).
+MiRBooking simulates the stoichiometric mode of action of microRNAs.
+Smarcal1 promotes double-strand-break repair by nonhomologous end-joining.
+Functional VEGFA knockdown with artificial 3′-tailed mirtrons defined by 5′ splice site and branch point.
+The poor homology stringency in the heteroduplex allows strand exchange to incorporate desirable mismatches without sacrificing recognition in vivo.
+Transcriptome dynamics of the microRNA inhibition response.
+Decoupling of divergent gene regulation by sequence-specific DNA binding factors.
+Genome wide interactions of wild-type and activator bypass forms of σ54.
+Development of an intein-mediated split–Cas9 system for gene therapy.
+Chromatin and extracellular vesicle associated sperm RNAs.
+Cross talk between the response regulators PhoB and TctD allows for the integration of diverse environmental signals in Pseudomonas aeruginosa.
+Targeted DNA damage at individual telomeres disrupts their integrity and triggers cell death.
+FDF-PAGE: a powerful technique revealing previously undetected small RNAs sequestered by complementary transcripts.
+p27Kip1 and p21Cip1 collaborate in the regulation of transcription by recruiting cyclin–Cdk complexes on the promoters of target genes.
+Cooperativity-based modeling of heterotypic DNA nanostructure assembly.
+Widespread occurrence of N6-methyladenosine in bacterial mRNA.
+SERBP1 affects homologous recombination-mediated DNA repair by regulation of CtIP translation during S phase.
+Distinct sets of PIWI proteins produce arbovirus and transposon-derived piRNAs in Aedes aegypti mosquito cells.
+Resistance of mRNAs with AUG-proximal nonsense mutations to nonsense-mediated decay reflects variables of mRNA structure and translational activity.
+Natural variability of minimotifs in 1092 people indicates that minimotifs are targets of evolution.
+RNAssess—a web server for quality assessment of RNA 3D structures.
+DNA hairpins destabilize duplexes primarily by promoting melting rather than by inhibiting hybridization.
+Controlling tetramer formation, subunit rotation and DNA ligation during Hin-catalyzed DNA inversion.
+The RAD52-like protein ODB1 is required for the efficient excision of two mitochondrial introns spliced via first-step hydrolysis.
+R3D-2-MSA: the RNA 3D structure-to-multiple sequence alignment server.
+A cis-encoded sRNA, Hfq and mRNA secondary structure act independently to suppress IS200 transposition.
+Surface plasmon resonance imaging reveals multiple binding modes of Agrobacterium transformation mediator VirE2 to ssDNA.
+CATNAP: a tool to compile, analyze and tally neutralizing antibody panels.
+Sequence-independent characterization of viruses based on the pattern of viral small RNAs produced by the host.
+Context-specific role of SOX9 in NF-Y mediated gene regulation in colorectal cancer cells.
+A fine balance: epigenetic control of cellular quiescence by the tumor suppressor PRDM2/RIZ at a bivalent domain in the cyclin a gene.
+Partitioning between recoding and termination at a stop codon–selenocysteine insertion sequence.
+SNiPlay3: a web-based application for exploration and large scale analyses of genomic variations.
+Bacteriophage Xp10 anti-termination factor p7 induces forward translocation by host RNA polymerase.
+RNautophagy/DNautophagy possesses selectivity for RNA/DNA substrates.
+TBP-like protein (TLP) interferes with Taspase1-mediated processing of TFIIA and represses TATA box gene expression.
+PRC2 regulates RNA polymerase III transcribed non-translated RNA gene transcription through EZH2 and SUZ12 interaction with TFIIIC complex.
+Mechanism of heat stress-induced cellular senescence elucidates the exclusive vulnerability of early S-phase cells to mild genotoxic stress.
+I-COMS: Interprotein-COrrelated Mutations Server.
+Outwitting EF-Tu and the ribosome: translation with d-amino acids.
+MINT: software to identify motifs and short-range interactions in trajectories of nucleic acids.
+Caffeine inhibits gene conversion by displacing Rad51 from ssDNA.
+Caffeine impairs resection during DNA break repair by reducing the levels of nucleases Sae2 and Dna2.
+Multivalent ion-mediated nucleic acid helix-helix interactions: RNA versus DNA.
+sRNAtoolbox: an integrated collection of small RNA research tools.
+INGA: protein function prediction combining interaction networks, domain assignments and sequence similarity.
+RNAiFold 2.0: a web server and software to design custom and Rfam-based RNA molecules.
+A novel hybrid single molecule approach reveals spontaneous DNA motion in the nucleosome.
+Nucleotidyl transferase assisted DNA labeling with different click chemistries.
+Quantitative characterization of protein–protein complexes involved in base excision DNA repair.
+Real-time single-molecule studies of the motions of DNA polymerase fingers illuminate DNA synthesis mechanisms.
+The Cas6e ribonuclease is not required for interference and adaptation by the E. coli type I-E CRISPR-Cas system.
+Synthesis and triplex-forming properties of oligonucleotides capable of recognizing corresponding DNA duplexes containing four base pairs.
+DeAnnCNV: a tool for online detection and annotation of copy number variations from whole-exome sequencing data.
+PatternQuery: web application for fast detection of biomacromolecular structural patterns in the entire Protein Data Bank.
+Nucleic Acids Research: VOLUME 43 ISSUE 10 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+A modular open platform for systematic functional studies under physiological conditions.
+Disturbance-free rapid solution exchange for magnetic tweezers single-molecule studies.
+Tailor: a computational framework for detecting non-templated tailing of small silencing RNAs.
+Gene target specificity of the Super Elongation Complex (SEC) family: how HIV-1 Tat employs selected SEC members to activate viral transcription.
+Identifying high-affinity aptamer ligands with defined cross-reactivity using high-throughput guided systematic evolution of ligands by exponential enrichment.
+Two mechanisms coordinate replication termination by the Escherichia coli Tus–Ter complex.
+Regulation of the Type I-F CRISPR-Cas system by CRP-cAMP and GalM controls spacer acquisition and interference.
+Dynamics of MBD2 deposition across methylated DNA regions during malignant transformation of human mammary epithelial cells.
+Destruction of a distal hypoxia response element abolishes trans-activation of the PAG1 gene mediated by HIF-independent chromatin looping.
+DNA3′pp5′G de-capping activity of aprataxin: effect of cap nucleoside analogs and structural basis for guanosine recognition.
+Spring loading a pre-cleavage intermediate for hairpin telomere formation.
+StemChecker: a web-based tool to discover and explore stemness signatures in gene sets.
+LYRA, a webserver for lymphocyte receptor structural modeling.
+Global analysis of RNA cleavage by 5′-hydroxyl RNA sequencing.
+Haploinsufficiency predictions without study bias.
+Structure-guided sequence specificity engineering of the modification-dependent restriction endonuclease LpnPI.
+Bacillus subtilis RecO and SsbA are crucial for RecA-mediated recombinational DNA repair.
+Global transcription network incorporating distal regulator binding reveals selective cooperation of cancer drivers and risk genes.
+DNA-PKcs phosphorylates hnRNP-A1 to facilitate the RPA-to-POT1 switch and telomere capping after replication.
+Modulation of LSD1 phosphorylation by CK2/WIP1 regulates RNF168-dependent 53BP1 recruitment in response to DNA damage.
+Novel mechanism of gene regulation: the protein Rv1222 of Mycobacterium tuberculosis inhibits transcription by anchoring the RNA polymerase onto DNA.
+Stereospecific suppression of active site mutants by methylphosphonate substituted substrates reveals the stereochemical course of site-specific DNA recombination.
+TRF1 and TRF2 binding to telomeres is modulated by nucleosomal organization.
+ATP-dependent motor activity of the transcription termination factor Rho from Mycobacterium tuberculosis.
+Characterization of human herpesvirus 6A/B U94 as ATPase, helicase, exonuclease and DNA-binding proteins.
+Primerize: automated primer assembly for transcribing non-coding RNA domains.
+Nucleic Acids Research: VOLUME 43 ISSUE 9 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Removing unwanted variation in a differential methylation analysis of Illumina HumanMethylation450 array data.
+Frequency-based haplotype reconstruction from deep sequencing data of bacterial populations.
+A low-latency, big database system and browser for storage, querying and visualization of 3D genomic data.
+ATP-dependent G-quadruplex unfolding by Bloom helicase exhibits low processivity.
+AP endonuclease 1 prevents trinucleotide repeat expansion via a novel mechanism during base excision repair.
+SLX4 contributes to telomere preservation and regulated processing of telomeric joint molecule intermediates.
+Nicked-site substrates for a serine recombinase reveal enzyme–DNA communications and an essential tethering role of covalent enzyme–DNA linkages.
+Rational evolution of Cd2+-specific DNAzymes with phosphorothioate modified cleavage junction and Cd2+ sensing.
+Small RNA-mediated DNA (cytosine-5) methyltransferase 1 inhibition leads to aberrant DNA methylation.
+Significant expansion of the REST/NRSF cistrome in human versus mouse embryonic stem cells: potential implications for neural development.
+Cdt1-binding protein GRWD1 is a novel histone-binding protein that facilitates MCM loading through its influence on chromatin architecture.
+Mutations in the CRE pocket of bacterial RNA polymerase affect multiple steps of transcription.
+Splicing of a non-coding antisense transcript controls LEF1 gene expression.
+Genome-wide promoter binding profiling of protein phosphatase-1 and its major nuclear targeting subunits.
+An implementation of the Gillespie algorithm for RNA kinetics with logarithmic time update.
+N protein from lambdoid phages transforms NusA into an antiterminator by modulating NusA-RNA polymerase flap domain interactions.
+MS2PIP prediction server: compute and visualize MS2 peak intensity predictions for CID and HCD fragmentation.
+MyProteinNet: build up-to-date protein interaction networks for organisms, tissues and user-defined contexts.
+StarScan: a web server for scanning small RNA targets from degradome sequencing data.
+APPRIS WebServer and WebServices.
+Multidimensional gene search with Genehopper.
+Eukaryotic translation initiation factor eIF5 promotes the accuracy of start codon recognition by regulating Pi release and conformational transitions of the preinitiation complex.
+De novo design of heat-repressible RNA thermosensors in E. coli.
+Yeast high mobility group protein HMO1 stabilizes chromatin and is evicted during repair of DNA double strand breaks.
+SIFTER search: a web server for accurate phylogeny-based protein function prediction.
+CSI 3.0: a web server for identifying secondary and super-secondary structure in proteins using NMR chemical shifts.
+Heterologous protein production using euchromatin-containing expression vectors in mammalian cells.
+Longitudinal epigenetic and gene expression profiles analyzed by three-component analysis reveal down-regulation of genes involved in protein translation in human aging.
+ZCURVE 3.0: identify prokaryotic genes with higher accuracy as well as automatically and accurately select essential genes.
+NPDock: a web server for protein–nucleic acid docking.
+BCSearch: fast structural fragment mining over large collections of protein structures.
+PrionW: a server to identify proteins containing glutamine/asparagine rich prion-like domains and their amyloid cores.
+DIANA-miRPath v3.0: deciphering microRNA function with experimental support.
+Web-Beagle: a web server for the alignment of RNA secondary structures.
+IMP 2.0: a multi-species functional genomics portal for integration, visualization and prediction of protein functions and networks.
+GalaxyPepDock: a protein–peptide docking tool based on interaction similarity and energy optimization.
+ClustVis: a web tool for visualizing clustering of multivariate data using Principal Component Analysis and heatmap.
+The TOPCONS web server for consensus prediction of membrane protein topology and signal peptides.
+XPD localizes in mitochondria and protects the mitochondrial genome from oxidative DNA damage.
+Human nucleolar protein Nop52 (RRP1/NNP-1) is involved in site 2 cleavage in internal transcribed spacer 1 of pre-rRNAs at early stages of ribosome biogenesis.
+Structural and sequencing analysis of local target DNA recognition by MLV integrase.
+CATH FunFHMMer web server: protein functional annotations using functional family assignments.
+OrthoVenn: a web server for genome wide comparison and annotation of orthologous clusters across multiple species.
+RNA-Redesign: a web server for fixed-backbone 3D design of RNA.
+mRNA transfection of a novel TAL effector nuclease (TALEN) facilitates efficient knockout of HIV co-receptor CCR5.
+Identification of human telomerase assembly inhibitors enabled by a novel method to produce hTERT.
+Pse-in-One: a web server for generating various modes of pseudo components of DNA, RNA, and protein sequences.
+NaviCell Web Service for network-based data visualization.
+PhyloGene server for identification and visualization of co-evolving proteins using normalized phylogenetic profiles.
+SCUDO: a tool for signature-based clustering of expression profiles.
+The identity of the discriminator base has an impact on CCA addition.
+Intercalation processes of copper complexes in DNA.
+Design and bioinformatics analysis of genome-wide CLIP experiments.
+Duplex stem-loop-containing quadruplex motifs in the human genome: a combined genomic and structural study.
+Versatile genetic assembly system (VEGAS) to assemble pathways for expression in S. cerevisiae.
+YeastFab: the design and construction of standard biological parts for metabolic engineering in Saccharomyces cerevisiae.
+ProtPhylo: identification of protein–phenotype and protein–protein functional associations via phylogenetic profiling.
+xVis: a web server for the schematic visualization and interpretation of crosslink-derived spatial restraints.
+PockDrug-Server: a new web server for predicting pocket druggability on holo and apo proteins.
+Assembly constraints drive co-evolution among ribosomal constituents.
+Mitochondrial translocation of APE1 relies on the MIA pathway.
+Efficient exploration of pan-cancer networks by generalized covariance selection and interactive web content.
+RAX2: a genome-wide detection method of condition-associated transcription variation.
+The MEME Suite.
+Structure of the nuclease subunit of human mitochondrial RNase P.
+Human RNase P ribonucleoprotein is required for formation of initiation complexes of RNA polymerase III.
+PACCMIT/PACCMIT-CDS: identifying microRNA targets in 3′ UTRs and coding sequences.
+antiSMASH 3.0—a comprehensive resource for the genome mining of biosynthetic gene clusters.
+SELPHI: correlation-based identification of kinase-associated networks from global phospho-proteomics data sets.
+CDK-mediated RNF4 phosphorylation regulates homologous recombination in S-phase.
+HAT3-mediated acetylation of PCNA precedes PCNA monoubiquitination following exposure to UV radiation in Leishmania donovani.
+Cosmetics-triggered percutaneous remote control of transgene expression in mice.
+HMMER web server: 2015 update.
+(PS)2: protein structure prediction server version 3.0.
+FlyNet: a versatile network prioritization server for the Drosophila community.
+TFmiR: a web server for constructing and analyzing disease-specific transcription factor and miRNA co-regulatory networks.
+CCTOP: a Consensus Constrained TOPology prediction web server.
+CABS-dock web server for the flexible docking of peptides to proteins without prior knowledge of the binding site.
+MapMyFlu: visualizing spatio-temporal relationships between related influenza sequences.
+FNTM: a server for predicting functional networks of tissues in mouse.
+Galahad: a web server for drug effect analysis from gene expression.
+NFFinder: an online bioinformatics tool for searching similar transcriptomics experiments in the context of drug repositioning.
+RNAPattMatch: a web server for RNA sequence/structure motif detection based on pattern matching with flexible gaps.
+Prediction of nucleic acid binding probability in proteins: a neighboring residue network based score.
+Structural insights into catalysis and dimerization enhanced exonuclease activity of RNase J.
+Shape-selective recognition of DNA abasic sites by metallohelices: inhibition of human AP endonuclease 1.
+Assessment of small RNA sorting into different extracellular fractions revealed by high-throughput sequencing of breast cell lines.
+Generation of functionally distinct isoforms of PTBP3 by alternative splicing and translation initiation.
+Arginine methylation of DRBD18 differentially impacts its opposing effects on the trypanosome transcriptome.
+The SOX9 upstream region prone to chromosomal aberrations causing campomelic dysplasia contains multiple cartilage enhancers.
+Accurate identification of centromere locations in yeast genomes using Hi-C.
+Role of intragenic binding of cAMP responsive protein (CRP) in regulation of the succinate dehydrogenase genes Rv0249c-Rv0247c in TB complex mycobacteria.
+Mechanistic insights into temperature-dependent regulation of the simple cyanobacterial hsp17 RNA thermometer at base-pair resolution.
+The telomerase essential N-terminal domain promotes DNA synthesis by stabilizing short RNA–DNA hybrids.
+Loop flexibility in human telomeric quadruplex small-molecule complexes.
+Pathways with PathWhiz.
+An HDAC2-TET1 switch at distinct chromatin regions significantly promotes the maturation of pre-iPS to iPS cells.
+Signal integration by the CYP1A1 promoter — a quantitative study.
+Signatures of accelerated somatic evolution in gene promoters in multiple cancer types.
+PUG-SOAP and PUG-REST: web services for programmatic access to chemical information in PubChem.
+Localize.pytom: a modern webserver for cryo-electron tomography.
+Intermolecular ‘cross-torque’: the N4-cytosine propargyl residue is rotated to the ‘CH’-edge as a result of Watson–Crick interaction.
+Splice junctions are constrained by protein disorder.
+MDC1 functionally identified as an androgen receptor co-activator participates in suppression of prostate cancer.
+The transcriptional PPARβ/δ network in human macrophages defines a unique agonist-induced activation state.
+Nucleic Acids Research: VOLUME 43 ISSUE 8 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Why weight? Modelling sample and observational level variability improves power in RNA-seq analyses.
+TET1 is controlled by pluripotency-associated factors in ESCs and downmodulated by PRC2 in differentiated cells and tissues.
+i-cisTarget 2015 update: generalized cis-regulatory enrichment analysis in human, mouse and fly.
+PolySearch2: a significantly improved text-mining system for discovering associations between human diseases, genes, drugs, metabolites, toxins and more.
+NGL Viewer: a web application for molecular visualization.
+A novel sigma factor reveals a unique regulon controlling cell-specific recombination in Mycoplasma genitalium.
+Translation initiation factor eIF3 promotes programmed stop codon readthrough.
+Argonaute of the archaeon Pyrococcus furiosus is a DNA-guided nuclease that targets cognate DNA.
+The 9-1-1 checkpoint clamp coordinates resection at DNA double strand breaks.
+Molecular insights into HSD10 disease: impact of SDR5C1 mutations on the human mitochondrial RNase P complex.
+Balancing acts of SRI and an auto-inhibitory domain specify Set2 function at transcribed chromatin.
+Structural and functional analysis reveals that human OASL binds dsRNA to enhance RIG-I signaling.
+The ribonuclease DIS3 promotes let-7 miRNA maturation by degrading the pluripotency factor LIN28B mRNA.
+GenoLIB: a database of biological parts derived from a library of common plasmid features.
+TP53 mutations, tetraploidy and homologous recombination repair defects in early stage high-grade serous ovarian cancer.
+ChIP-Array 2: integrating multiple omics data to construct gene regulatory networks.
+IslandViewer 3: more flexible, interactive genomic island discovery, visualization and analysis.
+Stereochemical control of nucleosome targeting by platinum-intercalator antitumor agents.
+Stable complex formation of CENP-B with the CENP-A nucleosome.
+New insights into the regulatory mechanisms of ppGpp and DksA on Escherichia coli RNA polymerase–promoter complex.
+Extranucleosomal DNA enhances the activity of the LSD1/CoREST histone demethylase complex.
+A prophage-encoded actin-like protein required for efficient viral DNA replication in bacteria.
+High levels of TopBP1 induce ATR-dependent shut-down of rRNA transcription and nucleolar segregation.
+RPA70 depletion induces hSSB1/2-INTS3 complex to initiate ATR signaling.
+A novel RNA binding surface of the TAM domain of TIP5/BAZ2A mediates epigenetic regulation of rRNA genes.
+Structure-based functional identification of Helicobacter pylori HP0268 as a nuclease with both DNA nicking and RNase activities.
+Ectopic expression of RNF168 and 53BP1 increases mutagenic but not physiological non-homologous end joining.
+Dynamic signal processing by ribozyme-mediated RNA circuits to control gene expression.
+Inosine modifications in human tRNAs are incorporated at the precursor tRNA level.
+Identification of novel post-transcriptional features in olfactory receptor family mRNAs.
+A new transcription factor for mitosis: in Schizosaccharomyces pombe, the RFX transcription factor Sak1 works with forkhead factors to regulate mitotic expression.
+Targeting chromatin binding regulation of constitutively active AR variants to overcome prostate cancer resistance to endocrine-based therapies.
+Stock-based detection of protein oligomeric states in jsPISA.
+Identification of recurrent regulated alternative splicing events across human solid tumors.
+RSAT 2015: Regulatory Sequence Analysis Tools.
+Introducing the PRIDE Archive RESTful web services.
+BetaCavityWeb: a webserver for molecular voids and channels.
+Interspecific adaptation by binary choice at de novo polyomavirus T antigen site through accelerated codon-constrained Val-Ala toggling within an intrinsically disordered region.
+On the mechanism of RNA phosphodiester backbone cleavage in the absence of solvent.
+Crystal structure of the Bloom's syndrome helicase indicates a role for the HRDC domain in conformational changes.
+Sequencing the cap-snatching repertoire of H1N1 influenza provides insight into the mechanism of viral transcription initiation.
+Dissecting the nascent human transcriptome by analysing the RNA content of transcription factories.
+Synthesis of 2′-Fluoro RNA by Syn5 RNA polymerase.
+The iceLogo web server and SOAP service for determining protein consensus sequences.
+RBO Aleph: leveraging novel information sources for protein structure prediction.
+miRiadne: a web tool for consistent integration of miRNA nomenclature.
+The BioMart community portal: an innovative alternative to large, centralized data repositories.
+Babelomics 5.0: functional interpretation for new generations of genomic data.
+pyDockSAXS: protein–protein complex structure by SAXS and computational docking.
+MetaboAnalyst 3.0—making metabolomics more meaningful.
+Splicing of many human genes involves sites embedded within introns.
+The effect of RNA base lesions on mRNA translation.
+Genetic analysis of L123 of the tRNA-mimicking eukaryote release factor eRF1, an amino acid residue critical for discrimination of stop codons.
+Evolution of intraspecific transcriptomic landscapes in yeasts.
+BLM unfolds G-quadruplexes in different structural environments through different mechanisms.
+ChiNet uncovers rewired transcription subnetworks in tolerant yeast for advanced biofuels conversion.
+Implications of macromolecular crowding and reducing conditions for in vitro ribosome construction.
+Repression of hypoxia-inducible factor α signaling by Set7-mediated methylation.
+Functional validation of mouse tyrosinase non-coding regulatory DNA elements by CRISPR–Cas9-mediated mutagenesis.
+The amino-terminal tails of histones H2A and H3 coordinate efficient base excision repair, DNA damage signaling and postreplication repair in Saccharomyces cerevisiae.
+RAR/RXR binding dynamics distinguish pluripotency from differentiation associated cis-regulatory elements.
+Local DNA dynamics shape mutational patterns of mononucleotide repeats in human genomes.
+Single-cell, locus-specific bisulfite sequencing (SLBS) for direct detection of epimutations in DNA methylation patterns.
+A variable DNA recognition site organization establishes the LiaR-mediated cell envelope stress response of enterococci to daptomycin.
+Thioflavin T as a fluorescence probe for monitoring RNA metabolism at molecular and cellular levels.
+Allele-specific copy-number discovery from whole-genome and whole-exome sequencing.
+Telomere-associated proteins add deoxynucleotides to terminal proteins during replication of the telomeres of linear chromosomes and plasmids in Streptomyces.
+webSDA: a web server to simulate macromolecular diffusional association.
+CellWhere: graphical display of interaction networks organized on subcellular localizations.
+QmRLFS-finder: a model, web server and stand-alone tool for prediction and analysis of R-loop forming sequences.
+JPred4: a protein secondary structure prediction server.
+ENCoM server: exploring protein conformational space and the effect of mutations on protein function and stability.
+Assessing the impact of mutations found in next generation sequencing data over human signaling pathways.
+FAF-Drugs3: a web server for compound property calculation and chemical library design.
+I-TASSER server: new development for protein structure and function predictions.
+The ReproGenomics Viewer: an integrative cross-species toolbox for the reproductive science community.
+ChEMBL web services: streamlining access to drug discovery data and utilities.
+GUIDANCE2: accurate detection of unreliable alignment regions accounting for the uncertainty of multiple parameters.
+AGGRESCAN3D (A3D): server for prediction of aggregation properties of protein structures.
+A novel family of integrases associated with prophages and genomic islands integrated within the tRNA-dihydrouridine synthase A (dusA) gene.
+Survey of protein–DNA interactions in Aspergillus oryzae on a genomic scale.
+The many faces of Dicer: the complexity of the mechanisms regulating Dicer gene expression and enzyme activities.
+DNA damage-induced activation of CUL4B targets HUWE1 for proteasomal degradation.
+The B-WICH chromatin-remodelling complex regulates RNA polymerase III transcription by promoting Max-dependent c-Myc binding.
+Integrative genomic analysis reveals widespread enhancer regulation by p53 in response to DNA damage.
+PheNetic: network-based interpretation of molecular profiling data.
+NGS-eval: NGS Error analysis and novel sequence VAriant detection tooL.
+Splice-shifting oligonucleotide (SSO) mediated blocking of an exonic splicing enhancer (ESE) created by the prevalent c.903+469T>C MTRR mutation corrects splicing and restores enzyme activity in patient cells.
+Nucleic Acids Research: VOLUME 43 ISSUE 7 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+cMonkey2: Automated, systematic, integrated detection of co-regulated gene modules for any organism.
+Microfluidic droplet enrichment for targeted sequencing.
+PLIP: fully automated protein–ligand interaction profiler.
+NMD3 regulates both mRNA and rRNA nuclear export in African trypanosomes via an XPOI-linked pathway.
+Regulation of NEIL1 protein abundance by RAD9 is important for efficient base excision repair.
+Assessing the translational landscape of myogenic differentiation by ribosome profiling.
+Improving small RNA-seq by using a synthetic spike-in set for size-range quality control together with a set for data normalization.
+Large scale analysis of the mutational landscape in HT-SELEX improves aptamer discovery.
+Identification of protein coding regions in RNA transcripts.
+Functional interplay between the RK motif and linker segment dictates Oct4–DNA recognition.
+Protein degradation and dynamic tRNA thiolation fine-tune translation at elevated temperatures.
+CWC22-dependent pre-mRNA splicing and eIF4A3 binding enables global deposition of exon junction complexes.
+A serine–arginine-rich (SR) splicing factor modulates alternative splicing of over a thousand genes in Toxoplasma gondii.
+Live cell imaging of duplex siRNA intracellular trafficking.
+Linker histone partial phosphorylation: effects on secondary structure and chromatin condensation.
+Major centers of motion in the large ribosomal RNAs.
+WAXSiS: a web server for the calculation of SAXS/WAXS curves based on explicit-solvent molecular dynamics.
+MTiOpenScreen: a web server for structure-based virtual screening.
+SANSparallel: interactive homology search against Uniprot.
+The EBI Search engine: providing search and retrieval functionality for biological data from EMBL-EBI.
+TCS: a web server for multiple sequence alignment evaluation and phylogenetic reconstruction.
+The HIV-1 Rev response element (RRE) adopts alternative conformations that promote different rates of virus replication.
+Structural and functional analysis of the Rpf2-Rrs1 complex in ribosome biogenesis.
+2′-Fluoro-modified phosphorothioate oligonucleotide can cause rapid degradation of P54nrb and PSF.
+Unique C. elegans telomeric overhang structures reveal the evolutionarily conserved properties of telomeric DNA.
+The COP9 signalosome is vital for timely repair of DNA double-strand breaks.
+Determinants of the CmoB carboxymethyl transferase utilized for selective tRNA wobble modification.
+Are mutagenic non D-loop direct repeat motifs in mitochondrial DNA under a negative selection pressure?
+The EMBL-EBI bioinformatics web and programmatic tools framework.
+Molecular crowding enhances facilitated diffusion of two human DNA glycosylases.
+Reconstructing genome-scale metabolic models with merlin.
+A universal strategy for regulating mRNA translation in prokaryotic and eukaryotic cells.
+A common tRNA modification at an unusual location: the discovery of wyosine biosynthesis in mitochondria.
+Gadd45a promotes DNA demethylation through TDG.
+Uncoupling histone turnover from transcription-associated histone H3 modifications.
+Nuclear pore components affect distinct stages of intron-containing gene expression.
+A functional screen identifies miRNAs that inhibit DNA repair and sensitize prostate cancer cells to ionizing radiation.
+Structures of Escherichia coli DNA adenine methyltransferase (Dam) in complex with a non-GATC sequence: potential implications for methylation-independent transcriptional repression.
+RBM7 subunit of the NEXT complex binds U-rich sequences and targets 3′-end extended forms of snRNAs.
+Heat-induced ribosome pausing triggers mRNA co-translational decay in Arabidopsis thaliana.
+Splicing factor SRSF1 negatively regulates alternative splicing of MDM2 under damage.
+Specificity of the ModA11, ModA12 and ModD1 epigenetic regulator N6-adenine DNA methyltransferases of Neisseria meningitidis.
+Next-generation sequencing reveals the biological significance of the N2,3-ethenoguanine lesion in vivo.
+Robust meta-analysis of gene expression using the elastic net.
+An update on LNCipedia: a database for annotated human lncRNA sequences.
+Nucleic Acids Research: VOLUME 43 ISSUE 6 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+High-throughput assay and engineering of self-cleaving ribozymes by sequencing.
+Boosting riboswitch efficiency by RNA amplification.
+Nucleosomes undergo slow spontaneous gaping.
+Differences in genome-wide repeat sequence instability conferred by proofreading and mismatch repair defects.
+RNA editing by T7 RNA polymerase bypasses InDel mutations causing unexpected phenotypic changes.
+Effects of Hfq on the conformation and compaction of DNA.
+Heterogeneous dynamics in DNA site discrimination by the structurally homologous DNA-binding domains of ETS-family transcription factors.
+Heme activation by DNA: isoguanine pentaplexes, but not quadruplexes, bind heme and enhance its oxidative activity.
+The interaction of mycobacterial protein Rv2966c with host chromatin is mediated through non-CpG methylation and histone H3/H4 binding.
+Suppression of the E. coli SOS response by dNTP pool changes.
+The hexameric structure of the human mitochondrial replicative helicase Twinkle.
+Active displacement of RecA filaments by UvrD translocase activity.
+Selective inhibition of miR-21 by phage display screened peptide.
+RefSeq microbial genomes database: new representation and annotation strategy.
+Nucleic Acids Research: VOLUME 43 WEB SERVER ISSUE JULY 1, 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+IntFOLD: an integrated server for modelling protein structures and functions from amino acid sequences.
+A method for mutagenesis of mouse mtDNA and a resource of mouse mtDNA mutations for modeling human pathological conditions.
+New insights into the performance of human whole-exome capture platforms.
+A thesaurus of genetic variation for interrogation of repetitive genomic regions.
+RoboOligo: software for mass spectrometry data to support manual and de novo sequencing of post-transcriptionally modified ribonucleic acids.
+RNA polymerase II pausing can be retained or acquired during activation of genes involved in the epithelial to mesenchymal transition.
+Significance of ligand interactions involving Hop2-Mnd1 and the RAD51 and DMC1 recombinases in homologous DNA repair and XX ovarian dysgenesis.
+Modeling the relationship of epigenetic modifications to transcription factor binding.
+The structural impact of DNA mismatches.
+The feedback control of UPF3 is crucial for RNA surveillance in plants.
+Distribution of DNA-condensing protein complexes in the adenovirus core.
+A new approach for annotation of transposable elements using small RNA mapping.
+Post-conversion targeted capture of modified cytosines in mammalian and plant genomes.
+RiceNet v2: an improved network prioritization server for rice genes.
+AKT phosphorylates H3-threonine 45 to facilitate termination of gene transcription in response to DNA damage.
+Intramolecular circularization increases efficiency of RNA sequencing and enables CLIP-Seq of nuclear RNA from human cells.
+H3K4 monomethylation dictates nucleosome dynamics and chromatin remodeling at stress-responsive genes.
+Regulation of yeast DNA polymerase δ-mediated strand displacement synthesis by 5′-flaps.
+Epigenetic regulation of intragenic transposable elements impacts gene transcription in Arabidopsis thaliana.
+SubmiRine: assessing variants in microRNA targets using clinical genomic data sets.
+The NEIL glycosylases remove oxidized guanine lesions from telomeric and promoter quadruplex DNA structures.
+Disruption of PARP1 function inhibits base excision repair of a sub-set of DNA lesions.
+Subunit compositions of Arabidopsis RNA polymerases I and III reveal Pol I- and Pol III-specific forms of the AC40 subunit and alternative forms of the C53 subunit.
+New insights into Hoogsteen base pairs in DNA duplexes from a structure-based survey.
+A set of powerful negative selection systems for unmodified Enterobacteriaceae.
+SplicePie: a novel analytical approach for the detection of alternative, non-sequential and recursive splicing.
+Identification of human MutY homolog (hMYH) as a repair enzyme for 2-hydroxyadenine in DNA and detection of multiple forms of hMYH located in nuclei and mitochondria.
+Pathway analysis from lists of microRNAs: common pitfalls and alternative strategy.
+The chromatin scaffold protein SAFB1 localizes SUMO-1 to the promoters of ribosomal protein genes to facilitate transcription initiation and splicing.
+Two RNA recognition motif-containing proteins are plant mitochondrial editing factors.
+Mycoreovirus genome rearrangements associated with RNA silencing deficiency.
+PCAF-primed EZH2 acetylation regulates its stability and promotes lung adenocarcinoma progression.
+A model for transcription initiation in human mitochondria.
+Identification of lncRNA-associated competing triplets reveals global patterns and prognostic markers for cancer.
+A general approach to high-yield biosynthesis of chimeric RNAs bearing various types of functional small RNAs for broad applications.
+Advances in CRISPR-Cas9 genome engineering: lessons learned from RNA interference.
+Magnesium-binding architectures in RNA crystal structures: validation, binding preferences, classification and motif detection.
+Cells deficient in base-excision repair reveal cancer hallmarks originating from adjustments to genetic instability.
+Assessing the limits of restraint-based 3D modeling of genomes and genomic domains.
+Mechano-chemical kinetics of DNA replication: identification of the translocation step of a replicative DNA polymerase.
+Ribosome A and P sites revealed by length analysis of ribosome profiling data.
+Integrating motif, DNA accessibility and gene expression data to build regulatory maps in an organism.
+Dumbbell-PCR: a method to quantify specific small RNA variants with a single nucleotide resolution at terminal sequences.
+mRNA maturation in giant viruses: variation on a theme.
+Quantitative analysis of single-molecule force spectroscopy on folded chromatin fibers.
+An Lnc RNA (GAS5)/SnoRNA-derived piRNA induces activation of TRAIL gene by site-specifically recruiting MLL/COMPASS-like complexes.
+Epstein–Barr virus transcription factor Zta acts through distal regulatory elements to directly control cellular gene expression.
+Invadolysin acts genetically via the SAGA complex to modulate chromosome structure.
+The nuclease FAN1 is involved in DNA crosslink repair in Arabidopsis thaliana independently of the nuclease MUS81.
+What matters for lac repressor search in vivo—sliding, hopping, intersegment transfer, crowding on DNA or recognition?
+DAP5 associates with eIF2β and eIF4AI to promote Internal Ribosome Entry Site driven translation.
+Identification of U2AF(35)-dependent exons by RNA-Seq reveals a link between 3′ splice-site organization and activity of U2AF-related proteins.
+Chemical and structural characterization of interstrand cross-links formed between abasic sites and adenine residues in duplex DNA.
+Distinguishing between productive and abortive promoters using a random forest classifier in Mycoplasma pneumoniae.
+Embryonic expression of endogenous retroviral RNAs in somatic tissues adjacent to the Oikopleura germline.
+Deacetylase inhibitors repress STAT5-mediated transcription by interfering with bromodomain and extra-terminal (BET) protein function.
+DNA cleavage by CgII and NgoAVII requires interaction between N- and R-proteins and extensive nucleotide hydrolysis.
+A statistical framework for revealing signaling pathways perturbed by DNA variants.
+Broadening the versatility of lentiviral vectors as a tool in nucleic acid research via genetic code expansion.
+Probing a label-free local bend in DNA by single molecule tethered particle motion.
+A fluorescence-based helicase assay: application to the screening of G-quadruplex ligands.
+Accurate read-based metagenome characterization using a hierarchical suite of unique signatures.
+Analysis of strand-specific RNA-seq data using machine learning reveals the structures of transcription units in Clostridium thermocellum.
+Unwinding forward and sliding back: an intermittent unwinding mode of the BLM helicase.
+Srs2 promotes Mus81–Mms4-mediated resolution of recombination intermediates.
+Evolutionary patterns of DNA base composition and correlation to polymorphisms in DNA repair systems.
+H3K9 methyltransferase G9a negatively regulates UHRF1 transcription during leukemia cell differentiation.
+The structure of human SFPQ reveals a coiled-coil mediated polymer essential for functional aggregation in gene regulation.
+A diverse epigenetic landscape at human exons with implication for expression.
+The hub protein loquacious connects the microRNA and short interfering RNA pathways in mosquitoes.
+Trade-offs between tRNA abundance and mRNA secondary structure support smoothing of translation elongation rate.
+RAD54 family translocases counter genotoxic effects of RAD51 in human tumor cells.
+Silent mutations at codons 65 and 66 in reverse transcriptase alleviate indel formation and restore fitness in subtype B HIV-1 containing D67N and K70R drug resistance mutations.
+Single molecule TPM analysis of the catalytic pentad mutants of Cre and Flp site-specific recombinases: contributions of the pentad residues to the pre-chemical steps of recombination.
+Genome engineering of isogenic human ES cells to model autism disorders.
+Nucleic Acids Research: VOLUME 43 ISSUE 5 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Fast and sensitive detection of indels induced by precise gene targeting.
+Development of a high-resolution NGS-based HLA-typing and analysis pipeline.
+The ribonucleotidyl transferase USIP-1 acts with SART3 to promote U6 snRNA recycling.
+Genome-wide CIITA-binding profile identifies sequence preferences that dictate function versus recruitment.
+Insulin-response epigenetic activation of Egr-1 and JunB genes at the nuclear periphery by A-type lamin-associated pY19-Caveolin-2 in the inner nuclear membrane.
+Effects of DNA3′pp5′G capping on 3′ end repair reactions and of an embedded pyrophosphate-linked guanylate on ribonucleotide surveillance.
+Structural insight into the mechanism of stabilization of the 7SK small nuclear RNA by LARP7.
+Stabilization of eukaryotic ribosomal termination complexes by deacylated tRNA.
+An intrinsically disordered region of methyl-CpG binding domain protein 2 (MBD2) recruits the histone deacetylase core of the NuRD complex.
+Short antisense-locked nucleic acids (all-LNAs) correct alternative splicing abnormalities in myotonic dystrophy.
+Identification of metabolically stable 5′-phosphate analogs that support single-stranded siRNA activity.
+Involvement of ATM in homologous recombination after end resection and RAD51 nucleofilament formation.
+A novel role for the mono-ADP-ribosyltransferase PARP14/ARTD8 in promoting homologous recombination and protecting against replication stress.
+Dissecting the behavior and function of MBD3 in DNA methylation homeostasis by single-molecule spectroscopy and microscopy.
+Hypoxia-induced gene expression results from selective mRNA partitioning to the endoplasmic reticulum.
+Malleable nature of mRNA-protein compositional complementarity and its functional significance.
+Crystal structure of Hop2–Mnd1 and mechanistic insights into its role in meiotic recombination.
+An LRP16-containing preassembly complex contributes to NF-κB activation induced by DNA double-strand breaks.
+Cwc21p promotes the second step conformation of the spliceosome and modulates 3′ splice site selection.
+How ‘arm-twisting’ by the inducer triggers activation of the MalT transcription factor, a typical signal transduction ATPase with numerous domains (STAND).
+U1 snRNP is mislocalized in ALS patient fibroblasts bearing NLS mutations in FUS and is required for motor neuron outgrowth in zebrafish.
+Crystal structures of the Gon7/Pcc1 and Bud32/Cgi121 complexes provide a model for the complete yeast KEOPS complex.
+New insights into stop codon recognition by eRF1.
+The architecture of ArgR-DNA complexes at the genome-scale in Escherichia coli.
+A positioned +1 nucleosome enhances promoter-proximal pausing.
+The contribution of cohesin-SA1 to gene expression and chromatin architecture in two murine tissues.
+Multimerization of Drosophila sperm protein Mst77F causes a unique condensed chromatin structure.
+Nucleic Acids Research: VOLUME 43 ISSUE 4 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+multiSNV: a probabilistic approach for improving detection of somatic point mutations from multiple related tumour samples.
+SC3-seq: a method for highly parallel and quantitative measurement of single-cell gene expression.
+RNAe: an effective method for targeted protein translation enhancement by artificial non-coding RNA with SINEB2 repeat.
+Base-resolution methylation patterns accurately predict transcription factor bindings in vivo.
+DNA repair and recovery of RNA synthesis following exposure to ultraviolet light are delayed in long genes.
+Dynamic Escherichia coli SeqA complexes organize the newly replicated DNA at a considerable distance from the replisome.
+The RNA helicase DDX6 regulates cell-fate specification in neural stem cells via miRNAs.
+Unraveling the mechanistic features of RNA polymerase II termination by the 5′-3′ exoribonuclease Rat1.
+Structural basis for recognition of G-1-containing tRNA by histidyl-tRNA synthetase.
+Dissecting the role of the ϕ29 terminal protein DNA binding residues in viral DNA replication.
+3dRNAscore: a distance and torsion angle dependent evaluation function of 3D RNA structures.
+Lesion search and recognition by thymine DNA glycosylase revealed by single molecule imaging.
+Assessing the prevalence of mycoplasma contamination in cell culture via a survey of NCBI's RNA-seq archive.
+Roles of Rad51 paralogs for promoting homologous recombination in Leishmania infantum.
+The beta hairpin structure within ribosomal protein S5 mediates interplay between domains II and IV and regulates HCV IRES function.
+H3K4me3 demethylation by the histone demethylase KDM5C/JARID1C promotes DNA replication origin firing.
+Generation of a conditionally self-eliminating HAC gene delivery vector through incorporation of a tTAVP64 expression cassette.
+Gene-specific cell labeling using MiMIC transposons.
+A genome-wide analysis of Cas9 binding specificity using ChIP-seq and targeted sequence capture.
+Identification and characterization of intracellular proteins that bind oligonucleotides with phosphorothioate linkages.
+Inhibition of HCV translation by disrupting the structure and interactions of the viral CRE and 3′ X-tail.
+EWS-FLI1 employs an E2F switch to drive target gene expression.
+Structural plasticity of Cid1 provides a basis for its distributive RNA terminal uridylyl transferase activity.
+Structure and regulatory role of the C-terminal winged helix domain of the archaeal minichromosome maintenance complex.
+Ovarian carcinoma CDK12 mutations misregulate expression of DNA repair genes via deficient formation and function of the Cdk12/CycK complex.
+Multiple facets of histone variant H2AX: a DNA double-strand-break marker with several biological functions.
+CarD stabilizes mycobacterial open complexes via a two-tiered kinetic mechanism.
+Restriction-modification system with methyl-inhibited base excision and abasic-site cleavage activities.
+Alu RNA regulates the cellular pool of active ribosomes by targeted delivery of SRP9/14 to 40S subunits.
+A novel endonuclease that may be responsible for damaged DNA base repair in Pyrococcus furiosus.
+In plants, decapping prevents RDR6-dependent production of small interfering RNAs from endogenous mRNAs.
+bHLH proteins involved in Drosophila neurogenesis are mutually regulated at the level of stability.
+Highly efficient CRISPR/Cas9-mediated TAR cloning of genes and chromosomal loci from complex genomes in yeast.
+Inferential modeling of 3D chromatin structure.
+The nucleoporin Mlp2 is involved in chromosomal distribution during mitosis in trypanosomatids.
+High-throughput data integration of RNA–miRNA–circRNA reveals novel insights into mechanisms of benzo[a]pyrene-induced carcinogenicity.
+2-Thiouracil deprived of thiocarbonyl function preferentially base pairs with guanine rather than adenine in RNA and DNA duplexes.
+RNA polymerase-induced remodelling of NusA produces a pause enhancement complex.
+Accurate multiplexing and filtering for high-throughput amplicon-sequencing.
+Synergistic effects of ATP and RNA binding to human DEAD-box protein DDX1.
+TEFM is a potent stimulator of mitochondrial transcription elongation in vitro.
+CHK1-driven histone H3.3 serine 31 phosphorylation is important for chromatin maintenance and cell survival in human ALT cancer cells.
+Epigenetic remodeling in B-cell acute lymphoblastic leukemia occurs in two tracks and employs embryonic stem cell-like signatures.
+Single-molecule kinetics and footprinting of DNA bis-intercalation: the paradigmatic case of Thiocoraline.
+Identification of a second GTP-bound magnesium ion in archaeal initiation factor 2.
+Concerted and differential actions of two enzymatic domains underlie Rad5 contributions to DNA damage tolerance.
+Single molecule analysis of Trypanosoma brucei DNA replication dynamics.
+Functional mapping of the plant small RNA methyltransferase: HEN1 physically interacts with HYL1 and DICER-LIKE 1 proteins.
+Nucleic Acids Research: VOLUME 43 ISSUE 3 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Following the footprints of polymorphic inversions on SNP data: from detection to association tests.
+Development of synthetic selfish elements based on modular nucleases in Drosophila melanogaster.
+Human Rap1 modulates TRF2 attraction to telomeric DNA.
+Replication fork integrity and intra-S phase checkpoint suppress gene amplification.
+Brr2 plays a role in spliceosomal activation in addition to U4/U6 unwinding.
+Structural insights into the recognition of the internal A-rich linker from OxyS sRNA by Escherichia coli Hfq.
+Conformational changes in the P site and mRNA entry channel evoked by AUG recognition in yeast translation preinitiation complexes.
+DNA recognition by Escherichia coli CbpA protein requires a conserved arginine–minor-groove interaction.
+Structural role of the flanking DNA in mariner transposon excision.
+Mechanism of foreign DNA recognition by a CRISPR RNA-guided surveillance complex from Pseudomonas aeruginosa.
+Combinatorial recognition of a complex telomere repeat sequence by the Candida parapsilosis Cdc13AB heterodimer.
+Visualization and quantitative analysis of extrachromosomal telomere-repeat DNA in individual human cells by Halo-FISH.
+HP1BP3 is a novel histone H1 related protein with essential roles in viability and growth.
+MicroRNA-26a induced by hypoxia targets HDAC6 in myogenic differentiation of embryonic stem cells.
+Degradation of DNA damage-independently stalled RNA polymerase II is independent of the E3 ligase Elc1.
+Defining the sequence requirements for the positioning of base J in DNA using SMRT sequencing.
+Autonomous actions of the human growth hormone long-range enhancer.
+FUBP1: a new protagonist in splicing regulation of the DMD gene.
+Direct observation of the translocation mechanism of transcription termination factor Rho.
+Nucleotide excision repair efficiency in quiescent human fibroblasts is modulated by circadian clock.
+Analyzing ion distributions around DNA: sequence-dependence of potassium ion distributions from microsecond molecular dynamics.
+Complementation of aprataxin deficiency by base excision repair enzymes.
+Effects of HIV-1 reverse transcriptase connection subdomain mutations on polypurine tract removal and initiation of (+)-strand DNA synthesis.
+FF483–484 motif of human Polη mediates its interaction with the POLD2 subunit of Polδ and contributes to DNA damage tolerance.
+Transfer activation of SXT/R391 integrative and conjugative elements: unraveling the SetCD regulon.
+Luzp4 defines a new mRNA export pathway in cancer cells.
+High-throughput screening identifies small molecules that enhance the pharmacological effects of oligonucleotides.
+Impact of template backbone heterogeneity on RNA polymerase II transcription.
+RNA circularization strategies in vivo and in vitro.
+Viroid RNA turnover: characterization of the subgenomic RNAs of potato spindle tuber viroid accumulating in infected tissues provides insights into decay pathways operating in vivo.
+A rapid and sensitive high-throughput screening method to identify compounds targeting protein–nucleic acids interactions.
+CAGEr: precise TSS data retrieval and high-resolution promoterome mining for integrative analyses.
+Fungal Ku prevents permanent cell cycle arrest by suppressing DNA damage signaling at telomeres.
+Yeast Kre33 and human NAT10 are conserved 18S rRNA cytosine acetyltransferases that modify tRNAs assisted by the adaptor Tan1/THUMPD1.
+Identifying core gene modules in glioblastoma based on multilayer factor-mediated dysfunctional regulatory networks through integrating multi-dimensional genomic data.
+Structural and functional characterization of a cell cycle associated HDAC1/2 complex reveals the structural basis for complex assembly and nucleosome targeting.
+Telomeric repeat-containing RNA/G-quadruplex-forming sequences cause genome-wide alteration of gene expression in human cancer cells in vivo.
+Identification of a new ribose methylation in the 18S rRNA of S. cerevisiae.
+Characterization of the mammalian miRNA turnover landscape.
+Effects of physiological self-crowding of DNA on shape and biological properties of DNA molecules with various levels of supercoiling.
+Stable heteroplasmy at the single-cell level is facilitated by intercellular exchange of mtDNA.
+Insights into the mechanism of a G-quadruplex-unwinding DEAH-box helicase.
+Spatial re-organization of myogenic regulatory sequences temporally controls gene expression.
+qDNAmod: a statistical model-based tool to reveal intercellular heterogeneity of DNA modification from SMRT sequencing data.
+Sequence-specific cleavage of dsRNA by Mini-III RNase.
+Integrated mechanism for the generation of the 5′ junctions of LINE inserts.
+The Mediator complex of Caenorhabditis elegans: insights into the developmental and physiological roles of a conserved transcriptional coregulator.
+Genome-wide features of neuroendocrine regulation in Drosophila by the basic helix-loop-helix transcription factor DIMMED.
+Increased functional protein expression using nucleotide sequence features enriched in highly expressed genes in zebrafish.
+Regulation of mammalian nucleotide metabolism and biosynthesis.
+Accurate transcriptome-wide prediction of microRNA targets and small interfering RNA off-targets with MIRZA-G.
+Recombinase and translesion DNA polymerase decrease the speed of replication fork progression during the DNA damage response in Escherichia coli cells.
+NTF2-like domain of Tap plays a critical role in cargo mRNA recognition and export.
+Functional regulation of the DNA damage-recognition factor DDB2 by ubiquitination and interaction with xeroderma pigmentosum group C protein.
+An intercalation-locked parallel-stranded DNA tetraplex.
+The principal mRNA nuclear export factor NXF1:NXT1 forms a symmetric binding platform that facilitates export of retroviral CTE-RNA.
+A physiological significance of the functional interaction between Mus81 and Rad27 in homologous recombination repair.
+The POLD3 subunit of DNA polymerase δ can promote translesion synthesis independently of DNA polymerase ζ.
+A defense-offense multi-layered regulatory switch in a pathogenic bacterium.
+A moonlighting metabolic protein influences repair at DNA double-stranded breaks.
+Human regulator of telomere elongation helicase 1 (RTEL1) is required for the nuclear and cytoplasmic trafficking of pre-U2 RNA.
+Solid-phase cloning for high-throughput assembly of single and multiple DNA parts.
+CODEX: a normalization and copy number variation detection method for whole exome sequencing.
+Nucleic Acids Research: VOLUME 43 ISSUE 2 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Engineered ribosomal RNA operon copy-number variants of E. coli reveal the evolutionary trade-offs shaping rRNA operon number.
+Domain organization within the nuclear export factor Mex67:Mtr2 generates an extended mRNA binding surface.
+Structural insight into how the human helicase subunit MCM2 may act as a histone chaperone together with ASF1 at the replication fork.
+Identification of novel Arabidopsis thaliana upstream open reading frames that control expression of the main coding sequences in a peptide sequence-dependent manner.
+Detecting riboSNitches with RNA folding algorithms: a genome-wide benchmark.
+A basal level of DNA damage and telomere deprotection increases the sensitivity of cancer cells to G-quadruplex interactive compounds.
+Function of the N-terminal segment of the RecA-dependent nuclease Ref.
+Genome-wide analyses of LINE–LINE-mediated nonallelic homologous recombination.
+Ad 2.0: a novel recombineering platform for high-throughput generation of tailored adenoviruses.
+The solution structure of the pentatricopeptide repeat protein PPR10 upon binding atpH RNA.
+ZBTB2 increases PDK4 expression by transcriptional repression of RelA/p65.
+Global Oct4 target gene analysis reveals novel downstream PTEN and TNC genes required for drug-resistance and metastasis in lung cancer.
+RPI-Pred: predicting ncRNA-protein interaction using sequence and structural information.
+The Krüppel-associated box repressor domain induces reversible and irreversible regulation of endogenous mouse genes by mediating different chromatin states.
+Enhancer modeling uncovers transcriptional signatures of individual cardiac cell states in Drosophila.
+limma powers differential expression analyses for RNA-sequencing and microarray studies.
+Molecular mechanisms in DM1 — a focus on foci.
+A minimal ubiquitous chromatin opening element (UCOE) effectively prevents silencing of juxtaposed heterologous promoters by epigenetic remodeling in multipotent and pluripotent stem cells.
+Evaluating the potential for undesired genomic effects of the piggyBac transposon system in human cells.
+Alternative splicing regulates the expression of G9A and SUV39H2 methyltransferases, and dramatically changes SUV39H2 functions.
+A KALA-modified lipid nanoparticle containing CpG-free plasmid DNA as a potential DNA vaccine carrier for antigen presentation and as an immune-stimulative adjuvant.
+Bacterial global regulators DksA/ppGpp increase fidelity of transcription.
+ARGONAUTE2 cooperates with SWI/SNF complex to determine nucleosome occupancy at human Transcription Start Sites.
+Identification of protein complexes that bind to histone H3 combinatorial modifications using super-SILAC and weighted correlation network analysis.
+Identification of the target DNA sequence and characterization of DNA binding features of HlyU, and suggestion of a redox switch for hlyA expression in the human pathogen Vibrio cholerae from in silico studies.
+Nucleic Acids Research: VOLUME 43 DATABASE ISSUE JANUARY 28, 2015.
+Subscriptions.
+Nucleic Acids Research: Editorial Board.
+Development of a unique epigenetic signature during in vivo Th17 differentiation.
+A systematic survey of the Cys2His2 zinc finger DNA-binding landscape.
+Primary and secondary siRNA synthesis triggered by RNAs from food bacteria in the ciliate Paramecium tetraurelia.
+Interaction between the RNA-dependent ATPase and poly(A) polymerase subunits of the TRAMP complex is mediated by short peptides and important for snoRNA processing.
+Sequences spanning the leader-repeat junction mediate CRISPR adaptation to phage in Streptococcus thermophilus.
+DNA lesion identity drives choice of damage tolerance pathway in murine cell chromosomes.
+Amplification of small molecule-inducible gene expression via tuning of intracellular receptor densities.
+Opposing roles of H3- and H4-acetylation in the regulation of nucleosome structure—a FRET study.
+An ensemble strategy that significantly improves de novo assembly of microbial genomes from metagenomic next-generation sequencing data.
+Efficient CRISPR-rAAV engineering of endogenous genes to study protein function by allele-specific RNAi.
+Protein–RNA specificity by high-throughput principal component analysis of NMR spectra.
+Insight into biases and sequencing errors for amplicon sequencing with the Illumina MiSeq platform.
+53BP1 promotes microhomology-mediated end-joining in G1-phase cells.
+Defining the transcriptomic landscape of Candida glabrata by RNA-Seq.
+Sparse expression bases in cancer reveal tumor drivers.
+Protein mistranslation protects bacteria against oxidative stress.
+The ATP-mediated formation of the YgjD–YeaZ–YjeE complex is required for the biosynthesis of tRNA t6A in Escherichia coli.
+Detection of recurrent alternative splicing switches in tumor samples reveals novel signatures of cancer.
+DNA-mediated cooperativity facilitates the co-selection of cryptic enhancer sequences by SOX2 and PAX6 transcription factors.
+Transient DNMT1 suppression reveals hidden heritable marks in the genome.
+Two novel NAC transcription factors regulate gene expression and flowering time by associating with the histone demethylase JMJ14.
+Repressor activity of the RpoS/σS-dependent RNA polymerase requires DNA binding.
+The ATP binding site of the chromatin remodeling homolog Lsh is required for nucleosome density and de novo DNA methylation at repeat sequences.
+DICER-dependent biogenesis of let-7 miRNAs affects human cell response to DNA damage via targeting p21/p27.
+Nucleic Acids Research: VOLUME 43 ISSUE 1 2015.
+Nucleic Acids Research: Editorial Board.
+Subscriptions.
+Patient-specific driver gene prediction and risk assessment through integrated network analysis of cancer omics profiles.
+Transcriptional inhibition and mutagenesis induced by N-nitroso compound-derived carboxymethylated thymidine adducts in DNA.
+Inter-individual variability contrasts with regional homogeneity in the human brain DNA methylome.
+Specific and non-specific interactions of ParB with DNA: implications for chromosome segregation.
+A composite enhancer regulates p63 gene expression in epidermal morphogenesis and in keratinocyte differentiation by multiple mechanisms.
+REV7 is essential for DNA damage tolerance via two REV3L binding sites in mammalian DNA polymerase ζ.
+Neddylation inhibits CtIP-mediated resection and regulates DNA double strand break repair pathway choice.
+Transcriptional regulator-mediated activation of adaptation genes triggers CRISPR de novo spacer acquisition.
+DNA binding by FOXP3 domain-swapped dimer suggests mechanisms of long-range chromosomal interactions.
+Bcl2 inhibits recruitment of Mre11 complex to DNA double-strand breaks in response to high-linear energy transfer radiation.
+Multilayered genetic safeguards limit growth of microorganisms to defined environments.
+iRNA-seq: computational method for genome-wide assessment of acute transcriptional regulation from total RNA-seq data.
+Recognition and cleavage of 5-methylcytosine DNA by bacterial SRA-HNH proteins.
+Structural insight into operator dre-sites recognition and effector binding in the GntR/HutC transcription regulator NagR.
+Global coordination in adaptation to gene rewiring.
+Escherichia coli antitoxin MazE as transcription factor: insights into MazE-DNA binding.
+Recognition of duplex RNA by the deaminase domain of the RNA editing enzyme ADAR2.
+RNA helicase A activity is inhibited by oncogenic transcription factor EWS-FLI1.
+Loop L1 governs the DNA-binding specificity and order for RecA-catalyzed reactions in homologous recombination and DNA repair.

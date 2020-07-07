@@ -1,0 +1,1251 @@
+Comparative genomics and biological characterization of sequential Pseudomonas aeruginosa isolates from persistent airways infection.
+What’s in your next-generation sequence data? An exploration of unmapped DNA and RNA sequence reads from the bovine reference individual.
+Selection processes in simple sequence repeats suggest a correlation with their genomic location: insights from a fungal model system.
+Transcriptomes of newly-isolated Trypanosoma brucei rhodesiense reveal hundreds of mRNAs that are co-regulated with stumpy-form markers.
+Transcriptional profiling of the leaves of near-isogenic rice lines with contrasting drought tolerance at the reproductive stage in response to water deficit.
+Effect of roughage on rumen microbiota composition in the efficient feed converter and sturdy Indian Jaffrabadi buffalo (Bubalus bubalis).
+Whole mitochondrial genomes unveil the impact of domestication on goat matrilineal variability.
+Genome-wide discovery and validation of Eucalyptus small RNAs reveals variable patterns of conservation and diversity across species of Myrtaceae.
+Using host-pathogen protein interactions to identify and characterize Francisella tularensis virulence factors.
+Transcriptome profiling of a Rhizobium leguminosarum bv. trifolii rosR mutant reveals the role of the transcriptional regulator RosR in motility, synthesis of cell-surface components, and other cellular processes.
+A new strategy for enhancing imputation quality of rare variants from next-generation sequencing data via combining SNP and exome chip data.
+Simultaneous transcriptional profiling of Leishmania major and its murine macrophage host cell reveals insights into host-pathogen interactions.
+Comparative genomics of Fructobacillus spp. and Leuconostoc spp. reveals niche-specific evolution of Fructobacillus spp.
+Structure, evolution and functional inference on the Mildew Locus O (MLO) gene family in three cultivated Cucurbitaceae spp.
+Genome-wide analysis of WRKY transcription factors in white pear (Pyrus bretschneideri) reveals evolution and patterns under drought stress.
+A high-density genetic map for anchoring genome sequences and identifying QTLs associated with dwarf vine in pumpkin (Cucurbita maxima Duch.).
+Exploring the genomic traits of fungus-feeding bacterial genus Collimonas.
+MycoBASE: expanding the functional annotation coverage of mycobacterial genomes.
+Transcriptomes of post-mitotic neurons identify the usage of alternative pathways during adult and embryonic neuronal differentiation.
+Chronic binge alcohol administration dysregulates global regulatory gene networks associated with skeletal muscle wasting in simian immunodeficiency virus-infected macaques.
+Global expression differences and tissue specific expression differences in rice evolution result in two contrasting types of differentially expressed genes.
+Comparative genomics of 43 strains of Xanthomonas citri pv. citri reveals the evolutionary events giving rise to pathotypes with different host ranges.
+Combining RNA-seq and proteomic profiling to identify seminal fluid proteins in the migratory grasshopper Melanoplus sanguinipes (F).
+Comparative genome analysis of Weissella ceti, an emerging pathogen of farm-raised rainbow trout.
+Phylogenetic analysis of human Chlamydia pneumoniae strains reveals a distinct Australian indigenous clade that predates European exploration of the continent.
+Transcriptome profiling of soybean (Glycine max) roots challenged with pathogenic and non-pathogenic isolates of Fusarium oxysporum.
+Lifespan of restriction-modification systems critically affects avoidance of their recognition sites in host genomes.
+Alignment behaviors of short peptides provide a roadmap for functional profiling of metagenomic data.
+An ultra-high-density map as a community resource for discerning the genetic basis of quantitative traits in maize.
+Genome-wide transcriptome profiling reveals functional networks involving the Plasmodium falciparum drug resistance transporters PfCRT and PfMDR1.
+Genomic analysis of Luteimonas abyssi XH031T: insights into its adaption to the subseafloor environment of South Pacific Gyre and ecological role in biogeochemical cycle.
+Whole genome sequence and manual annotation of Clostridium autoethanogenum, an industrially relevant bacterium.
+Dintor: functional annotation of genomic and proteomic data.
+Similar striatal gene expression profiles in the striatum of the YAC128 and HdhQ150 mouse models of Huntington’s disease are not reflected in mutant Huntingtin inclusion prevalence.
+Genome editing through large insertion leads to the skipping of targeted exon.
+De novo transcriptome sequencing and analysis of Coccinella septempunctata L. in non-diapause, diapause and diapause-terminated states to identify diapause-associated genes.
+cChIP-seq: a robust small-scale method for investigation of histone modifications.
+Genome-wide analysis, molecular cloning and expression profiling reveal tissue-specifically expressed, feedback-regulated, stress-responsive and alternatively spliced novel genes involved in gibberellin metabolism in Salvia miltiorrhiza.
+Deep sequencing transcriptional fingerprinting of rice kernels for dissecting grain quality traits.
+Genetic differences among ethnic groups.
+SMRT sequencing of the Campylobacter coli BfR-CA-9557 genome sequence reveals unique methylation motifs.
+Reconstruction of temporal activity of microRNAs from gene expression data in breast cancer cell line.
+Bacterial small RNAs in the Genus Rickettsia.
+The transcriptional profile of coronary arteritis in Kawasaki disease.
+Transcriptomic analysis reveals specific osmoregulatory adaptive responses in gill mitochondria-rich cells and pavement cells of the Japanese eel.
+Genome-wide transcriptome analyses of developing seeds from low and normal phytic acid soybean lines.
+Liver transcriptomic networks reveal main biological processes associated with feed efficiency in beef cattle.
+Non-random fragmentation patterns in circulating cell-free DNA reflect epigenetic regulation.
+Prediction of tissue-specific effects of gene knockout on apoptosis in different anatomical structures of human brain.
+Obesity-related known and candidate SNP markers can significantly change affinity of TATA-binding protein for human gene promoters.
+Analysis of functional importance of binding sites in the Drosophila gap gene network model.
+A comparison of the transcriptome of Drosophila melanogaster in response to entomopathogenic fungus, ionizing radiation, starvation and cold shock.
+Computer analysis of protein functional sites projection on exon structure of genes in Metazoa.
+Comparison of American mink embryonic stem and induced pluripotent stem cell transcriptomes.
+The evolution of Homo sapiens denisova and Homo sapiens neanderthalensis miRNA targeting genes in the prenatal and postnatal brain.
+Genetic variation and association mapping for 12 agronomic traits in indica rice.
+Search for genes responsible for the remarkably high acetic acid tolerance of a Zygosaccharomyces bailii-derived interspecies hybrid strain.
+Comprehensive evaluation of AmpliSeq transcriptome, a novel targeted whole transcriptome RNA sequencing methodology for global gene expression analysis.
+Protein aggregation, structural disorder and RNA-binding ability: a new approach for physico-chemical and gene ontology classification of multiple datasets.
+Daily transcriptome changes reveal the role of nitrogen in controlling microcystin synthesis and nutrient transport in the toxic cyanobacterium, Microcystis aeruginosa.
+Mapping the CgrA regulon of Rhodospirillum centenum reveals a hierarchal network controlling Gram-negative cyst development.
+Leveraging global gene expression patterns to predict expression of unmeasured genes.
+IRES-dependent translated genes in fungi: computational prediction, phylogenetic conservation and functional association.
+Genomic and transcriptomic analyses of the Chinese Maotai-flavored liquor yeast MT1 revealed its unique multi-carbon co-utilization.
+ChromContact: A web tool for analyzing spatial contact of chromosomes from Hi-C data.
+Mariner transposons are sailing in the genome of the blood-sucking bug Rhodnius prolixus.
+Transcriptome and proteome dynamics in larvae of the barnacle Balanus Amphitrite from the Red Sea.
+De novo transcriptome sequence and identification of major bast-related genes involved in cellulose biosynthesis in jute (Corchorus capsularis L.).
+Mining candidate genes associated with powdery mildew resistance in cucumber via super-BSA by specific length amplified fragment (SLAF) sequencing.
+Exploring transcriptomic diversity in muscle revealed that cellular signaling pathways mainly differentiate five Western porcine breeds.
+Combined de novo and genome guided assembly and annotation of the Pinus patula juvenile shoot transcriptome.
+Improved taxonomic assignment of human intestinal 16S rRNA sequences by a dedicated reference database.
+Differential expression of small RNAs under chemical stress and fed-batch fermentation in E. coli.
+VariantSpark: population scale clustering of genotype information.
+Genome-wide identification and expression profiling of serine proteases and homologs in the diamondback moth, Plutella xylostella (L.).
+Genome-wide analysis of the basic leucine zipper (bZIP) transcription factor gene family in six legume genomes.
+Erratum to: ‘Integrated analysis of the local and systemic changes preceding the development of post-partum cytological endometritis’.
+Automatic DNA Diagnosis for 1D Gel Electrophoresis Images using Bio-image Processing Technique.
+Inference of gene interaction networks using conserved subsequential patterns from multiple time course gene expression datasets.
+A theoretical investigation of DNA dynamics and desolvation kinetics for zinc finger proteinZif268.
+A novel analysis strategy for integrating methylation and expression data reveals core pathways for thyroid cancer aetiology.
+An integrated bioinformatics analysis to dissect kinase dependency in triple negative breast cancer.
+A new peak detection algorithm for MALDI mass spectrometry data based on a modified Asymmetric Pseudo-Voigt model.
+SCMMTP: identifying and characterizing membrane transport proteins using propensity scores of dipeptides.
+Properly defining the targets of a transcription factor significantly improves the computational identification of cooperative transcription factor pairs in yeast.
+GIW and InCoB, two premier bioinformatics conferences in Asia with a combined 40 years of history.
+ARG-walker: inference of individual specific strengths of meiotic recombination hotspots by population genomics analysis.
+An integrative approach for efficient analysis of whole genome bisulfite sequencing data.
+Precise genotyping and recombination detection of Enterovirus.
+Detection of differentially methylated regions from bisulfite-seq data by hidden Markov models incorporating genome-wide methylation level distributions.
+Investigation of microRNAs in mouse macrophage responses to lipopolysaccharide-stimulation by combining gene expression with microRNA-target information.
+Subset selection of high-depth next generation sequencing reads for de novo genome assembly using MapReduce framework.
+MethGo: a comprehensive tool for analyzing whole-genome bisulfite sequencing data.
+Incorporation of subject-level covariates in quantile normalization of miRNA data.
+Construction of relatedness matrices using genotyping-by-sequencing data.
+Population genomics of pearl millet (Pennisetum glaucum (L.) R. Br.): Comparative analysis of global accessions and Senegalese landraces.
+Genome-wide association study reveals novel loci for litter size and its variability in a Large White pig population.
+High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with Mycobacterium abscessus Smooth and Rough variants.
+Deep sequencing of Danish Holstein dairy cattle for variant detection and insight into potential loss-of-function variants in protein coding genes.
+Transcriptional cellular responses in midgut tissue of Aedes aegypti larvae following intoxication with Cry11Aa toxin from Bacillus thuringiensis.
+iRDA: a new filter towards predictive, stable, and enriched candidate genes.
+Genome-wide analysis of MAPKKKs shows expansion and evolution of a new MEKK class involved in solanaceous species sexual reproduction.
+High-density genetic map construction and gene mapping of pericarp color in wax gourd using specific-locus amplified fragment (SLAF) sequencing.
+Transcriptome profiling and validation of gene based single nucleotide polymorphisms (SNPs) in sorghum genotypes with contrasting responses to cold stress.
+De novo assembly of the dual transcriptomes of a polymorphic raptor species and its malarial parasite.
+Single-molecule real-time transcript sequencing facilitates common wheat genome annotation and grain transcriptome research.
+A human 3′UTR clone collection to study post-transcriptional gene regulation.
+Rapid Increase in frequency of gene copy-number variants during experimental evolution in Caenorhabditis elegans.
+A method for positive forensic identification of samples from extremely low-coverage sequence data.
+De novo transcriptome reconstruction and annotation of the Egyptian rousette bat.
+Comparative genomics of Pseudomonas fluorescens subclade III strains from human lungs.
+Removal of redundant contigs from de novo RNA-Seq assemblies via homology search improves accurate detection of differentially expressed genes.
+An integrative analysis of small molecule transcriptional responses in the human malaria parasite Plasmodium falciparum.
+Metabolic characteristics of dominant microbes and key rare species from an acidic hot spring in Taiwan revealed by metagenomics.
+Candidate chemosensory genes identified in Colaphellus bowringi by antennal transcriptome analysis.
+Fusion transcript loci share many genomic features with non-fusion loci.
+Identification of Nicotiana benthamiana microRNAs and their targets using high throughput sequencing and degradome analysis.
+Comparative miRNAs analysis of Two contrasting broccoli inbred lines with divergent head-forming capacity under temperature stress.
+Fast dimension reduction and integrative clustering of multi-omics data using low-rank approximation: application to cancer molecular classification.
+The pan-genome of Lactobacillus reuteri strains originating from the pig gastrointestinal tract.
+On the relevance of technical variation due to building pools in microarray experiments.
+Accuracy of genomic selection for alfalfa biomass yield in different reference populations.
+mRNA-seq reveals skeletal muscle atrophy in response to handling stress in a marine teleost, the red cusk-eel (Genypterus chilensis).
+Erratum to: The UBC-40 Urothelial Bladder Cancer Cell Line Index: a genomic resource for functional studies.
+Erratum to: ‘The direction of cross affects obesity after puberty in male but not female offspring’.
+Construction of a high-density mutant library in soybean and development of a mutant retrieval method using amplicon sequencing.
+Identification and analysis of divergent immune gene families within the Tasmanian devil genome.
+Multimodular type I polyketide synthases in algae evolve by module duplications and displacement of AT domains in trans.
+Transcriptome profiling reveals that feeding wild zooplankton to larval Atlantic cod (Gadus morhua) influences suites of genes involved in oxidation-reduction, mitosis, and selenium homeostasis.
+Genome-wide expression profiles of Pyropia haitanensis in response to osmotic stress by using deep sequencing technology.
+Collaborative cross mice in a genetic association study reveal new candidate genes for bone microarchitecture.
+Evidence of recent interspecies horizontal gene transfer regarding nucleopolyhedrovirus infection of Spodoptera frugiperda.
+Promoter-based identification of novel non-coding RNAs reveals the presence of dicistronic snoRNA-miRNA genes in Arabidopsis thaliana.
+A Bayesian model for detection of high-order interactions among genetic variants in genome-wide association studies.
+Regulatory network reconstruction reveals genes with prognostic value for chronic lymphocytic leukemia.
+Development and validation of a mixed-tissue oligonucleotide DNA microarray for Atlantic bluefin tuna, Thunnus thynnus (Linnaeus, 1758).
+Comprehensive characterization of a time-course transcriptional response induced by autotoxins in Panax ginseng using RNA-Seq.
+Gonadal transcriptomic analysis and differentially expressed genes in the testis and ovary of the Pacific white shrimp (Litopenaeus vannamei).
+Replicate exome-sequencing in a multiple-generation family: improved interpretation of next-generation sequencing data.
+Impact of SNPs on methylation readouts by Illumina Infinium HumanMethylation450 BeadChip Array: implications for comparative population studies.
+Genome-wide identification of rubber tree (Hevea brasiliensis Muell. Arg.) aquaporin genes and their response to ethephon stimulation in the laticifer, a rubber-producing tissue.
+Whole genome annotation and comparative genomic analyses of bio-control fungus Purpureocillium lilacinum.
+MicroRNA target prediction using thermodynamic and sequence curves.
+Analysis of nucleosome positioning landscapes enables gene discovery in the human malaria parasite Plasmodium falciparum.
+Wellington-bootstrap: differential DNase-seq footprinting identifies cell-type determining transcription factors.
+Genome-wide analysis of Fusarium graminearum field populations reveals hotspots of recombination.
+De novo assembly and functional annotation of Myrciaria dubia fruit transcriptome reveals multiple metabolic pathways for L-ascorbic acid biosynthesis.
+Comparative genomics and metabolic profiling of the genus Lysobacter.
+Extensive variation between tissues in allele specific expression in an outbred mammal.
+Genetic associations and shared environmental effects on the skin microbiome of Korean twins.
+RNA sequencing of transcriptomes in human brain regions: protein-coding and non-coding RNAs, isoforms and alleles.
+Identification, characterization and expression analysis of lineage-specific genes within sweet orange (Citrus sinensis).
+Deciphering the molecular adaptation of the king scallop (Pecten maximus) to heat stress using transcriptomics and proteomics.
+Extracting phylogenetic signal and accounting for bias in whole-genome data sets supports the Ctenophora as sister to remaining Metazoa.
+Transcriptomics of diapause in an isogenic self-fertilizing vertebrate.
+Pre-announcement of symbiotic guests: transcriptional reprogramming by mycorrhizal lipochitooligosaccharides shows a strict co-dependency on the GRAS transcription factors NSP1 and RAM1.
+Comparative transcriptome analysis of lufenuron-resistant and susceptible strains of Spodoptera frugiperda (Lepidoptera: Noctuidae).
+Gene expression profiling in non-human primate jejunum, ileum and colon after total-body irradiation: a comparative study of segment-specific molecular and cellular responses.
+The effect of heterogeneous Transcription Start Sites (TSS) on the translatome: implications for the mammalian cellular phenotype.
+Transcriptomic profiling of host-parasite interactions in the microsporidian Trachipleistophora hominis.
+Quantitative analysis of chromatin interaction changes upon a 4.3 Mb deletion at mouse 4E2.
+Patterns of gene expression and DNA methylation in human fetal and adult liver.
+Associations between nucleosome phasing, sequence asymmetry, and tissue-specific expression in a set of inbred Medaka species.
+Transcriptomic characterization of the dorsal lobes after hepatectomy of the ventral lobe in zebrafish.
+Fast evolutionary rates associated with functional loss in class I glucose transporters of Schistosoma mansoni.
+Genomics and transcriptomics of Xanthomonas campestris species challenge the concept of core type III effectome.
+Complete depletion of primordial germ cells in an All-female fish leads to Sex-biased gene expression alteration and sterile All-male occurrence.
+Transcriptome profiling of a spirodiclofen susceptible and resistant strain of the European red mite Panonychus ulmi using strand-specific RNA-seq.
+Identification and annotation of conserved promoters and macrophage-expressed genes in the pig genome.
+A genomic approach to understand interactions between Streptococcus pneumoniae and its bacteriophages.
+Optimizing and benchmarking de novo transcriptome sequencing: from library preparation to assembly evaluation.
+Genome wide association and genomic prediction for growth traits in juvenile farmed Atlantic salmon using a high density SNP array.
+Gene expression analysis at the onset of sex differentiation in turbot (Scophthalmus maximus).
+Genome-wide identification and evolutionary analyses of bZIP transcription factors in wheat and its relatives and expression profiles of anther development related TabZIP genes.
+Genome analysis of Daldinia eschscholtzii strains UM 1400 and UM 1020, wood-decaying fungi isolated from human hosts.
+Genes related to mitochondrial functions are differentially expressed in phosphine-resistant and -susceptible Tribolium castaneum.
+Investigating inter-chromosomal regulatory relationships through a comprehensive meta-analysis of matched copy number and transcriptomics data sets.
+Genomic prediction and genome-wide association study for dagginess and host internal parasite resistance in New Zealand sheep.
+GenomicInteractions: An R/Bioconductor package for manipulating and investigating chromatin interaction data.
+Sequencing-based high throughput mutation detection in bread wheat.
+Time course of the response to ACTH in pig: biological and transcriptomic study.
+RNA-seq reveals differentially expressed genes of rice (Oryza sativa) spikelet in response to temperature interacting with nitrogen at meiosis stage.
+Co-occurrence of resistance genes to antibiotics, biocides and metals reveals novel insights into their co-selection potential.
+Identification of TTAGGG-binding proteins in Neurospora crassa, a fungus with vertebrate-like telomere repeats.
+Genomic insights into the evolution of hybrid isoprenoid biosynthetic gene clusters in the MAR4 marine streptomycete clade.
+The alignment of enzymatic steps reveals similar metabolic pathways and probable recruitment events in Gammaproteobacteria.
+The transcriptional landscape of insect galls: psyllid (Hemiptera) gall formation in Hawaiian Metrosideros polymorpha (Myrtaceae).
+Deep sequencing of small RNA facilitates tissue and sex associated microRNA discovery in zebrafish.
+Differential expression profiling of the early response to Ustilaginoidea virens between false smut resistant and susceptible rice varieties.
+Major differential gene regulation in Coxiella burnetii between in vivo and in vitro cultivation models.
+Dormant non-culturable Mycobacterium tuberculosis retains stable low-abundant mRNA.
+High-throughput mRNA and miRNA profiling of epithelial-mesenchymal transition in MDCK cells.
+Root iTRAQ protein profile analysis of two Citrus species differing in aluminum-tolerance in response to long-term aluminum-toxicity.
+Identification of alternative splicing events by RNA sequencing in early growth tomato fruits.
+Gene expression and functional annotation of human choroid plexus epithelium failure in Alzheimer’s disease.
+Genome-wide analysis and expression profiling of the PIN auxin transporter gene family in soybean (Glycine max).
+Mapping of genetic loci that modulate differential colonization by Escherichia coli O157:H7 TUV86-2 in advanced recombinant inbred BXD mice.
+A comprehensive joint analysis of the long and short RNA transcriptomes of human erythrocytes.
+Five omic technologies are concordant in differentiating the biochemical characteristics of the berries of five grapevine (Vitis vinifera L.) cultivars.
+Identification and characterization of microRNAs from in vitro-grown pear shoots infected with Apple stem grooving virus in response to high temperature using small RNA sequencing.
+The comprehensive immunomodulation of NeurimmiRs in haemocytes of oyster Crassostrea gigas after acetylcholine and norepinephrine stimulation.
+Transcriptome profiling reveals distinctive traits of retinol metabolism and neonatal parallels in the MRL/MpJ mouse.
+Deep sequencing of the uterine immune response to bacteria during the equine oestrous cycle.
+Transcription analysis of neonicotinoid resistance in Mediterranean (MED) populations of B. tabaci reveal novel cytochrome P450s, but no nAChR mutations associated with the phenotype.
+EWS and FUS bind a subset of transcribed genes encoding proteins enriched in RNA regulatory functions.
+High transcript abundance, RNA editing, and small RNAs in intergenic regions within the massive mitochondrial genome of the angiosperm Silene noctiflora.
+Combined metabolome and transcriptome profiling provides new insights into diterpene biosynthesis in S. pomifera glandular trichomes.
+Genomic mutational analysis of the impact of the classical strain improvement program on β–lactam producing Penicillium chrysogenum.
+Molecular characterization and functional analysis of barley semi-dwarf mutant Riso no. 9265.
+Multifunctional polyketide synthase genes identified by genomic survey of the symbiotic dinoflagellate, Symbiodinium minutum.
+Integrated genomics approach to identify biologically relevant alterations in fewer samples.
+Identification of the meiotic toolkit in diatoms and exploration of meiosis-specific SPO11 and RAD51 homologs in the sexual species Pseudo-nitzschia multistriata and Seminavis robusta.
+Transcriptome-wide functional characterization reveals novel relationships among differentially expressed transcripts in developing soybean embryos.
+Functional analysis and transcriptional output of the Göttingen minipig genome.
+Molecular tools for studying the major malaria vector Anopheles funestus: improving the utility of the genome using a comparative poly(A) and Ribo-Zero RNAseq analysis.
+Biofilm-associated proteins: news from Acinetobacter.
+WIDDE: a Web-Interfaced next generation database for genetic diversity exploration, with a first application in cattle.
+Combined ultra-low input mRNA and whole-genome sequencing of human embryonic stem cells.
+Genomic dissection and prediction of heading date in perennial ryegrass.
+Evaluation of the linkage-disequilibrium method for the estimation of effective population size when generations overlap: an empirical case.
+Tissue-specific transcriptomics and proteomics of a filarial nematode and its Wolbachia endosymbiont.
+Genome-wide mapping of Hif-1α binding sites in zebrafish.
+Integrative phenotyping framework (iPF): integrative clustering of multiple omics data identifies novel lung disease subphenotypes.
+Evaluation of data discretization methods to derive platform independent isoform expression signatures for multi-class tumor subtyping.
+A method for developing regulatory gene set networks to characterize complex biological systems.
+Heuristic pairwise alignment of de Bruijn graphs to facilitate simultaneous transcript discovery in related organisms from RNA-Seq data.
+Reference-free inference of tumor phylogenies from single-cell sequencing data.
+Investigating bisulfite short-read mapping failure with hairpin bisulfite sequencing data.
+Microbial "social networks".
+An adaptive classification model for peptide identification.
+Evolution of the EKA family of powdery mildew avirulence-effector genes from the ORF 1 of a LINE retrotransposon.
+Evolutionary fate and implications of retrocopies in the African coelacanth genome.
+Integrative enrichment analysis: a new computational method to detect dysregulated pathways in heterogeneous samples.
+σ54-dependent regulome in Desulfovibrio vulgaris Hildenborough.
+Combining powers of linkage and association mapping for precise dissection of QTL controlling resistance to gray leaf spot disease in maize (Zea mays L.).
+Transcriptome profiling of differentially expressed genes in floral buds and flowers of male sterile and fertile lines in watermelon.
+The WRKY transcription factor family and senescence in switchgrass.
+Variant mapping and mutation discovery in inbred mice using next-generation sequencing.
+Sex differences in DNA methylation assessed by 450 K BeadChip in newborns.
+Crowdsourced direct-to-consumer genomic analysis of a family quartet.
+Comparison of Kompetitive Allele Specific PCR (KASP) and genotyping by sequencing (GBS) for quality control analysis in maize.
+The direction of cross obesity after puberty in male but not female offspring.
+Genome-wide miR-155 and miR-802 target gene identification in the hippocampus of Ts65Dn Down syndrome mouse model by miRNA sponges.
+Transcriptome-wide analysis supports environmental adaptations of two Pinus pinaster populations from contrasting habitats.
+High-density P300 enhancers control cell state transitions.
+Expression of microRNAs and isomiRs in the porcine endometrium: implications for gene regulation at the maternal-conceptus interface.
+Network analysis of microRNA and mRNA seasonal dynamics in a highly plastic sensorimotor neural circuit.
+Comprehensive transcriptional landscape of aging mouse liver.
+Complete haplotype phasing of the MHC and KIR loci with targeted HaploSeq.
+Genome-wide identification and characterization of auxin response factor (ARF) family genes related to flower and fruit development in papaya (Carica papaya L.).
+Construction of a high-density genetic map and mapping of a sex-linked locus for the brown alga Undaria pinnatifida (Phaeophyceae) based on large scale marker development by specific length amplified fragment (SLAF) sequencing.
+The cold responsive mechanism of the paper mulberry: decreased photosynthesis capacity and increased starch accumulation.
+Comparative genome analysis identifies two large deletions in the genome of highly-passaged attenuated Streptococcus agalactiae strain YM001 compared to the parental pathogenic strain HN016.
+Analysis of the FnrL regulon in Rhodobacter capsulatus reveals limited regulon overlap with orthologues from Rhodobacter sphaeroides and Escherichia coli.
+Transcriptome, microRNA, and degradome analyses of the gene expression of Paulownia with phytoplamsa.
+Genetic diversity in the plasticity zone and the presence of the chlamydial plasmid differentiates Chlamydia pecorum strains from pigs, sheep, cattle, and koalas.
+Genomic population structure and prevalence of copy number variations in South African Nguni cattle.
+Whole exome sequencing (WES) on formalin-fixed, paraffin-embedded (FFPE) tumor tissue in gastrointestinal stromal tumors (GIST).
+A bioinformatic survey of RNA-binding proteins in Plasmodium.
+Comparison of Xenorhabdus bovienii bacterial strain genomes reveals diversity in symbiotic functions.
+Determining multiallelic complex copy number and sequence variation from high coverage exome sequencing data.
+Deep sequencing shows microRNA involvement in bovine mammary gland adaptation to diets supplemented with linseed oil or safflower oil.
+The epigenetic processes of meiosis in male mice are broadly affected by the widely used herbicide atrazine.
+Variation detection based on next-generation sequencing of type Chinese 1 strains of Toxoplasma gondii with different virulence from China.
+MicroRNA and mRNA expression profiling analysis revealed the regulation of plant height in Gossypium hirsutum.
+Genotypic and phenotypic analyses of a Pseudomonas aeruginosa chronic bronchiectasis isolate reveal differences from cystic fibrosis and laboratory strains.
+Functionally conserved enhancers with divergent sequences in distant vertebrates.
+The Leishmania metaphylome: a comprehensive survey of Leishmania protein phylogenetic relationships.
+Insights from the genome of Ophiocordyceps polyrhachis-furcata to pathogenicity and host specificity in insect fungi.
+Changes in correlation between promoter methylation and gene expression in cancer.
+Blood transcriptomics of drug-naïve sporadic Parkinson’s disease patients.
+Identification of miRNAs with potential roles in regulation of anther development and male-sterility in 7B-1 male-sterile tomato mutant.
+First complete mitochondrial genome of the South American annual fish Austrolebias charrua (Cyprinodontiformes: Rivulidae): peculiar features among cyprinodontiforms mitogenomes.
+VariantMetaCaller: automated fusion of variant calling pipelines for quantitative, precision-based filtering.
+Prospecting major genes in dairy buffaloes.
+De novo transcriptome sequencing in Bixa orellana to identify genes involved in methylerythritol phosphate, carotenoid and bixin biosynthesis.
+Integration of Ixodes ricinus genome sequencing with transcriptome and proteome annotation of the naïve midgut.
+Deciphering the association between gene function and spatial gene-gene interactions in 3D human genome conformation.
+Prior infection with Type A Francisella tularensis antagonizes the pulmonary transcriptional response to an aerosolized Toll-like receptor 4 agonist.
+Comparative transcriptomic analysis of immune responses of the migratory locust, Locusta migratoria, to challenge by the fungal insect pathogen, Metarhizium acridum.
+Opening the “black box” of nodD3, nodD4 and nodD5 genes of Rhizobium tropici strain CIAT 899.
+A newly discovered Bordetella species carries a transcriptionally active CRISPR-Cas with a small Cas9 endonuclease.
+Mapping 3′ transcript ends in the bank vole (Clethrionomys glareolus) mitochondrial genome with RNA-Seq.
+Polymorphisms in early neurodevelopmental genes affect natural variation in alcohol sensitivity in adult drosophila.
+Transcriptome profile analysis of cell proliferation molecular processes during multicellular trichome formation induced by tomato Wov gene in tobacco.
+Fatty acid kinase A is an important determinant of biofilm formation in Staphylococcus aureus USA300.
+Genome-wide analysis of chemically induced mutations in mouse in phenotype-driven screens.
+The Perchlorate Reduction Genomic Island: Mechanisms and Pathways of Evolution by Horizontal Gene Transfer.
+Relationship between gene expression and lung function in Idiopathic Interstitial Pneumonias.
+Genetic import and phenotype specific alleles associated with hyper-invasion in Campylobacter jejuni.
+Genome-wide association analysis reveals loci associated with resistance against Piscirickettsia salmonis in two Atlantic salmon (Salmo salar L.) chromosomes.
+Whole transcriptome analysis of Penicillium digitatum strains treatmented with prochloraz reveals their drug-resistant mechanisms.
+Novel Moraxella catarrhalis prophages display hyperconserved non-structural genes despite their genomic diversity.
+Impact of library preparation protocols and template quantity on the metagenomic reconstruction of a mock microbial community.
+Transcriptome analysis of Brassica napus pod using RNA-Seq and identification of lipid-related candidate genes.
+Dichlorvos exposure results in large scale disruption of energy metabolism in the liver of the zebrafish, Danio rerio.
+Whole genome sequencing reveals genomic heterogeneity and antibiotic purification in Mycobacterium tuberculosis isolates.
+Molt-dependent transcriptomic analysis of cement proteins in the barnacle Amphibalanus amphitrite.
+Novel method to detect microRNAs using chip-based QuantStudio 3D digital PCR.
+De novo assembly and sex-specific transcriptome profiling in the sand fly Phlebotomus perniciosus (Diptera, Phlebotominae), a major Old World vector of Leishmania infantum.
+The rumen microbial metagenome associated with high methane production in cattle.
+A genetic framework for H2O2 induced cell death in Arabidopsis thaliana.
+Molecular and phylogenetic characterization of the homoeologous EPSP Synthase genes of allohexaploid wheat, Triticum aestivum (L.).
+Genome-wide variation in the pinewood nematode Bursaphelenchus xylophilus and its relationship with pathogenic traits.
+Genome-wide identification of copy number variations between two chicken lines that differ in genetic resistance to Marek’s disease.
+In silico hybridization enables transcriptomic illumination of the nature and evolution of Myxozoa.
+DECKO: Single-oligo, dual-CRISPR deletion of genomic elements including long non-coding RNAs.
+Identification of sensory hair-cell transcripts by thiouracil-tagging in zebrafish.
+Targeted association mapping demonstrating the complex molecular genetics of fatty acid formation in soybean.
+Characterization and fine mapping of a novel barley Stage Green-Revertible Albino Gene (HvSGRA) by Bulked Segregant Analysis based on SSR assay and Specific Length Amplified Fragment Sequencing.
+Genome-wide DNA methylome variation in two genetically distinct chicken lines using MethylC-seq.
+The distribution and impact of common copy-number variation in the genome of the domesticated apple, Malus x domestica Borkh.
+Fine mapping of a large-effect QTL conferring Fusarium crown rot resistance on the long arm of chromosome 3B in hexaploid wheat.
+Identification of novel and conserved microRNAs in Panax notoginseng roots by high-throughput sequencing.
+Genome-wide survey of two-component signal transduction systems in the plant growth-promoting bacterium Azospirillum.
+Copy number variations in the genome of the Qatari population.
+A novel approach identifies the first transcriptome networks in bats: a new genetic model for vocal communication.
+Mitochondrial genomes and comparative analyses of Culex camposi, Culex coronator, Culex usquatus and Culex usquatissimus (Diptera:Culicidae), members of the coronator group.
+Pangenome analysis of Bifidobacterium longum and site-directed mutagenesis through by-pass of restriction-modification systems.
+Transcriptional response to sulfide in the Echiuran Worm Urechis unicinctus by digital gene expression analysis.
+Phylogenetic patterns of gene rearrangements in four mitochondrial genomes from the green algal family Hydrodictyaceae (Sphaeropleales, Chlorophyceae).
+The transcriptome of Candida albicans mitochondria and the evolution of organellar transcription units in yeasts.
+Comparison among three variant callers and assessment of the accuracy of imputation from SNP array data to whole-genome sequence level in chicken.
+Plasmodium parasites mount an arrest response to dihydroartemisinin, as revealed by whole transcriptome shotgun sequencing (RNA-seq) and microarray study.
+New global analysis of the microRNA transcriptome of primary tumors and lymph node metastases of papillary thyroid cancer.
+Comparative RNA seq analysis of the New Zealand glowworm Arachnocampa luminosa reveals bioluminescence-related genes.
+Cyclosporin A induced toxicity in mouse liver slices is only slightly aggravated by Fxr-deficiency and co-occurs with upregulation of pro-inflammatory genes and downregulation of genes involved in mitochondrial functions.
+Genome-wide identification and characterization of the superoxide dismutase gene family in Musa acuminata cv. Tianbaojiao (AAA group).
+BubbleGUM: automatic extraction of phenotype molecular signatures and comprehensive visualization of multiple Gene Set Enrichment Analyses.
+Integrated metabolic modelling reveals cell-type specific epigenetic control points of the macrophage metabolic network.
+Defining the nitrogen regulated transcriptome of Mycobacterium smegmatis using continuous culture.
+Integrated analysis of the local and systemic changes preceding the development of post-partum cytological endometritis.
+Comparative analysis of microRNA expression in mouse and human brown adipose tissue.
+Characterizing Benzo[a]pyrene-induced lacZ mutation spectrum in transgenic mice using next-generation sequencing.
+Global identification and analysis of long non-coding RNAs in diploid strawberry Fragaria vesca during flower and fruit development.
+Weevil endosymbiont dynamics is associated with a clamping of immunity.
+Fine mapping of QTL and genomic prediction using allele-specific expression SNPs demonstrates that the complex trait of genetic resistance to Marek’s disease is predominantly determined by transcriptional regulation.
+De novo transcriptome analysis of Medicago falcata reveals novel insights about the mechanisms underlying abiotic stress-responsive pathway.
+Transmission of the PabI family of restriction DNA glycosylase genes: mobility and long-term inheritance.
+A comprehensive mapping of the structure and gene organisation in the sheep MHC class I region.
+Additive transcriptomic variation associated with reproductive traits suggest local adaptation in a recently settled population of the Pacific oyster, Crassostrea gigas.
+Investigation of regions impacting inbreeding depression and their association with the additive genetic effect for United States and Australia Jersey dairy cattle.
+Asymmetric somatic hybridization induces point mutations and indels in wheat.
+Development of genome-wide InDel markers and their integration with SSR, DArT and SNP markers in single barley map.
+Radiation hybrid maps of the D-genome of Aegilops tauschii and their application in sequence assembly of large and complex plant genomes.
+Large-scale identification of wheat genes resistant to cereal cyst nematode Heterodera avenae using comparative transcriptomic analysis.
+Reconstruction and analysis of the genome-scale metabolic model of schizochytrium limacinum SR21 for docosahexaenoic acid production.
+Bacterial transcriptome reorganization in thermal adaptive evolution.
+Transcriptome sequencing, annotation and polymorphism detection in the hop bush, Dodonaea viscosa.
+MicroRNA expression profiles of bovine milk exosomes in response to Staphylococcus aureus infection.
+Insights into transcriptional changes that accompany organelle sequestration from the stolen nucleus of Mesodinium rubrum.
+Genome-wide analysis of LTR-retrotransposons in oil palm.
+Genome-wide identification and functional analysis of lincRNAs acting as miRNA targets or decoys in maize.
+Identification of ISMyo2, a novel insertion sequence element of IS21 family and its diagnostic potential for detection of Mycobacterium yongonense.
+Identification, characterisation and expression analysis of natural killer receptor genes in Chlamydia pecorum infected koalas (Phascolarctos cinereus).
+Mixed model approach for IBD-based QTL mapping in a complex oil palm pedigree.
+Age and prior blood feeding of Anopheles gambiae influences their susceptibility and gene expression patterns to ivermectin-containing blood meals.
+Identifying specific proteins involved in eggshell membrane formation using gene expression analysis and bioinformatics.
+Genome-wide analysis reveals the extent of EAV-HP integration in domestic chicken.
+Complexity of a small non-protein coding sequence in chromosomal region 22q11.2: presence of specialized DNA secondary structures and RNA exon/intron motifs.
+Population genomics reveals additive and replacing horizontal gene transfers in the emerging pathogen Dickeya solani.
+Development of a SNP-based assay for measuring genetic diversity in the Tasmanian devil insurance population.
+Gene expression underlying enhanced, steroid-dependent auditory sensitivity of hair cell epithelium in a vocal fish.
+Evolution and divergence of SBP-box genes in land plants.
+Dynamic association rules for gene expression data analysis.
+Comprehensive analysis of the endoplasmic reticulum stress response in the soybean genome: conserved and plant-specific features.
+Gene expression profiling during adventitious root formation in carnation stem cuttings.
+Virtual pathway explorer (viPEr) and pathway enrichment analysis tool (PEANuT): creating and analyzing focus networks to identify cross-talk between molecules and pathways.
+Gene duplications are extensive and contribute significantly to the toxic proteome of nematocysts isolated from Acropora digitifera (Cnidaria: Anthozoa: Scleractinia).
+Association mapping by pooled sequencing identifies TOLL 11 as a protective factor against Plasmodium falciparum in Anopheles gambiae.
+Genome-wide analysis of myxobacterial two-component systems: genome relatedness and evolutionary changes.
+Encyclopedia of bacterial gene circuits whose presence or absence correlate with pathogenicity – a large-scale system analysis of decoded bacterial genomes.
+Genome-wide transcription start site profiling in biofilm-grown Burkholderia cenocepacia J2315.
+Identification of miRNAs involved in fruit ripening in Cavendish bananas by deep sequencing.
+The genomic landscape of ribosomal peptides containing thiazole and oxazole heterocycles.
+Mining microsatellite markers from public expressed sequence tags databases for the study of threatened plants.
+Transcriptome profiling of wheat glumes in wild emmer, hulled landraces and modern cultivars.
+Comparative genome analysis of the candidate functional starter culture strains Lactobacillus fermentum 222 and Lactobacillus plantarum 80 for controlled cocoa bean fermentation processes.
+Integrated ordination of miRNA and mRNA expression profiles.
+A functional genomics screen identifies an Importin-α homolog as a regulator of stem cell function and tissue patterning during planarian regeneration.
+Genomic insight into Aquimarina longa SW024T: its ultra-oligotrophic adapting mechanisms and biogeochemical functions.
+Rapid evolutionary divergence of Gossypium barbadense and G. hirsutum mitochondrial genomes.
+Genome-wide systematic characterization of the bZIP transcriptional factor family in tomato (Solanum lycopersicum L.).
+Jitterbug: somatic and germline transposon insertion detection at single-nucleotide resolution.
+A nonsense mutation in B3GALNT2 is concordant with hydrocephalus in Friesian horses.
+A transcriptome approach towards understanding the development of ripening capacity in ‘Bartlett’ pears (Pyrus communis L.).
+Adherence and invasive properties of Corynebacterium diphtheriae strains correlates with the predicted membrane-associated and secreted proteome.
+Transcriptome profile of liver at different physiological stages reveals potential mode for lipid metabolism in laying hens.
+Runs of homozygosity reveal signatures of positive selection for reproduction traits in breed and non-breed horses.
+The genome of Dasychira pudibunda nucleopolyhedrovirus (DapuNPV) reveals novel genetic connection between baculoviruses infecting moths of the Lymantriidae family.
+The impact of PPARα activation on whole genome gene expression in human precision cut liver slices.
+Capsular profiling of the Cronobacter genus and the association of specific Cronobacter sakazakii and C. malonaticus capsule types with neonatal meningitis and necrotizing enterocolitis.
+Analysis of three genomes within the thermophilic bacterial species Caldanaerobacter subterraneus with a focus on carbon monoxide dehydrogenase evolution and hydrolase diversity.
+Gene loss, adaptive evolution and the co-evolution of plumage coloration genes with opsins in birds.
+Combined clinical and genomic signatures for the prognosis of early stage non-small cell lung cancer based on gene copy number alterations.
+Development of ListeriaBase and comparative analysis of Listeria monocytogenes.
+De novo transcriptome sequencing and comprehensive analysis of the drought-responsive genes in the desert plant Cynanchum komarovii.
+Transcriptomic analyses of regenerating adult feathers in chicken.
+Evolutionary divergence of core and post-translational circadian clock genes in the pitcher-plant mosquito, Wyeomyia smithii.
+A dense SNP genetic map constructed using restriction site-associated DNA sequencing enables detection of QTLs controlling apple fruit quality.
+Genome-wide association study dissects genetic architecture underlying longitudinal egg weights in chickens.
+Substantial genome synteny preservation among woody angiosperm species: comparative genomics of Chinese chestnut (Castanea mollissima) and plant reference genomes.
+Pathogen-regulated genes in wheat isogenic lines differing in resistance to brown rust Puccinia triticina.
+Functional development of the adult ovine mammary gland—insights from gene expression profiling.
+Identifying binary protein-protein interactions from affinity purification mass spectrometry data.
+Genomic dissection of the 1994 Cronobacter sakazakii outbreak in a French neonatal intensive care unit.
+Genome analyses of the sunflower pathogen Plasmopara halstedii provide insights into effector evolution in downy mildews and Phytophthora.
+Adult porcine genome-wide DNA methylation patterns support pigs as a biomedical model.
+Genome-wide identification of long noncoding RNA genes and their potential association with fecundity and virulence in rice brown planthopper, Nilaparvata lugens.
+MicroRNAs in the oriental fruit fly, Bactrocera dorsalis: extending Drosophilid miRNA conservation to the Tephritidae.
+Generation of a de novo transcriptome from equine lamellar tissue.
+Efficient algorithms for reconciling gene trees and species networks via duplication and loss events.
+Phylogenomic species tree estimation in the presence of incomplete lineage sorting and horizontal gene transfer.
+Reconstruction of composite regulator-target splicing networks from high-throughput transcriptome data.
+Reconstruction of an ancestral Yersinia pestis genome and comparison with an ancient sequence.
+Ancestral gene synteny reconstruction improves extant species scaffolding.
+Syntenic block overlap multiplicities with a panel of reference genomes provide a signature of ancient polyploidization events.
+A comparative study of SVDquartets and other coalescent-based species tree estimation methods.
+A maximum pseudo-likelihood approach for phylogenetic networks.
+A comparative genomics study on the effect of individual amino acids on ribosome stalling.
+Widespread signatures of local mRNA folding structure selection in four Dengue virus serotypes.
+ASTRID: Accurate Species TRees from Internode Distances.
+Gene-pseudogene evolution: a probabilistic approach.
+Transcriptome sequencing and analysis of major genes involved in calcium signaling pathways in pear plants (Pyrus calleryana Decne.).
+Diverse regulatory factors associate with flowering time and yield responses in winter-type Brassica napus.
+The idiopathic preterm delivery methylation profile in umbilical cord blood DNA.
+Escherichia coli O157:H7 strains harbor at least three distinct sequence types of Shiga toxin 2a-converting phages.
+Next generation sequencing profiling identifies miR-574-3p and miR-660-5p as potential novel prognostic markers for breast cancer.
+Tools and pipelines for BioNano data: molecule assembly pipeline and FASTA super scaffolding tool.
+Integrative genomics analysis of genes with biallelic loss and its relation to the expression of mRNA and micro-RNA in esophageal squamous cell carcinoma.
+Chromosomal structures and repetitive sequences divergence in Cucumis species revealed by comparative cytogenetic mapping.
+Glutamine rapidly induces the expression of key transcription factor genes involved in nitrogen and stress responses in rice roots.
+The genomes of three stocks comprising the most widely utilized live sporozoite Theileria parva vaccine exhibit very different degrees and patterns of sequence divergence.
+Transfer RNA detection by small RNA deep sequencing and disease association with myelodysplastic syndromes.
+Transcriptome-enabled marker discovery and mapping of plastochron-related genes in Petunia spp.
+RNA-Seq in Mytilus galloprovincialis: comparative transcriptomics and expression profiles among different tissues.
+Erratum to: Genome sequencing of the Trichoderma reesei QM9136 mutant identifies a truncation of the transcriptional regulator XYR1 as the cause for its cellulase-negative phenotype.
+An improved genome reference for the African cichlid, Metriaclima zebra.
+De novo sequencing and assembly analysis of transcriptome in the Sodom apple (Calotropis gigantea).
+TSS seq based core promoter architecture in blood feeding Tsetse fly (Glossina morsitans morsitans) vector of Trypanosomiasis.
+Small RNAs from the wheat stripe rust fungus (Puccinia striiformis f.sp. tritici).
+Genome analysis and in vivo virulence of porcine extraintestinal pathogenic Escherichia coli strain PCN033.
+Genome-wide cataloging and analysis of alternatively spliced genes in cereal crops.
+Early transcriptional events linked to induction of diapause revealed by RNAseq in larvae of drosophilid fly, Chymomyza costata.
+Depletion of yeast PDK1 orthologs triggers a stress-like transcriptional response.
+Bimodal dynamics of primary metabolism-related responses in tolerant potato-Potato virus Y interaction.
+Multi-platform assessment of transcriptional profiling technologies utilizing a precise probe mapping methodology.
+Identification of novel small ncRNAs in pollen of tomato.
+Comparative genomic analysis of Leishmania (Viannia) peruviana and Leishmania (Viannia) braziliensis.
+Analysis of the agrotis segetum pheromone gland transcriptome in the light of Sex pheromone biosynthesis.
+Origin and evolution of the enhancer of split complex.
+Helveticoside is a biologically active component of the seed extract of Descurainia sophia and induces reciprocal gene regulation in A549 human lung cancer cells.
+Sheep (Ovis aries) T cell receptor alpha (TRA) and delta (TRD) genes and genomic organization of the TRA/TRD locus.
+Synteny analysis in Rosids with a walnut physical map reveals slow genome evolution in long-lived woody perennials.
+Using mixtures of biological samples as process controls for RNA-sequencing experiments.
+Exploration of alternative splicing events in ten different grapevine cultivars.
+Characterization of early transcriptional responses to cadmium in the root and leaf of Cd-resistant Salix matsudana Koidz.
+cis-regulatory analysis of the Drosophila pdm locus reveals a diversity of neural enhancers.
+De novo mutations in ARID1B associated with both syndromic and non-syndromic short stature.
+A survey of tandem repeat instabilities and associated gene expression changes in 35 colorectal cancers.
+Identification of candidate gonadal sex differentiation genes in the chicken embryo using RNA-seq.
+Somatic mosaicism for copy-neutral loss of heterozygosity and DNA copy number variations in the human genome.
+Weight-reduction through a low-fat diet causes differential expression of circulating microRNAs in obese C57BL/6 mice.
+Putative synaptic genes defined from a Drosophila whole body developmental transcriptome by a machine learning approach.
+Transcriptome analysis of complex I-deficient patients reveals distinct expression programs for subunits and assembly factors of the oxidative phosphorylation system.
+Erratum to: Investigating the mobilome in clinically important lineages of Enterococcus faecium and Enterococcus faecalis.
+Comparative genomics between human and animal associated subspecies of the Mycobacterium avium complex: a basis for pathogenicity.
+Avian pathogenic Escherichia coli (APEC) infection alters bone marrow transcriptome in chickens.
+Identification and expression profiles of sRNAs and their biogenesis and action-related genes in male and female cones of Pinus tabuliformis.
+Comprehensive transcriptome analysis of Crocus sativus for discovery and expression of genes involved in apocarotenoid biosynthesis.
+Identification of four functionally important microRNA families with contrasting differential expression profiles between drought-tolerant and susceptible rice leaf at vegetative stage.
+Genome-wide expression profiling of microRNAs in poplar upon infection with the foliar rust fungus Melampsora larici-populina.
+Comparative genomic analyses of freshly isolated Giardia intestinalis assemblage A isolates.
+Next generation genome sequencing reveals phylogenetic clades with different level of virulence among Salmonella Typhimurium clinical human isolates in Hong Kong.
+Venom-gland transcriptome and venom proteome of the Malaysian king cobra (Ophiophagus hannah).
+Draft genome of a commonly misdiagnosed multidrug resistant pathogen Candida auris.
+Whole transcriptomic analysis of the plant-beneficial rhizobacterium Bacillus amyloliquefaciens SQR9 during enhanced biofilm formation regulated by maize root exudates.
+A comparative analysis of the response of the hepatic transcriptome to dietary docosahexaenoic acid in Atlantic salmon (Salmo salar) post-smolts.
+The primary reasons behind data sharing, its wider benefits and how to cope with the realities of commercial data.
+Transcriptomic responses to prion disease in rats.
+Genomic profiling of fungal cell wall-interfering compounds: identification of a common gene signature.
+Genome-wide target analysis of NEUROD2 provides new insights into regulation of cortical projection neuron migration and differentiation.
+Genome-wide insights into population structure and genetic history of tunisian local cattle using the illumina bovinesnp50 beadchip.
+Lasting effects of early exposure to temperature on the gonadal transcriptome at the time of sex differentiation in the European sea bass, a fish with mixed genetic and environmental sex determination.
+Transcriptome analysis of the white pine blister rust pathogen Cronartium ribicola: de novo assembly, expression profiling, and identification of candidate effectors.
+Genome-wide characterization of long intergenic non-coding RNAs (lincRNAs) provides new insight into viral diseases in honey bees Apis cerana and Apis mellifera.
+The isolation and characterization of two Stenotrophomonas maltophilia bacteriophages capable of cross-taxonomic order infectivity.
+Characterizing 5-hydroxymethylcytosine in human prefrontal cortex at single base resolution.
+Malat1 as an evolutionarily conserved lncRNA, plays a positive role in regulating proliferation and maintaining undifferentiated status of early-stage hematopoietic cells.
+Comparison of stranded and non-stranded RNA-seq transcriptome profiling and investigation of gene overlap.
+Genomic consequences of selection and genome-wide association mapping in soybean.
+Rapid construction of genome map for large yellow croaker (Larimichthys crocea) by the whole-genome mapping in BioNano Genomics Irys system.
+Large scale RNAi screen in Tribolium reveals novel target genes for pest control and the proteasome as prime target.
+Whole genome sequences are required to fully resolve the linkage disequilibrium structure of human populations.
+Cross-tissue and cross-species analysis of gene expression in skeletal muscle and electric organ of African weakly-electric fish (Teleostei; Mormyridae).
+Genome mining for natural product biosynthetic gene clusters in the Subsection V cyanobacteria.
+Using genome-wide associations to identify metabolic pathways involved in maize aflatoxin accumulation resistance.
+Polyglutamine toxicity in yeast induces metabolic alterations and mitochondrial defects.
+T-REx: Transcriptome analysis webserver for RNA-seq Expression data.
+ISMapper: identifying transposase insertion sites in bacterial genomes from short read sequence data.
+Transcriptional analysis of phloem-associated cells of potato.
+The mitochondrial genome of the chimpanzee louse, Pediculus schaeffi: insights into the process of mitochondrial genome fragmentation in the blood-sucking lice of great apes.
+Application of whole genome re-sequencing data in the development of diagnostic DNA markers tightly linked to a disease-resistance locus for marker-assisted selection in lupin (Lupinus angustifolius).
+Large scale transcriptome analysis reveals interplay between development of forest trees and a beneficial mycorrhiza helper bacterium.
+Gonadal transcriptomics elucidate patterns of adaptive evolution within marine rockfishes (Sebastes).
+De novo sequencing and analysis of Lophophora williamsii transcriptome, and searching for putative genes involved in mescaline biosynthesis.
+EST-based in silico identification and in vitro test of antimicrobial peptides in Brassica napus.
+Andrographis paniculata transcriptome provides molecular insights into tissue-specific accumulation of medicinal diterpenes.
+Integrative analysis of the microRNA-mRNA response to radiochemotherapy in primary head and neck squamous cell carcinoma cells.
+RNAseq expression analysis of resistant and susceptible mice after influenza A virus infection identifies novel genes associated with virus replication and important for host resistance to infection.
+De novo sequencing and analysis of the cranberry fruit transcriptome to identify putative genes involved in flavonoid biosynthesis, transport and regulation.
+Generation of whole genome sequences of new Cryptosporidium hominis and Cryptosporidium parvum isolates directly from stool samples.
+Long-term genomic selection for heterosis without dominance in multiplicative traits: case study of bunch production in oil palm.
+Is the whole greater than the sum of its parts? De novo assembly strategies for bacterial genomes based on paired-end sequencing.
+MGFM: a novel tool for detection of tissue and cell specific marker genes from microarray gene expression data.
+Functional diversity of CTCFs is encoded in their binding motifs.
+Development of a D genome specific marker resource for diploid and hexaploid wheat.
+Snake venoms are integrated systems, but abundant venom proteins evolve more rapidly.
+A clone-free, single molecule map of the domestic cow (Bos taurus) genome.
+Transcriptome profiling during a natural host-parasite interaction.
+A simple procedure for directly obtaining haplotype sequences of diploid genomes.
+Haemophilus influenzae: using comparative genomics to accurately identify a highly recombinogenic human pathogen.
+Skipper genome sheds light on unique phenotypic traits and phylogeny.
+CspC regulates the expression of the glyoxylate cycle genes at stationary phase in Caulobacter.
+RNAseq analysis of Aspergillus fumigatus in blood reveals a just wait and see resting stage behavior.
+De novo transcriptome assembly and analysis to identify potential gene targets for RNAi-mediated control of the tomato leafminer (Tuta absoluta).
+Transcriptomic changes of Legionella pneumophila in water.
+MEXPRESS: visualizing expression, DNA methylation and clinical TCGA data.
+Infectious hematopoietic necrosis virus (IHNV) persistence in Sockeye Salmon: influence on brain transcriptome and subsequent response to the viral mimic poly(I:C).
+Identification of microRNAs associated with allergic airway disease using a genetically diverse mouse population.
+C/D box sRNA-guided 2′-O-methylation patterns of archaeal rRNA molecules.
+Candidate effectors contribute to race differentiation and virulence of the lentil anthracnose pathogen Colletotrichum lentis.
+Stool microbiota composition is associated with the prospective risk of Plasmodium falciparum infection.
+Campylobacter group II phage CP21 is the prototype of a new subgroup revealing a distinct modular genome organization and host specificity.
+Transcriptomic changes in the plant pathogenic fungus Rhizoctonia solani AG-3 in response to the antagonistic bacteria Serratia proteamaculans and Serratia plymuthica.
+Deciphering common and specific transcriptional immune responses in pea towards the oomycete pathogens Aphanomyces euteiches and Phytophthora pisi.
+Early evolutionary history and genomic features of gene duplicates in the human genome.
+DNA methylation and gene expression dynamics during spermatogonial stem cell differentiation in the early postnatal mouse testis.
+Evolutionary transitions in the Asteraceae coincide with marked shifts in transposable element abundance.
+Male and female mice show significant differences in hepatic transcriptomic response to 2,3,7,8-tetrachlorodibenzo-p-dioxin.
+Characterization and comparative profiling of the small RNA transcriptomes in two phases of flowering in Cymbidium ensifolium.
+Gene expression during zombie ant biting behavior reflects the complexity underlying fungal parasitic behavioral manipulation.
+Characterization of a second secologanin synthase isoform producing both secologanin and secoxyloganin allows enhanced de novo assembly of a Catharanthus roseus transcriptome.
+PhosphOrtholog: a web-based tool for cross-species mapping of orthologous protein post-translational modifications.
+Phylogenomic and functional analyses of salmon lice aquaporins uncover the molecular diversity of the superfamily in Arthropoda.
+BEACON: automated tool for Bacterial GEnome Annotation ComparisON.
+Construction of a high-density genetic map using specific length amplified fragment markers and identification of a quantitative trait locus for anthracnose resistance in walnut (Juglans regia L.).
+Identification of in vitro and in vivo disconnects using transcriptomic data.
+Endogenous murine leukemia retroviral variation across wild European and inbred strains of house mouse.
+A hybrid imputation approach for microarray missing value estimation.
+A computational framework for the prioritization of disease-gene candidates.
+Integrative analysis of multi-omics data for identifying multi-markers for diagnosing pancreatic cancer.
+An unsupervised learning approach to find ovarian cancer genes through integration of biological data.
+Evolutionary patchwork of an insecticidal toxin shared between plant-associated pseudomonads and the insect pathogens Photorhabdus and Xenorhabdus.
+Comparative genome analysis of Mycoplasma pneumoniae.
+Identifying and characterising key alternative splicing events in Drosophila development.
+De novo assembly and characterisation of the field pea transcriptome using RNA-Seq.
+Uncovering co-expression gene network modules regulating fruit acidity in diverse apples.
+Distinct polymer physics principles govern chromatin dynamics in mouse and Drosophila topological domains.
+Transcriptome analysis of the Holly mangrove Acanthus ilicifolius and its terrestrial relative, Acanthus leucostachyus, provides insights into adaptation to intertidal zones.
+Transcriptional maturation of the mouse auditory forebrain.
+Distribution and diversity of ribosome binding sites in prokaryotic genomes.
+Genetic characteristics of soybean resistance to HG type 0 and HG type 1.2.3.5.7 of the cyst nematode analyzed by genome-wide association mapping.
+Signatures of natural selection between life cycle stages separated by metamorphosis in European eel.
+Diversity of the cell-wall associated genomic island of the archaeon Haloquadratum walsbyi.
+Development of genome-wide insertion and deletion markers for maize, based on next-generation sequencing data.
+Analysis of archived residual newborn screening blood spots after whole genome amplification.
+Soybean transcription factor ORFeome associated with drought resistance: a valuable resource to accelerate research on abiotic stress resistance.
+NanoCAGE-XL and CapFilter: an approach to genome wide identification of high confidence transcription start sites.
+Deep sequencing of the Mexican avocado transcriptome, an ancient angiosperm with a high content of fatty acids.
+Changepoint detection in base-resolution methylome data reveals a robust signature of methylated domain landscape.
+ALOMYbase, a resource to investigate non-target-site-based resistance to herbicides inhibiting acetolactate-synthase (ALS) in the major grass weed Alopecurus myosuroides (black-grass).
+Integrated analyses of zebrafish miRNA and mRNA expression profiles identify miR-29b and miR-223 as potential regulators of optic nerve regeneration.
+Cell cycle control, DNA damage repair, and apoptosis-related pathways control pre-ameloblasts differentiation during tooth development.
+A high-resolution physical map integrating an anchored chromosome with the BAC physical maps of wheat chromosome 6B.
+Genetic architecture of cyst nematode resistance revealed by genome-wide association study in soybean.
+Systems toxicology identifies mechanistic impacts of 2-amino-4,6-dinitrotoluene (2A-DNT) exposure in Northern Bobwhite.
+Effect of 90Sr internal emitter on gene expression in mouse blood.
+Reducing amplification artifacts in high multiplex amplicon sequencing by using molecular barcodes.
+Putative type 1 thymidylate synthase and dihydrofolate reductase as signature genes of a novel bastille-like group of phages in the subfamily Spounavirinae.
+The impact of chromatin remodelling on cellulase expression in Trichoderma reesei.
+Trends in genome dynamics among major orders of insects revealed through variations in protein families.
+A global analysis of the complex landscape of isoforms and regulatory networks of p63 in human cells and tissues.
+Genetic signatures of adaptation revealed from transcriptome sequencing of Arctic and red foxes.
+High-throughput and quantitative genome-wide messenger RNA sequencing for molecular phenotyping.
+The complete mitochondrial genome sequence of the green microalga Lobosphaera (Parietochloris) incisa reveals a new type of palindromic repetitive repeat.
+Comparison and evaluation of two exome capture kits and sequencing platforms for variant calling.
+Identification of promising host-induced silencing targets among genes preferentially transcribed in haustoria of Puccinia.
+Genetic analysis of Verticillium wilt resistance in a backcross inbred line population and a meta-analysis of quantitative trait loci for disease resistance in cotton.
+A GWAS assessment of the contribution of genomic imprinting to the variation of body mass index in mice.
+RNA-seq for gene identification and transcript profiling in relation to root growth of bermudagrass (Cynodon dactylon) under salinity stress.
+A comparative analysis of host responses to avian influenza infection in ducks and chickens highlights a role for the interferon-induced transmembrane proteins in viral resistance.
+The complete genome sequence of Dickeya zeae EC1 reveals substantial divergence from other Dickeya strains and species.
+Recombination of chl-fus gene (Plastid Origin) downstream of hop: a locus of chromosomal instability.
+Retraction Note: Species-specific chemosensory gene expression in the olfactory organs of the malaria vector Anopheles gambiae.
+POTION: an end-to-end pipeline for positive Darwinian selection detection in genome-scale data through phylogenetic comparison of protein-coding genes.
+Identification and functional analysis of early gene expression induced by circadian light-resetting in Drosophila.
+MAC: identifying and correcting annotation for multi-nucleotide variations.
+Identification of genes associated with shell color in the black-lipped pearl oyster, Pinctada margaritifera.
+Analyzing allele specific RNA expression using mixture models.
+Detection and characterization of small insertion and deletion genetic variants in modern layer chicken genomes.
+RNA-sequencing elucidates the regulation of behavioural transitions associated with the mating process in honey bee queens.
+Genome-wide association study revealed a promising region and candidate genes for eggshell quality in an F2 resource population.
+RNAseq analysis of fast skeletal muscle in restriction-fed transgenic coho salmon (Oncorhynchus kisutch): an experimental model uncoupling the growth hormone and nutritional signals regulating growth.
+Sequence diversity and differential expression of major phenylpropanoid-flavonoid biosynthetic genes among three mango varieties.
+Network analysis of temporal functionalities of the gut induced by perturbations in new-born piglets.
+Quantitative proteomic analysis of formalin–fixed, paraffin–embedded clear cell renal cell carcinoma tissue using stable isotopic dimethylation of primary amines.
+Transcriptional analysis of susceptible and resistant European corn borer strains and their response to Cry1F protoxin.
+The Pkn22 Ser/Thr kinase in Nostoc PCC 7120: role of FurA and NtcA regulators and transcript profiling under nitrogen starvation and oxidative stress.
+Global transcriptome and gene regulation network for secondary metabolite biosynthesis of tea plant (Camellia sinensis).
+Deep sequencing-based characterization of transcriptome of trifoliate orange (Poncirus trifoliata (L.) Raf.) in response to cold stress.
+Genomic analyses of pneumococci reveal a wide diversity of bacteriocins – including pneumocyclicin, a novel circular bacteriocin.
+The genome of the truffle-parasite Tolypocladium ophioglossoides and the evolution of antifungal peptaibiotics.
+Evolutionary insights from de novo transcriptome assembly and SNP discovery in California white oaks.
+Genomic sequence of the aflatoxigenic filamentous fungus Aspergillus nomius.
+Transcriptome analysis of bacteriophage communities in periodontal health and disease.
+Whole transcriptome profiling of the vernalization process in Lilium longiflorum (cultivar White Heaven) bulbs.
+Identifying new sex-linked genes through BAC sequencing in the dioecious plant Silene latifolia.
+Experimental validation of methods for differential gene expression analysis and sample pooling in RNA-seq.
+Common and specific downstream signaling targets controlled by Tlr2 and Tlr5 innate immune signaling in zebrafish.
+Combined serial analysis of gene expression and transcription factor binding site prediction identifies novel-candidate-target genes of Nr2e1 in neocortex development.
+The completed genome sequence of the pathogenic ascomycete fungus Fusarium graminearum.
+Evolutionary engineering of a wine yeast strain revealed a key role of inositol and mannoprotein metabolism during low-temperature fermentation.
+The serine/threonine kinase 33 is present and expressed in palaeognath birds but has become a unitary pseudogene in neognaths about 100 million years ago.
+Populational landscape of INDELs affecting transcription factor-binding sites in humans.
+Marsupials and monotremes possess a novel family of MHC class I genes that is lost from the eutherian lineage.
+Unearthing the genomes of plant-beneficial Pseudomonas model strains WCS358, WCS374 and WCS417.
+Regulation of microRNA during cardiomyocyte maturation in sheep.
+Runs of homozygosity and distribution of functional variants in the cattle genome.
+Scrutinizing the immune defence inventory of Camponotus floridanus applying total transcriptome sequencing.
+RiTE database: a resource database for genus-wide rice genomics and evolutionary biology.
+Identification and transcriptomic profiling of genes involved in increasing sugar content during salt stress in sweet sorghum leaves.
+Identification of sequences common to more than one therapeutic target to treat complex diseases: simulating the high variance in sequence interactivity evolved to modulate robust phenotypes.
+Integrating Phosphoproteomics and Bioinformatics to Study Brassinosteroid-Regulated Phosphorylation Dynamics in Arabidopsis.
+Genome sequence and comparative analysis of a putative entomopathogenic Serratia isolated from Caenorhabditis briggsae.
+Genes involved in sex pheromone biosynthesis of Ephestia cautella, an important food storage pest, are determined by transcriptome sequencing.
+Analysis of the TGFβ-induced program in primary airway epithelial cells shows essential role of NF-κB/RelA signaling network in type II epithelial mesenchymal transition.
+Single-cell transcriptomics using spliced leader PCR: Evidence for multiple losses of photosynthesis in polykrikoid dinoflagellates.
+Comparison of genomic signatures of selection on Plasmodium falciparum between different regions of a country with high malaria endemicity.
+Transfer of energy pathway genes in microbial enhanced biological phosphorus removal communities.
+De novo assembly and characterization of central nervous system transcriptome reveals neurotransmitter signaling systems in the rice striped stem borer, Chilo suppressalis.
+The sulfur/sulfonates transport systems in Xanthomonas citri pv. citri.
+A semi-supervised approach uncovers thousands of intragenic enhancers differentially activated in human cells.
+An assembly and alignment-free method of phylogeny reconstruction from next-generation sequencing data.
+Drosophila anti-nematode and antibacterial immune regulators revealed by RNA-Seq.
+Soybean (Glycine max) SWEET gene family: insights through comparative genomics, transcriptome profiling and whole genome re-sequence analysis.
+De novo assembly of a transcriptome from juvenile blue crabs (Callinectes sapidus) following exposure to surrogate Macondo crude oil.
+Mobile element insertions are frequent in oesophageal adenocarcinomas and can mislead paired-end sequencing analysis.
+Transcriptome sequencing of microglial cells stimulated with TLR3 and TLR4 ligands.
+Whole blood microarray analysis of pigs showing extreme phenotypes after a porcine reproductive and respiratory syndrome virus infection.
+Genome-wide analysis of signatures of selection in populations of African honey bees (Apis mellifera) using new web-based tools.
+Genome-wide characterization of intergenic polyadenylation sites redefines gene spaces in Arabidopsis thaliana.
+Protein functional features are reflected in the patterns of mRNA translation speed.
+Genome-wide identification and Phylogenic analysis of kelch motif containing ACBP in Brassica napus.
+The diagnostic application of targeted re-sequencing in Korean patients with retinitis pigmentosa.
+Cell periphery-related proteins as major genomic targets behind the adaptive evolution of an industrial Saccharomyces cerevisiae strain to combined heat and hydrolysate stress.
+Six host-range restricted poxviruses from three genera induce distinct gene expression profiles in an in vivo mouse model.
+Read count-based method for high-throughput allelic genotyping of transposable elements and structural variants.
+Proteome from patients with metabolic syndrome is regulated by quantity and quality of dietary lipids.
+DNA methylation and gene expression in Mimulus guttatus.
+Arterial endothelial methylome: differential DNA methylation in athero-susceptible disturbed flow regions in vivo.
+The Medicago sativa gene index 1.2: a web-accessible gene expression atlas for investigating expression differences between Medicago sativa subspecies.
+Use of the de novo transcriptome analysis of silver-leaf nightshade (Solanum elaeagnifolium) to identify gene expression changes associated with wounding and terpene biosynthesis.
+Daytime soybean transcriptome fluctuations during water deficit stress.
+Tumor characterization and stratification by integrated molecular profiles reveals essential pan-cancer features.
+Reorganization of metastamiRs in the evolution of metastatic aggressive neuroblastoma cells.
+Differential gene expression between hygienic and non-hygienic honeybee (Apis mellifera L.) hives.
+Chromosomal copy number variation reveals differential levels of genomic plasticity in distinct Trypanosoma cruzi strains.
+Refined analysis of the Campylobacter jejuni iron-dependent/independent Fur- and PerR-transcriptomes.
+Transcriptional response of Atlantic salmon families to Piscirickettsia salmonis infection highlights the relevance of the iron-deprivation defence system.
+Genomic copy number variation in Mus musculus.
+Horizontal gene transfer in an acid mine drainage microbial community.
+Stool metatranscriptomics: A technical guideline for mRNA stabilisation and isolation.
+Transciptomic and histological analysis of hepatopancreas, muscle and gill tissues of oriental river prawn (Macrobrachium nipponense) in response to chronic hypoxia.
+High-throughput phenotyping and genetic linkage of cortical bone microstructure in the mouse.
+Carotenoid biosynthetic genes in Brassica rapa: comparative genomic analysis, phylogenetic analysis, and expression profiling.
+Patterns of gene expression during Arabidopsis flower development from the time of initiation to maturation.
+Systematically dissecting the global mechanism of miRNA functions in mouse pluripotent stem cells.
+Expression patterns, molecular markers and genetic diversity of insect-susceptible and resistant Barbarea genotypes by comparative transcriptome analysis.
+An efficiency analysis of high-order combinations of gene–gene interactions using multifactor-dimensionality reduction.
+QuickNGS elevates Next-Generation Sequencing data analysis to a new level of automation.
+The Streptomyces leeuwenhoekii genome: de novo sequencing and assembly in single contigs of the chromosome, circular plasmid pSLE1 and linear plasmid pSLE2.
+A user-friendly workflow for analysis of Illumina gene expression bead array data available at the arrayanalysis.org portal.
+Tobacco drought stress responses reveal new targets for Solanaceae crop improvement.
+Genome-wide association analysis identified splicing single nucleotide polymorphism in CFLAR predictive of triptolide chemo-sensitivity.
+Erratum: Computational identification of multi-omic correlates of anticancer therapeutic response.
+HIV-1 gp120 influences the expression of microRNAs in human monocyte-derived dendritic cells via STAT3 activation.
+Metabolomic and transcriptomic insights into how cotton fiber transitions to secondary wall synthesis, represses lignification, and prolongs elongation.
+Core oxidative stress response in Aspergillus nidulans.
+Global analyses of TetR family transcriptional regulators in mycobacteria indicates conservation across species and diversity in regulated functions.
+Gene expression analysis of skin grafts and cultured keratinocytes using synthetic RNA normalization reveals insights into differentiation and growth control.
+The human cardiac and skeletal muscle proteomes defined by transcriptomics and antibody-based profiling.
+Linked genetic variants on chromosome 10 control ear morphology and body mass among dog breeds.
+RNA-Seq analysis of resistant and susceptible potato varieties during the early stages of potato virus Y infection.
+Global transcriptional analysis of Burkholderia pseudomallei high and low biofilm producers reveals insights into biofilm production and virulence.
+Transcriptome profiling provides new insights into the formation of floral scent in Hedychium coronarium.
+Distinctive expansion of gene families associated with plant cell wall degradation, secondary metabolism, and nutrient uptake in the genomes of grapevine trunk pathogens.
+Comparison of GENCODE and RefSeq gene annotation and the impact of reference geneset on variant effect prediction.
+Computational methods and resources for the interpretation of genomic variants in cancer.
+Insights from GWAS: emerging landscape of mechanisms underlying complex trait disease.
+Bioinformatics analysis of thousands of TCGA tumors to determine the involvement of epigenetic regulators in human cancer.
+Differential Evolution approach to detect recent admixture.
+Better prediction of functional effects for sequence variants.
+Conditional entropy in variation-adjusted windows detects selection signatures associated with expression quantitative trait loci (eQTLs).
+Disease-associated variants in different categories of disease located in distinct regulatory elements.
+VarI-SIG 2014 - From SNPs to variants: interpreting different types of genetic variants.
+NET-GE: a novel NETwork-based Gene Enrichment for detecting biological processes associated to Mendelian diseases.
+RNA-seq analysis of an apical meristem time series reveals a critical point in Arabidopsis thaliana flower initiation.
+Identification of a common risk haplotype for canine idiopathic epilepsy in the ADAM23 gene.
+Hox cluster characterization of Banna caecilian (Ichthyophis bannanicus) provides hints for slow evolution of its genome.
+Functional marker development of miR1511-InDel and allelic diversity within the genus Glycine.
+Comparative transcriptome profiling of Pyropia yezoensis (Ueda) M.S. Hwang & H.G. Choi in response to temperature stresses.
+Whole-genome cartography of p53 response elements ranked on transactivation potential.
+piRNA-like small RNAs mark extended 3’UTRs present in germ and somatic cells.
+Genome-wide transcriptomic analysis of a superior biomass-degrading strain of A. fumigatus revealed active lignocellulose-degrading genes.
+Sex and parasites: genomic and transcriptomic analysis of Microbotryum lychnidis-dioicae, the biotrophic and plant-castrating anther smut fungus.
+De novo assembly of the Carcinus maenas transcriptome and characterization of innate immune system pathways.
+Deep sequencing, profiling and detailed annotation of microRNAs in Takifugu rubripes.
+Comparative mitogenomic analysis of the superfamily Pentatomoidea (Insecta: Hemiptera: Heteroptera) and phylogenetic implications.
+Interlocus gene conversion explains at least 2.7 % of single nucleotide variants in human segmental duplications.
+The physical map of wheat chromosome 5DS revealed gene duplications and small rearrangements.
+deGPS is a powerful tool for detecting differential expression in RNA-sequencing studies.
+Strand-specific RNA sequencing in Plasmodium falciparum malaria identifies developmentally regulated long non-coding RNA and circular RNA.
+Oncogenes and tumor suppressor genes: comparative genomics and network perspectives.
+Prediction of promoters and enhancers using multiple DNA methylation-associated features.
+A computational method for clinically relevant cancer stratification and driver mutation module discovery using personal genomics profiles.
+Dysregulated transcription across diverse cancer types reveals the importance of RNA-binding protein in carcinogenesis.
+Comprehensive genome-wide transcription factor analysis reveals that a combination of high affinity and low affinity DNA binding is needed for human gene regulation.
+Network-based stratification analysis of 13 major cancer types using mutations in panels of cancer genes.
+BMRF-MI: integrative identification of protein interaction network by modeling the gene dependency.
+Differential expression analysis of RNA sequencing data by incorporating non-exonic mapped reads.
+Application of a hierarchical enzyme classification method reveals the role of gut microbiome in human metabolism.
+Co-modulation analysis of gene regulation in breast cancer reveals complex interplay between ESR1 and ERBB2 genes.
+A translational bioinformatic approach in identifying and validating an interaction between Vitamin A and CYP19A1.
+Education, collaboration, and innovation: intelligent biology and medicine in the era of big data.
+Network-based gene prediction for Plasmodium falciparum malaria towards genetics-based drug discovery.
+Discovery and characterization of long intergenic non-coding RNAs (lincRNA) module biomarkers in prostate cancer: an integrative analysis of RNA-Seq data.
+A genome-wide systems analysis reveals strong link between colorectal cancer and trimethylamine N-oxide (TMAO), a gut microbial metabolite of dietary meat and fat.
+Systems analysis of gene ontology and biological pathways involved in post-myocardial infarction responses.
+Global transcriptome analysis profiles metabolic pathways in traditional herb Astragalus membranaceus Bge. var. mongolicus (Bge.) Hsiao.
+Multiple signatures of a disease in potential biomarker space: Getting the signatures consensus and identification of novel biomarkers.
+MOST+: A de novo motif finding approach combining genomic sequence and heterogeneous genome-wide signatures.
+The Eucalyptus terpene synthase gene family.
+Population structure of mitochondrial genomes in Saccharomyces cerevisiae.
+CMRegNet–An interspecies reference database for corynebacterial and mycobacterial regulatory networks.
+Identification of two key genes controlling chill haze stability of beer in barley (Hordeum vulgare L).
+Co-cultivation and transcriptome sequencing of two co-existing fish pathogens Moritella viscosa and Aliivibrio wodanis.
+Transcriptome sequencing and annotation of the polychaete Hermodice carunculata (Annelida, Amphinomidae).
+Comparative genomic and phenomic analysis of Clostridium difficile and Clostridium sordellii, two related pathogens with differing host tissue preference.
+Comparative transcriptomics analysis reveals difference of key gene expression between banana and plantain in response to cold stress.
+The distribution and evolution of Arabidopsis thaliana cis natural antisense transcripts.
+Ribosome profiling reveals translation control as a key mechanism generating differential gene expression in Trypanosoma cruzi.
+Comparative transcriptional profiling analysis of developing melon (Cucumis melo L.) fruit from climacteric and non-climacteric varieties.
+A novel mitochondrial genome architecture in thrips (Insecta: Thysanoptera): extreme size asymmetry among chromosomes and possible recent control region duplication.
+The venomous cocktail of the vampire snail Colubraria reticulata (Mollusca, Gastropoda).
+Expansion of the HSFY gene family in pig lineages: HSFY expansion in suids.
+Non-thermal plasma treatment altered gene expression profiling in non-small-cell lung cancer A549 cells.
+Whole genome capture of vector-borne pathogens from mixed DNA samples: a case study of Borrelia burgdorferi.
+Genome-wide analysis of the ATP-binding cassette (ABC) transporter gene family in sea lamprey and Japanese lamprey.
+Erratum: Induced pluripotent stem cell-derived neuronal cells from a sporadic Alzheimer's disease donor as a model for investigating AD-associated gene regulatory networks.
+Copy number alterations and allelic ratio in relation to recurrence of rectal cancer.
+Recent genomic heritage in Scotland.
+The genome of Diuraphis noxia, a global aphid pest of small grains.
+Comparative proteomic analysis of drought tolerance in the two contrasting Tibetan wild genotypes and cultivated genotype.
+Reference genome of wild goat (capra aegagrus) and sequencing of goat breeds provide insight into genic basis of goat domestication.
+Genetic architecture is more complex for resistance to Septoria tritici blotch than to Fusarium head blight in Central European winter wheat.
+RNA-seq analysis reveals genetic response and tolerance mechanisms to ozone exposure in soybean.
+Partial depletion of yolk during zebrafish embryogenesis changes the dynamics of methionine cycle and metabolic genes.
+Mitochondrial phylogenomics and genetic relationships of closely related pine moth (Lasiocampidae: Dendrolimus) species in China, using whole mitochondrial genomes.
+Genome-wide identification of the Phaseolus vulgaris sRNAome using small RNA and degradome sequencing.
+Characterizing the neurotranscriptomic states in alternative stress coping styles.
+The complete methylome of Helicobacter pylori UM032.
+RAP: RNA-Seq Analysis Pipeline, a new cloud-based NGS web application.
+FunPat: function-based pattern analysis on RNA-seq time series data.
+Detection of miRNA regulatory effect on triple negative breast cancer transcriptome.
+MONSTER v1.1: a tool to extract and search for RNA non-branching structures.
+Detection of gene annotations and protein-protein interaction associated disorders through transitive relationships between integrated annotations.
+Quantitative proteomic analysis of host—pathogen interactions: a study of Acinetobacter baumannii responses to host airways.
+Controlling for conservation in genome-wide DNA methylation studies.
+APOL1 G1 genotype modifies the association between HDLC and kidney function in African Americans.
+Single nucleotide resolution RNA-seq uncovers new regulatory mechanisms in the opportunistic pathogen Streptococcus agalactiae.
+Concurrent host-pathogen gene expression in the lungs of pigs challenged with Actinobacillus pleuropneumoniae.
+Early life microbial colonization of the gut and intestinal development differ between genetically divergent broiler lines.
+Identification of a putative quantitative trait nucleotide in guanylate binding protein 5 for host response to PRRS virus infection.
+Unravelling the genome of Holy basil: an “incomparable” “elixir of life” of traditional Indian medicine.
+De novo transcriptome characterization and gene expression profiling of the desiccation tolerant moss Bryum argenteum following rehydration.
+Using whole-genome sequences of the LG/J and SM/J inbred mouse strains to prioritize quantitative trait genes and nucleotides.
+Key genes as stress indicators in the ubiquitous diatom Skeletonema marinoi.
+A novel termini analysis theory using HTS data alone for the identification of Enterococcus phage EF4-like genome termini.
+Polyketide synthesis genes associated with toxin production in two species of Gambierdiscus (Dinophyceae).
+A bi-filtering method for processing single nucleotide polymorphism array data improves the quality of genetic map and accuracy of quantitative trait locus mapping in doubled haploid populations of polyploid Brassica napus.
+Neural transcriptome reveals molecular mechanisms for temporal control of vocalization across multiple timescales.
+Transcriptome and venom proteome of the box jellyfish Chironex fleckeri.
+DISMIRA: Prioritization of disease candidates in miRNA-disease associations based on maximum weighted matching inference model and motif-based analysis.
+Memory acquisition and retrieval impact different epigenetic processes that regulate gene expression.
+Comparative proteomics of cerebrospinal fluid reveals a predictive model for differential diagnosis of pneumococcal, meningococcal, and enteroviral meningitis, and novel putative therapeutic targets.
+A database for the taxonomic and phylogenetic identification of the genus Bradyrhizobium using multilocus sequence analysis.
+Structural investigations of T854A mutation in EGFR and identification of novel inhibitors using structure activity relationships.
+ProCARs: Progressive Reconstruction of Ancestral Gene Orders.
+Integrative network-based approach identifies key genetic elements in breast invasive carcinoma.
+Revisitingmolecular serotyping of Streptococcus pneumoniae.
+Direct ChIP-Seq significance analysis improves target prediction.
+Genome informatics and vaccine targets in Corynebacterium urealyticum using two whole genomes, comparative genomics, and reverse vaccinology.
+An integrated structural proteomics approach along the druggable genome of Corynebacterium pseudotuberculosis species for putative druggable targets.
+Analyse multiple disease subtypes and build associated gene networks using genome-wide expression profiles.
+Second generation physical and linkage maps of yellowtail (Seriola quinqueradiata) and comparison of synteny with four model fish.
+The UBC-40 Urothelial Bladder Cancer cell line index: a genomic resource for functional studies.
+Comparative analysis of plant carbohydrate active enZymes and their role in xylogenesis.
+The potential role of Alu Y in the development of resistance to SN38 (Irinotecan) or oxaliplatin in colorectal cancer.
+Assessing models for genetic prediction of complex traits: a comparison of visualization and quantitative methods.
+Comparative genome analysis of Pseudogymnoascus spp. reveals primarily clonal evolution with small genome fragments exchanged between lineages.
+Global transcription of CRISPR loci in the human oral cavity.
+Characterization of a novel chicken muscle disorder through differential gene expression and pathway analysis using RNA-sequencing.
+Transcriptome sequencing and analysis of rubber tree (Hevea brasiliensis Muell.) to discover putative genes associated with tapping panel dryness (TPD).
+Harnessing cross-species alignment to discover SNPs and generate a draft genome sequence of a bighorn sheep (Ovis canadensis).
+Using the taxon-specific genes for the taxonomic classification of bacterial genomes.
+Glyphosate’s impact on vegetative growth in leafy spurge identifies molecular processes and hormone cross-talk associated with increased branching.
+Genetic diversity of male and female Chinese bayberry (Myrica rubra) populations and identification of sex-associated markers.
+miRVine: a microRNA expression atlas of grapevine based on small RNA sequencing.
+Clostridium sordellii genome analysis reveals plasmid localized toxin genes encoded within pathogenicity loci.
+Identification and characterisation of putative seminal fluid proteins from male reproductive tissue EST libraries in tiger beetles.
+Single-molecule sequencing reveals the molecular basis of multidrug-resistance in ST772 methicillin-resistant Staphylococcus aureus.
+CGGBP1 mitigates cytosine methylation at repetitive DNA sequences.
+Lineage specific evolution of the VNTR composite retrotransposon central domain and its role in retrotransposition of gibbon LAVA elements.
+Genomic and experimental evidence for multiple metabolic functions in the RidA/YjgF/YER057c/UK114 (Rid) protein family.
+A multi-SNP association test for complex diseases incorporating an optimal P-value threshold algorithm in nuclear families.
+Transcriptional events co-regulated by hypoxia and cold stresses in Zebrafish larvae.
+Deep developmental transcriptome sequencing uncovers numerous new genes and enhances gene annotation in the sponge Amphimedon queenslandica.
+Genome-wide identification of MAPK, MAPKK, and MAPKKK gene families and transcriptional profiling analysis during development and stress response in cucumber.
+Microarray transcriptional profiling of Arctic Mesorhizobium strain N33 at low temperature provides insights into cold adaption strategies.
+Non-synonymous mutations mapped to chromosome X associated with andrological and growth traits in beef cattle.
+Identification of REST targets in the Xenopus tropicalis genome.
+Characterization of repetitive DNA landscape in wheat homeologous group 4 chromosomes.
+Dynamic transcriptome profiles of skeletal muscle tissue across 11 developmental stages for both Tongcheng and Yorkshire pigs.
+Identification and characterization of expressed retrotransposons in the genome of the Paracoccidioides species complex.
+Differences in brain gene transcription profiles advocate for an important role of cognitive function in upstream migration and water obstacles crossing in European eel.
+Unravelling the complex trait of harvest index in rapeseed (Brassica napus L.) with association mapping.
+Homologues of potato chromosome 5 show variable collinearity in the euchromatin, but dramatic absence of sequence similarity in the pericentromeric heterochromatin.
+RNA-Seq versus oligonucleotide array assessment of dose-dependent TCDD-elicited hepatic gene expression in mice.
+Comparative transcriptome profiling approach to glean virulence and immunomodulation-related genes of Fasciola hepatica.
+Lipid metabolism and Type VII secretion systems dominate the genome scale virulence profile of Mycobacterium tuberculosis in human dendritic cells.
+Gene expression associated with white syndromes in a reef building coral, Acropora hyacinthus.
+Prediction accuracies for growth and wood attributes of interior spruce in space using genotyping-by-sequencing.
+Estrogen receptor beta impacts hormone-induced alternative mRNA splicing in breast cancer cells.
+Identification of pneumococcal colonization determinants in the stringent response pathway facilitated by genomic diversity.
+Classification of fungal and bacterial lytic polysaccharide monooxygenases.
+Digital gene expression approach over multiple RNA-Seq data sets to detect neoblast transcriptional changes in Schmidtea mediterranea.
+Integrated microRNA, mRNA, and protein expression profiling reveals microRNA regulatory networks in rat kidney treated with a carcinogenic dose of aristolochic acid.
+Comparative transcriptomics uncovers alternative splicing changes and signatures of selection from maize improvement.
+A modified multiplex ligation-dependent probe amplification method for the detection of 22q11.2 copy number variations in patients with congenital heart disease.
+Unraveling incompatibility between wheat and the fungal pathogen Zymoseptoria tritici through apoplastic proteomics.
+Molecular tools to support metabolic and immune function research in the Guinea Fowl (Numida meleagris).
+An empirical strategy to detect bacterial transcript structure from directional RNA-seq transcriptome data.
+Identification and distribution of the NBS-LRR gene family in the Cassava genome.
+Tandem Duplication and Random Loss for mitogenome rearrangement in Symphurus (Teleost: Pleuronectiformes).
+Genomic characterization of mutant laboratory mouse strains by exome sequencing and annotation lift-over.
+Activation of defence pathways in Scots pine bark after feeding by pine weevil (Hylobius abietis).
+Genomic landscape of rat strain and substrain variation.
+Quantitative and multiplexed DNA methylation analysis using long-read single-molecule real-time bisulfite sequencing (SMRT-BS).
+Comparative genome analysis of rice-pathogenic Burkholderia provides insight into capacity to adapt to different environments and hosts.
+Transcriptome assembly, profiling and differential gene expression analysis of the halophyte Suaeda fruticosa provides insights into salt tolerance.
+qRT-PCR evaluation of the transcriptional response of zebra mussel to heavy metals.
+Non-uniqueness of factors constraint on the codon usage in Bombyx mori.
+Genomic features separating ten strains of Neorhizobium galegae with different symbiotic phenotypes.
+Erratum: Secretome weaponries of Cochliobolus lunatus interacting with potato leaf at different temperature regimes reveal a CL[xxxx]LHM - motif.
+Mutations upstream of fabI in triclosan resistant Staphylococcus aureus strains are associated with elevated fabI gene expression.
+Transciptome analysis reveals flavonoid biosynthesis regulation and simple sequence repeats in yam (Dioscorea alata L.) tubers.
+The AVRDC – The World Vegetable Center mungbean (Vigna radiata) core and mini core collections.
+Fungal artificial chromosomes for mining of the fungal secondary metabolome.
+An integrative approach to identify hexaploid wheat miRNAome associated with development and tolerance to abiotic stress.
+Early response to nanoparticles in the Arabidopsis transcriptome compromises plant defence and root-hair development through salicylic acid signalling.
+Characterization and identification of hidden rare variants in the human genome.
+Pathway reporter genes define molecular phenotypes of human cells.
+Virulence related sequences; insights provided by comparative genomics of Streptococcus uberis of differing virulence.
+The uniform-score gene set analysis for identifying common pathways associated with different diabetes traits.
+Identification and characterization of cichlid TAAR genes and comparison with other teleost TAAR repertoires.
+The pathogenic human Torsin A in Drosophila activates the unfolded protein response and increases susceptibility to oxidative stress.
+Long non-coding RNA discovery across the genus anopheles reveals conserved secondary structures within and beyond the Gambiae complex.
+A novel member of the let-7 microRNA family is associated with developmental transitions in filarial nematode parasites.
+Transcriptomic profiles of aging in purified human immune cells.
+Copy number variation in the speciation of pigs: a possible prominent role for olfactory receptors.
+Metatranscriptomic profiles of Eastern subterranean termites, Reticulitermes flavipes (Kollar) fed on second generation feedstocks.
+Poplar trees reconfigure the transcriptome and metabolome in response to drought in a genotype- and time-of-day-dependent manner.
+Parameter optimization for constructing competing endogenous RNA regulatory network in glioblastoma multiforme and other cancers.
+HEPeak: an HMM-based exome peak-finding package for RNA epigenome sequencing data.
+A structure-based Multiple-Instance Learning approach to predicting in vitro transcription factor-DNA interaction.
+Genome assembly using Nanopore-guided long and error-free DNA reads.
+Genome sequencing of the Trichoderma reesei QM9136 mutant identifies a truncation of the transcriptional regulator XYR1 as the cause for its cellulase-negative phenotype.
+Genome-wide identification of SSR and SNP markers from the non-heading Chinese cabbage for comparative genomic analyses.
+Dual 3’Seq using deepSuperSAGE uncovers transcriptomes of interacting Salmonella enterica Typhimurium and human host cells.
+Microarray: a global analysis of biomineralization-related gene expression profiles during larval development in the pearl oyster, Pinctada fucata.
+Transcriptional landscape of psoriasis identifies the involvement of IL36 and IL36RN.
+Transcriptome analysis reveals the host response to Schmallenberg virus in bovine cells and antagonistic effects of the NSs protein.
+High throughput profiling of the cotton bollworm Helicoverpa armigera immunotranscriptome during the fungal and bacterial infections.
+Characterization of chromosomal and megaplasmid partitioning loci in Thermus thermophilus HB27.
+SNP identification and marker assay development for high-throughput selection of soybean cyst nematode resistance.
+Comparative genomic analysis reveals occurrence of genetic recombination in virulent Cryptosporidium hominis subtypes and telomeric gene duplications in Cryptosporidium parvum.
+Pan-genome dynamics of Pseudomonas gene complements enriched across hexachlorocyclohexane dumpsite.
+Transcriptome and hormone profiling reveals Eucalyptus grandis defence responses against Chrysoporthe austroafricana.
+High-throughput, quantitative assessment of the effects of low-dose silica nanoparticles on lung cells: grasping complex toxicity with a great depth of field.
+Cost-efficient multiplex PCR for routine genotyping of up to nine classical HLA loci in a single analytical run of multiple samples by next generation sequencing.
+Histone modifications induced by MDV infection at early cytolytic and latency phases.
+Genome-wide next-generation DNA and RNA sequencing reveals a mutation that perturbs splicing of the phosphatidylinositol glycan anchor biosynthesis class H gene (PIGH) and causes arthrogryposis in Belgian Blue cattle.
+Homozygous haplotype deficiency reveals deleterious mutations compromising reproductive and rearing success in cattle.
+Plastome organization and evolution of chloroplast genes in Cardamine species adapted to contrasting habitats.
+Genome-wide co-occupancy of AML1-ETO and N-CoR defines the t(8;21) AML signature in leukemic cells.
+NF-κB and IRF pathways: cross-regulation on target genes promoter level.
+Novel insights into the insect trancriptome response to a natural DNA virus.
+Molecular insights into land snail neuropeptides through transcriptome and comparative gene analysis.
+Temperature during early development has long-term effects on microRNA expression in Atlantic cod.
+MicroRNAs enrichment in GWAS of complex human phenotypes.
+A family of small cyclic amphipathic peptides (SCAmpPs) genes in citrus.
+Recent artificial selection in U.S. Jersey cattle impacts autozygosity levels of specific genomic regions.
+Global scale transcriptome analysis of Arabidopsis embryogenesis in vitro.
+Different distribution of histone modifications in genes with unidirectional and bidirectional transcription and a role of CTCF and cohesin in directing transcription.
+RNA interference screen reveals a high proportion of mitochondrial proteins essential for correct cell cycle progress in Trypanosoma brucei.
+Mutations and genomic islands can explain the strain dependency of sugar utilization in 21 strains of Propionibacterium freudenreichii.
+Enrichment of Triticum aestivum gene annotations using ortholog cliques and gene ontologies in other plants.
+De novo transcriptome assembly of the wild relative of tea tree (Camellia taliensis) and comparative analysis with tea transcriptome identified putative genes associated with tea quality and stress response.
+Sexually dimorphic gene expression emerges with embryonic genome activation and is dynamic throughout development.
+Common binding by redundant group B Sox proteins is evolutionarily conserved in Drosophila.
+Codon usage and codon context bias in Xanthophyllomyces dendrorhous.
+Leaps and lulls in the developmental transcriptome of Dictyostelium discoideum.
+Modelling the genetic architecture of flowering time control in barley through nested association mapping.
+Transcriptional profile of sweet orange in response to chitosan and salicylic acid.
+Proteomic and metabolomic analysis of the carotenogenic yeast Xanthophyllomyces dendrorhous using different carbon sources.
+Incomplete meiotic sex chromosome inactivation in the domestic dog.
+Assessing structural variation in a personal genome—towards a human reference diploid genome.
+Extensive intra-phylotype diversity in lactobacilli and bifidobacteria from the honeybee gut.
+Annotation of the goat genome using next generation sequencing of microRNA expressed by the lactating mammary gland: comparison of three approaches.
+DNA methylation of the LIN28 pseudogene family.
+Recurrence-associated pathways in hepatitis B virus-positive hepatocellular carcinoma.
+Investigating the mobilome in clinically important lineages of Enterococcus faecium and Enterococcus faecalis.
+Endogenous siRNAs and piRNAs derived from transposable elements and genes in the malaria vector mosquito Anopheles gambiae.
+Copy number variations in high and low fertility breeding boars.
+SNPchiMp v.3: integrating and standardizing single nucleotide polymorphism data for livestock species.
+A mRNA landscape of bovine embryos after standard and MAPK-inhibited culture conditions: a comparative analysis.
+Identification and characterization of rye genes not expressed in allohexaploid triticale.
+Genome-wide investigation of mRNA lifetime determinants in Escherichia coli cells cultured at different growth rates.
+One-step generation of multiple transgenic mouse lines using an improved Pronuclear Injection-based Targeted Transgenesis (i-PITT).
+Erratum to: inferring the global structure of chromosomes from structural variations.
+Meloidogyne javanica fatty acid- and retinol-binding protein (Mj-FAR-1) regulates expression of lipid-, cell wall-, stress- and phenylpropanoid-related genes during nematode infection of tomato.
+Analysis of whole genome sequencing for the Escherichia coli O157:H7 typing phages.
+Intrinsic terminators in Mycoplasma hyopneumoniae transcription.
+Comparative genomic analysis of Ralstonia solanacearum reveals candidate genes for host specificity.
+Transcriptome and expression profiling analysis link patterns of gene expression to antennal responses in Spodoptera litura.
+Genomic factors related to tissue tropism in Chlamydia pneumoniae infection.
+How do SNP ascertainment schemes and population demographics affect inferences about population history?
+SDhaP: haplotype assembly for diploids and polyploids via semi-definite programming.
+Pervasive and opposing effects of Unpredictable Chronic Mild Stress (UCMS) on hippocampal gene expression in BALB/cJ and C57BL/6J mouse strains.
+Whole-genome analysis of Fusarium graminearum insertional mutants identifies virulence associated genes and unmasks untagged chromosomal deletions.
+Transcriptome analysis of leaves, roots and flowers of Panax notoginseng identifies genes involved in ginsenoside and alkaloid biosynthesis.
+Targeted single molecule sequencing methodology for ovarian hyperstimulation syndrome.
+The transcriptome of a complete episode of acute otitis media.
+Comparative genome analysis of Pediococcus damnosus LMG 28219, a strain well-adapted to the beer environment.
+ENCAPP: elastic-net-based prognosis prediction and biomarker discovery for human cancers.
+Gene expression profiles in Rana pirica tadpoles following exposure to a predation threat.
+Genomic variation in tomato, from wild ancestors to contemporary breeding accessions.
+GRACOMICS: software for graphical comparison of multiple results with omics data.
+De novo sequencing of the Hypericum perforatum L. flower transcriptome to identify potential genes that are related to plant reproduction sensu lato.
+Chemosensory genes identified in the antennal transcriptome of the blowfly Calliphora stygia.
+Proteomic analysis of Citrus sinensis roots and leaves in response to long-term magnesium-deficiency.
+A new platform for ultra-high density Staphylococcus aureus transposon libraries.
+Spiked GBS: a unified, open platform for single marker genotyping and whole-genome profiling.
+Regulatory nodD1 and nodD2 genes of Rhizobium tropici strain CIAT 899 and their roles in the early stages of molecular signaling and host-legume nodulation.
+Identification of ncRNAs as potential therapeutic targets in multiple sclerosis through differential ncRNA – mRNA network analysis.
+Comparative transcriptome analysis within the Lolium/Festuca species complex reveals high sequence conservation.
+Functional characterization of BC039389-GATM and KLK4-KRSP1 chimeric read-through transcripts which are up-regulated in renal cell cancer.
+Unique patterns of transcript and miRNA expression in the South American strong voltage electric eel (Electrophorus electricus).
+Transcriptome responses to Ralstonia solanacearum infection in the roots of the wild potato Solanum commersonii.
+Pre-symptomatic transcriptome changes during cold storage of chilling sensitive and resistant peach cultivars to elucidate chilling injury mechanisms.
+Erratum: Genome sequencing of Sporisorium scitamineum provides insights into the pathogenic mechanisms of sugarcane smut.
+SV-AUTOPILOT: optimized, automated construction of structural variation discovery and benchmarking pipelines.
+Comparative transcriptomics of a complex of four European pine species.
+CLARK: fast and accurate classification of metagenomic and genomic sequences using discriminative k-mers.
+The RNAi machinery controls distinct responses to environmental signals in the basal fungus Mucor circinelloides.
+The genome of the basal agaricomycete Xanthophyllomyces dendrorhous provides insights into the organization of its acetyl-CoA derived pathways and the evolution of Agaricomycotina.
+The Alternaria genomes database: a comprehensive resource for a fungal genus comprised of saprophytes, plant pathogens, and allergenic species.
+X-inactivation informs variance-based testing for X-linked association of a quantitative trait.
+Global liver gene expression differences in Nelore steers with divergent residual feed intake phenotypes.
+Nourishment level affects caste-related gene expression in Polistes wasps.
+Complete genome sequence and analysis of Lactobacillus hokkaidonensis LOOC260T, a psychrotrophic lactic acid bacterium isolated from silage.
+Distinguishing low frequency mutations from RT-PCR and sequence errors in viral deep sequencing data.
+Distribution in microbial genomes of genes similar to lodA and goxA which encode a novel family of quinoproteins with amino acid oxidase activity.
+Genome-wide exploration of the molecular evolution and regulatory network of mitogen-activated protein kinase cascades upon multiple stresses in Brachypodium distachyon.
+Global epigenomic analysis indicates that Epialleles contribute to Allele-specific expression via Allele-specific histone modifications in hybrid rice.
+Identification of hydroxy fatty acid and triacylglycerol metabolism-related genes in lesquerella through seed transcriptome analysis.
+Genome-wide evolutionary characterization and analysis of bZIP transcription factors and their expression profiles in response to multiple abiotic stresses in Brachypodium distachyon.
+Genome reduction and potential metabolic complementation of the dual endosymbionts in the whitefly Bemisia tabaci.
+A RNA-seq approach to identify putative toxins from acrorhagi in aggressive and non-aggressive Anthopleura elegantissima polyps.
+Sequencing, identification and mapping of primed L1 elements (SIMPLE) reveals significant variation in full length L1 elements between individuals.
+Transcriptomic analysis of Litchi chinensis pericarp during maturation with a focus on chlorophyll degradation and flavonoid biosynthesis.
+Proteomics of methyl jasmonate induced defense response in maize leaves against Asian corn borer.
+Transcriptome characterization of three wild Chinese Vitis uncovers a large number of distinct disease related genes.
+Mitogenomic phylogeny of the common long-tailed macaque (Macaca fascicularis fascicularis).
+Genome-wide association study for flowering time, maturity dates and plant height in early maturing soybean (Glycine max) germplasm.
+Construction of a virtual Mycobacterium tuberculosis consensus genome and its application to data from a next generation sequencer.
+Prokaryotic assemblages and metagenomes in pelagic zones of the South China Sea.
+Global gene expression profiling of brown to white adipose tissue transformation in sheep reveals novel transcriptional components linked to adipose remodeling.
+A high density GBS map of bread wheat and its application for dissecting complex disease resistance traits.
+PacBio-LITS: a large-insert targeted sequencing method for characterization of human disease-associated chromosomal structural variations.
+Inorganic Arsenic-induced cellular transformation is coupled with genome wide changes in chromatin structure, transcriptome and splicing patterns.
+Pistillody mutant reveals key insights into stamen and pistil development in wheat (Triticum aestivum L.).
+Reviewer acknowledgement 2014.
+Fatty acid composition of developing tree peony (Paeonia section Moutan DC.) seeds and transcriptome analysis during seed development.
+Genome-wide expression analysis suggests a crucial role of dysregulation of matrix metalloproteinases pathway in undifferentiated thyroid carcinoma.
+An inducible recA expression Bacillus subtilis genome vector for stable manipulation of large DNA fragments.
+Spectrum of variations in dog-1/FANCJ and mdf-1/MAD1 defective Caenorhabditis elegans strains after long-term propagation.
+The chloroplast genomes of Bryopsis plumosa and Tydemania expeditiones (Bryopsidales, Chlorophyta): compact genomes and genes of bacterial origin.
+Messenger RNA sequencing and pathway analysis provide novel insights into the biological basis of chickens’ feed efficiency.
+Transcriptomic analyses reveal species-specific light-induced anthocyanin biosynthesis in chrysanthemum.
+Genome-wide analysis reveals population structure and selection in Chinese indigenous sheep breeds.
+Identification of novel and salt-responsive miRNAs to explore miRNA-mediated regulatory network of salt stress response in radish (Raphanus sativus L.).
+Genome wide comparative analysis of the effects of PRMT5 and PRMT4/CARM1 arginine methyltransferases on the Arabidopsis thaliana transcriptome.
+Comparative transcriptome analysis reveals carbohydrate and lipid metabolism blocks in Brassica napus L. male sterility induced by the chemical hybridization agent monosulfuron ester sodium.
+MicroRNA expression profiles from eggs of different qualities associated with post-ovulatory ageing in rainbow trout (Oncorhynchus mykiss).
+Mitochondrial DNA and the Y chromosome suggest the settlement of Madagascar by Indonesian sea nomad populations.
+Natural variation of gene models in Drosophila melanogaster.
+The dnd operon for DNA phosphorothioation modification system in Escherichia coli is located in diverse genomic islands.
+The salinity tolerant poplar database (STPD): a comprehensive database for studying tree salt-tolerant adaption and poplar genomics.
+Comparative transcriptome analyses on silk glands of six silkmoths imply the genetic basis of silk structure and coloration.
+A genome-wide association study in catfish reveals the presence of functional hubs of related genes within QTLs for columnaris disease resistance.
+Molecular cloning and expression analysis of WRKY transcription factor genes in Salvia miltiorrhiza.
+Local hopping mobile DNA implicated in pseudogene formation and reductive evolution in an obligate cyanobacteria-plant symbiosis.
+A genetic map of cassava (Manihot esculenta Crantz) with integrated physical mapping of immunity-related genes.
+Characterizing homozygosity across United States, New Zealand and Australian Jersey cow and bull populations.
+Ecological genomics in Xanthomonas: the nature of genetic adaptation with homologous recombination and host shifts.
+Construction of a high density SNP linkage map of kelp (Saccharina japonica) by sequencing Taq I site associated DNA and mapping of a sex determining locus.
+Genome-wide identification and characterization of MADS-box family genes related to organ development and stress resistance in Brassica rapa.
+Ageing-associated changes in the human DNA methylome: genomic locations and effects on gene expression.
+Global gene expression patterns of grass carp following compensatory growth.
+Quality control of microbiota metagenomics by k-mer analysis.
+Hsf and Hsp gene families in Populus: genome-wide identification, organization and correlated expression during development and in stress responses.
+Characterization of the transcriptome of fast and slow muscle myotomal fibres in the pacu (Piaractus mesopotamicus).
+NMDA receptor activation upstream of methyl farnesoate signaling for short day-induced male offspring production in the water flea, Daphnia pulex.
+Highly diversified fungi are associated with the achlorophyllous orchid Gastrodia flavilabella.
+Transcriptomic analysis of Siberian ginseng (Eleutherococcus senticosus) to discover genes involved in saponin biosynthesis.
+Transcriptome analysis of cattle muscle identifies potential markers for skeletal muscle growth rate and major cell types.
+Genome diversification within a clonal population of pandemic Vibrio parahaemolyticus seems to depend on the life circumstances of each individual bacteria.
+Transcriptome differences between Cry1Ab resistant and susceptible strains of Asian corn borer.
+Comprehensive molecular, genomic and phenotypic analysis of a major clone of Enterococcus faecalis MLST ST40.
+Metagenomic analysis of the Rhinopithecus bieti fecal microbiome reveals a broad diversity of bacterial and glycoside hydrolase profiles related to lignocellulose degradation.
+Whole genome sequencing of an ethnic Pathan (Pakhtun) from the north-west of Pakistan.
+The central nervous system transcriptome of the weakly electric brown ghost knifefish (Apteronotus leptorhynchus): de novo assembly, annotation, and proteomics validation.
+Pichia pastoris regulates its gene-specific response to different carbon sources at the transcriptional, rather than the translational, level.
+Prospects and limits of marker imputation in quantitative genetic studies in European elite wheat (Triticum aestivum L.).
+CodingQuarry: highly accurate hidden Markov model gene prediction in fungal genomes using RNA-seq transcripts.
+Transcriptomic profiling of the salt-stress response in the halophyte Halogeton glomeratus.
+A novel sex-determining QTL in Nile tilapia (Oreochromis niloticus).
+Learning-induced gene expression in the heads of two Nasonia species that differ in long-term memory formation.
+Comparative genomic analysis of a multiple antimicrobial resistant enterotoxigenic E. coli O157 lineage from Australian pigs.
+Transcript profiling of Populus tomentosa genes in normal, tension, and opposite wood by RNA-seq.
+Combinatorial Conflicting Homozygosity (CCH) analysis enables the rapid identification of shared genomic regions in the presence of multiple phenocopies.
+Sequencing the CHO DXB11 genome reveals regional variations in genomic stability and haploidy.
+Limitations of variable number of tandem repeat typing identified through whole genome sequencing of Mycobacterium avium subsp. paratuberculosis on a national and herd level.
+Transcriptome analysis of Panax vietnamensis var. fuscidicus discovers putative ocotillol-type ginsenosides biosynthesis genes and genetic markers.
+Development and preliminary evaluation of a 90 K Axiom® SNP array for the allo-octoploid cultivated strawberry Fragaria × ananassa.
+TILLING by sequencing to identify induced mutations in stress resistance genes of peanut (Arachis hypogaea).
+Deregulation of sertoli and leydig cells function in patients with klinefelter syndrome as evidenced by testis transcriptome analysis.
+Genome mining reveals unlocked bioactive potential of marine Gram-negative bacteria.
+Analysis of RNA decay factor mediated RNA stability contributions on RNA abundance.
+Divergences in gene repertoire among the reference Prevotella genomes derived from distinct body sites of human.
+Characterization and expression profiling of glutathione S-transferases in the diamondback moth, Plutella xylostella (L.).
+Small RNAs derived from tRNAs and rRNAs are highly enriched in exosomes from both old and new world Leishmania providing evidence for conserved exosomal RNA Packaging.
+Integromics network meta-analysis on cardiac aging offers robust multi-layer modular signatures and reveals micronome synergism.
+Retained duplicate genes in green alga Chlamydomonas reinhardtii tend to be stress responsive and experience frequent response gains.
+GASS: genome structural annotation for Eukaryotes based on species similarity.
+Whole-genome gene expression profiling revealed genes and pathways potentially involved in regulating interactions of soybean with cyst nematode (Heterodera glycines Ichinohe).
+RNASeqBrowser: A genome browser for simultaneous visualization of raw strand specific RNAseq reads and UCSC genome browser custom tracks.
+The recent escalation in strength of pyrethroid resistance in Anopheles coluzzi in West Africa is linked to increased expression of multiple gene families.
+Factors to preserve CpG-rich sequences in methylated CpG islands.
+ColoWeb: a resource for analysis of colocalization of genomic features.
+The distribution and mutagenesis of short coding INDELs from 1,128 whole exomes.
+Whole genome comparative analysis of transposable elements provides new insight into mechanisms of their inactivation in fungal genomes.
+Algorithms for differential splicing detection using exon arrays: a comparative assessment.
+VisualTE: a graphical interface for transposable element analysis at the genomic scale.
+Genome comparison provides molecular insights into the phylogeny of the reassigned new genus Lysinibacillus.
+Tissue-specific transcriptome assemblies of the marine medaka Oryzias melastigma and comparative analysis with the freshwater medaka Oryzias latipes.
+Enrichment of inflammatory bowel disease and colorectal cancer risk variants in colon expression quantitative trait loci.
+Horizontal transfer of a non-autonomous Helitron among insect and viral genomes.
+REDHORSE-REcombination and Double crossover detection in Haploid Organisms using next-geneRation SEquencing data.
+IPred - integrating ab initio and evidence based gene predictions to improve prediction accuracy.
+Genomic insights on the ethno-history of the Maya and the ‘Ladinos’ from Guatemala.
+Identifying multi-locus chromatin contacts in human cells using tethered multiple 3C.
+Proteome mapping of epidermal growth factor induced hepatocellular carcinomas identifies novel cell metabolism targets and mitogen activated protein kinase signalling events.
+Genetic variants in root architecture-related genes in a Glycine soja accession, a potential resource to improve cultivated soybean.
+Comprehensive analysis of CCCH-type zinc finger family genes facilitates functional gene discovery and reflects recent allopolyploidization event in tetraploid switchgrass.
+A novel Schistosoma japonicum endonuclease homologous to DNase II.
+Comparative genome analysis of Prevotella intermedia strain isolated from infected root canal reveals features related to pathogenicity and adaptation.
+RNA-seq analysis reveals the role of red light in resistance against Pseudomonas syringae pv. tomato DC3000 in tomato plants.
+A genome-wide scan for signatures of directional selection in domesticated pigs.
+Gibberellin-induced changes in the transcriptome of grapevine (Vitis labrusca × V. vinifera) cv. Kyoho flowers.
+Genome-wide expression profiling and phenotypic evaluation of European maize inbreds at seedling stage in response to heat stress.
+The genome sequence of Pseudoplusia includens single nucleopolyhedrovirus and an analysis of p26 gene evolution in the baculoviruses.
+Genome-wide characterization of developmental stage- and tissue-specific transcription factors in wheat.
+Predicting functional and regulatory divergence of a drug resistance transporter gene in the human malaria parasite.
+Comparative analysis among the small RNA populations of source, sink and conductive tissues in two different plant-virus pathosystems.
+Social odors conveying dominance and reproductive information induce rapid physiological and neuromolecular changes in a cichlid fish.
+Pseudogenes transcribed in breast invasive carcinoma show subtype-specific expression and ceRNA potential.
+Regulation of microRNAs miR-30a and miR-143 in cerebral vasculature after experimental subarachnoid hemorrhage in rats.
+Genome-scale analysis reveals a role for NdgR in the thiol oxidative stress response in Streptomyces coelicolor.
+Virus genome dynamics under different propagation pressures: reconstruction of whole genome haplotypes of west nile viruses from NGS data.
+Genetic diversity and trait genomic prediction in a pea diversity panel.
+The oak gene expression atlas: insights into Fagaceae genome evolution and the discovery of genes regulated during bud dormancy release.
+Comparative transcriptome profiling of a rice line carrying Xa39 and its parents triggered by Xanthomonas oryzae pv. oryzae provides novel insights into the broad-spectrum hypersensitive response.
+Precisely mapping a major gene conferring resistance to Hessian fly in bread wheat using genotyping-by-sequencing.
+Genome-wide epistatic expression quantitative trait loci discovery in four human tissues reveals the importance of local chromosomal interactions governing gene expression.
+High correlation between genotypes and phenotypes of environmental bacteria Comamonas testosteroni strains.
+Transcriptome sequencing and analysis of the entomopathogenic fungus Hirsutella sinensis isolated from Ophiocordyceps sinensis.
+Extrapolating histone marks across developmental stages, tissues, and species: an enhancer prediction case study.
+Genomic correlates of recombination rate and its variability across eight recombination maps in the western honey bee (Apis mellifera L.).
+Transcriptomic response to heat stress among ecologically divergent populations of redband trout.
+Genome-wide analysis of DNA methylation in photoperiod- and thermo-sensitive male sterile rice Peiai 64S.
+The germline of the malaria mosquito produces abundant miRNAs, endo-siRNAs, piRNAs and 29-nt small RNAs.
+The mature anther-preferentially expressed genes are associated with pollen fertility, pollen germination and anther dehiscence in rice.
+H2A.Z marks antisense promoters and has positive effects on antisense transcript levels in budding yeast.
+Full genome SNP-based phylogenetic analysis reveals the origin and global spread of Brucella melitensis.
+Transcriptome analysis of hen preadipocytes treated with an adipogenic cocktail (DMIOA) with or without 20(S)-hydroxylcholesterol.
+RNA Seq analysis of the Eimeria tenella gametocyte transcriptome reveals clues about the molecular basis for sexual reproduction and oocyst biogenesis.
+Optimized microRNA purification from TRIzol-treated plasma.
+A comprehensive evaluation of ensembl, RefSeq, and UCSC annotations in the context of RNA-seq read mapping and gene quantification.
+De novo assembly and transcriptome analysis of Atlantic salmon macrophage/dendritic-like TO cells following type I IFN treatment and Salmonid alphavirus subtype-3 infection.
+Sequence and analysis of a whole genome from Kuwaiti population subgroup of Persian ancestry.
+Identification of sex-linked SNP markers using RAD sequencing suggests ZW/ZZ sex determination in Pistacia vera L.
+Modulating crossover positioning by introducing large structural changes in chromosomes.
+Identification of three extra-chromosomal replicons in Leptospira pathogenic strain and development of new shuttle vectors.
+Rapid identification and recovery of ENU-induced mutations with next-generation sequencing and Paired-End Low-Error analysis.
+Induced pluripotent stem cell-derived neuronal cells from a sporadic Alzheimer’s disease donor as a model for investigating AD-associated gene regulatory networks.
+Transcriptome analysis of thermophilic methylotrophic Bacillus methanolicus MGA3 using RNA-sequencing provides detailed insights into its previously uncharted transcriptional landscape.
+Tracking the best reference genes for RT-qPCR data normalization in filamentous fungi.
+Comparing Mycobacterium tuberculosis genomes using genome topology networks.
+The evolutionary and functional diversity of classical and lesser-known cytoplasmic and organellar translational GTPases across the tree of life.
+Human settlement history between Sunda and Sahul: a focus on East Timor (Timor-Leste) and the Pleistocenic mtDNA diversity.
+Analysis of the genetic diversity of influenza A viruses using next-generation DNA sequencing.
+Functional analysis of C1 family cysteine peptidases in the larval gut of Тenebrio molitor and Tribolium castaneum.
+A systems genetics study of swine illustrates mechanisms underlying human phenotypic traits.
+Species-specific duplications driving the recent expansion of NBS-LRR genes in five Rosaceae species.
+De novo assembly and characterization of transcriptomes of early-stage fruit from two genotypes of Annona squamosa L. with contrast in seed number.
+Simple regression for correcting ΔCt bias in RT-qPCR low-density array data normalization.
+Next generation sequencing analysis reveals that the ribonucleases RNase II, RNase R and PNPase affect bacterial motility and biofilm formation in E. coli.
+Transcriptome profiling of the dynamic life cycle of the scypohozoan jellyfish Aurelia aurita.
+Comparative genome and transcriptome analyses of the social amoeba Acytostelium subglobosum that accomplishes multicellular development without germ-soma differentiation.
+Genome-wide comparison of PU.1 and Spi-B binding sites in a mouse B lymphoma cell line.
+Characterization of a novel RXR receptor in the salmon louse (Lepeophtheirus salmonis, Copepoda) regulating growth and female reproduction.
+Genome-wide comparative analysis reveals human-mouse regulatory landscape and evolution.
+Genome-wide survey and expression analysis of F-box genes in chickpea.
+Transcriptome analysis of cyst formation in Rhodospirillum centenum reveals large global changes in expression during cyst development.
+Asexual expansion of Toxoplasma gondii merozoites is distinct from tachyzoites and entails expression of non-overlapping gene families to attach, invade, and replicate within feline enterocytes.
+Involvement of a citrus meiotic recombination TTC-repeat motif in the formation of gross deletions generated by ionizing radiation and MULE activation.
+Optimal assembly strategies of transcriptome related to ploidies of eukaryotic organisms.
+A search for protein biomarkers links olfactory signal transduction to social immunity.
+Defining the gene repertoire and spatiotemporal expression profiles of adhesion G protein-coupled receptors in zebrafish.
+Transcriptome analysis of northern elephant seal (Mirounga angustirostris) muscle tissue provides a novel molecular resource and physiological insights.
+Genome-wide survey and analysis of microsatellites in giant panda (Ailuropoda melanoleuca), with a focus on the applications of a novel microsatellite marker system.
+Identification of new members of the MAPK gene family in plants shows diverse conserved domains and novel activation loop variants.
+Identification of radiation-induced aberrant hypomethylation in colon cancer.
+Fast forward genetics to identify mutations causing a high light tolerant phenotype in Chlamydomonas reinhardtii by whole-genome-sequencing.
+Comparative analysis of the silk gland transcriptomes between the domestic and wild silkworms.
+Transcriptomic analysis of hepatic responses to testosterone deficiency in miniature pigs fed a high-cholesterol diet.
+Development of chromosome-specific markers with high polymorphism for allotetraploid cotton based on genome-wide characterization of simple sequence repeats in diploid cottons (Gossypium arboreum L. and Gossypium raimondii Ulbrich).
+Deep RNA sequencing reveals a high frequency of alternative splicing events in the fungus Trichoderma longibrachiatum.
+A de novo transcriptome of the noble scallop, Chlamys nobilis, focusing on mining transcripts for carotenoid-based coloration.
+Comprehensive insights into transcriptional adaptation of intracellular mycobacteria by microbe-enriched dual RNA sequencing.
+Sampled ensemble neutrality as a feature to classify potential structured RNAs.
+Genome-wide analysis of bHLH transcription factor and involvement in the infection by yellow leaf curl virus in tomato (Solanum lycopersicum).
+Characterization of tissue-specific differential DNA methylation suggests distinct modes of positive and negative gene expression regulation.
+Gene coexpression networks reveal key drivers of phenotypic divergence in porcine muscle.
+Amplification of pico-scale DNA mediated by bacterial carrier DNA for small-cell-number transcription factor ChIP-seq.
+Integrating transcriptomics and proteomics to show that tanshinone IIA suppresses cell growth by blocking glucose metabolism in gastric cancer cells.
+Comparative mitochondrial genomics and phylogenetic relationships of the Crossoptilon species (Phasianidae, Galliformes).
+CLIPdb: a CLIP-seq database for protein-RNA interactions.
+miR-503 represses human cell proliferation and directly targets the oncogene DDHD2 by non-canonical target pairing.
+Spatial features for Escherichia coli genome organization.
+Genomic and phenotypic insights into the ecology of Arthrobacter from Antarctic soils.
+Genome-wide association analysis of seedling root development in maize (Zea mays L.).
+Dispersal of an ancient retroposon in the TP53 promoter of Bovidae: phylogeny, novel mechanisms, and potential implications for cow milk persistency.
+Genome analysis of Flaviramulus ichthyoenteri Th78T in the family Flavobacteriaceae: insights into its quorum quenching property and potential roles in fish intestine.
+Splicing landscape of the eight collaborative cross founder strains.
+Comparative whole-genome analyses of selection marker–free rice-based cholera toxin B-subunit vaccine lines and wild-type lines.
+Using QTL mapping to investigate the relationships between abiotic stress tolerance (drought and salinity) and agronomic and physiological traits.
+Expression and regulation of long noncoding RNAs in TLR4 signaling in mouse macrophages.
+Mixture SNPs effect on phenotype in genome-wide association studies.
+Complete genome sequence of the Clostridium difficile laboratory strain 630Δerm reveals differences from strain 630, including translocation of the mobile element CTn5.
+Genome-wide analysis of Dof family transcription factors and their responses to abiotic stresses in Chinese cabbage.
+Global transcriptomic profiling demonstrates induction of oxidative stress and of compensatory cellular stress responses in brown trout exposed to glyphosate and Roundup.
+A systems biology approach toward understanding seed composition in soybean.
+Genome-wide analysis of transcription factor binding sites and their characteristic DNA structures.
+A pipeline for completing bacterial genomes using in silico and wet lab approaches.
+PNImodeler: web server for inferring protein-binding nucleotides from sequence data.
+Similarity evaluation of DNA sequences based on frequent patterns and entropy.
+Mining the bladder cancer-associated genes by an integrated strategy for the construction and analysis of differential co-expression networks.
+Clustering PPI data by combining FA and SHC method.
+LncRNA2Function: a comprehensive resource for functional investigation of human lncRNAs based on RNA-seq data.
+Identifying essential proteins from active PPI networks constructed with dynamic gene expression.
+Genomic and transcriptomic analysis of the endophytic fungus Pestalotiopsis fici reveals its lifestyle and high potential for synthesis of natural products.
+Re-annotation of the woodland strawberry (Fragaria vesca) genome.
+Age dependent changes in the LPS induced transcriptome of bovine dermal fibroblasts occurs without major changes in the methylome.
+Transcriptome changes in rice (Oryza sativa L.) in response to high night temperature stress at the early milky stage.
+Genome-wide analysis of the R2R3-MYB transcription factor genes in Chinese cabbage (Brassica rapa ssp. pekinensis) reveals their stress and hormone responsive patterns.
+Genome-wide immunity studies in the rabbit: transcriptome variations in peripheral blood mononuclear cells after in vitro stimulation by LPS or PMA-Ionomycin.
+Emergence of differentially regulated pathways associated with the development of regional specificity in chicken skin.
+Elite athletes’ genetic predisposition for altered risk of complex metabolic traits.
+Transcriptomic characterisation and genomic glimps into the toxigenic dinoflagellate Azadinium spinosum, with emphasis on polykeitde synthase genes.
+Genome-wide high-resolution mapping of DNA methylation identifies epigenetic variation across embryo and endosperm in Maize (Zea may).
+High-throughput RNA sequencing reveals the effects of 2,2′,4,4′ -tetrabromodiphenyl ether on retina and bone development of zebrafish larvae.
+Impacts of low coverage depths and post-mortem DNA damage on variant calling: a simulation study.
+The developmental transcriptome of the synanthropic fly Chrysomya megacephala and insights into olfactory proteins.
+Overlapping mouse subcongenic strains successfully separate two linked body fat QTL on distal MMU 2.
+High-resolution genetic mapping of allelic variants associated with cell wall chemistry in Populus.
+Joint eQTL assessment of whole blood and dura mater tissue from individuals with Chiari type I malformation.
+Host-specific transcriptomic pattern of Trichoderma virens during interaction with maize or tomato roots.
+Plasmids are vectors for redundant chromosomal genes in the Bacillus cereus group.
+Use of targeted SNP selection for an improved anchoring of the melon (Cucumis melo L.) scaffold genome assembly.
+Genome-wide identification and characterization of the bHLH gene family in tomato.
+Cetaceans evolution: insights from the genome sequences of common minke whales.
+RNA-Seq analysis and transcriptome assembly for blackberry (Rubus sp. Var. Lochness) fruit.
+Transcriptome analysis reveals in vitro cultured Withania somnifera leaf and root tissues as a promising source for targeted withanolide biosynthesis.
+Evaluation of methods to purify virus-like particles for metagenomic sequencing of intestinal viromes.
+Integrated transcriptome catalogue and organ-specific profiling of gene expression in fertile garlic (Allium sativum L.).
+A medium density genetic map and QTL for behavioral and production traits in Japanese quail.
+Transcriptome analysis of food habit transition from carnivory to herbivory in a typical vertebrate herbivore, grass carp Ctenopharyngodon idella.
+IRcall and IRclassifier: two methods for flexible detection of intron retention events from RNA-Seq data.
+A linear time algorithm for detecting long genomic regions enriched with a specific combination of epigenetic states.
+HLA-VBSeq: accurate HLA typing at full resolution from whole-genome sequencing data.
+EXPath: a database of comparative expression analysis inferring metabolic pathways for plants.
+Genome-wide association data classification and SNPs selection using two-stage quality-based Random Forests.
+Integrating experimental and literature protein-protein interaction data for protein complex prediction.
+Pinpointing disease genes through phenomic and genomic data fusion.
+Discovering monotonic stemness marker genes from time-series stem cell microarray data.
+Accurate inference of isoforms from multiple sample RNA-Seq data.
+Mechanistic analysis elucidating the relationship between Lys96 mutation in Mycobacterium tuberculosis pyrazinamidase enzyme and pyrazinamide susceptibility.
+Inferring the global structure of chromosomes from structural variations.
+Integrated analyses to reconstruct microRNA-mediated regulatory networks in mouse liver using high-throughput profiling.
+Connecting rules from paired miRNA and mRNA expression data sets of HCV patients to detect both inverse and positive regulatory relationships.
+IIIDB: a database for isoform-isoform interactions and isoform network modules.
+MixClone: a mixture model for inferring tumor subclonal populations.
+Use of Both Cumulus Cells’ Transcriptomic Markers and Zona Pellucida Birefringence to Select Developmentally Competent Oocytes in Human Assisted Reproductive Technologies.
+Exome Sequencing of Normal and Isogenic Transformed Human Colonic Epithelial Cells (HCECs) Reveals Novel Genes Potentially Involved in the Early Stages of Colorectal Tumorigenesis.
+Comparison of microarray expression profiles between follicular variant of papillary thyroid carcinomas and follicular adenomas of the thyroid.
+Effect of BRAF mutational status on expression profiles in conventional papillary thyroid carcinomas.
+Next Generation Sequencing of Acute Myeloid Leukemia: Influencing Prognosis.
+Underlying Data for Sequencing the Mitochondrial Genome with the Massively Parallel Sequencing Platform Ion Torrent™ PGM™.
+Characterization of familial breast cancer in Saudi Arabia.
+A machine learning heuristic to identify biologically relevant and minimal biomarker panels from omics data.
+Phylogenetic placement of metagenomic reads using the minimum evolution principle.
+Whole-exome analysis of foetal autopsy tissue reveals a frameshift mutation in OBSL1, consistent with a diagnosis of 3-M Syndrome.
+Transcriptomics profiling study of breast cancer from Kingdom of Saudi Arabia revealed altered expression of Adiponectin and Fatty Acid Binding Protein4: Is lipid metabolism associated with breast cancer?
+Genome wide analysis of novel copy number variations duplications/deletions of different epileptic patients in Saudi Arabia.
+Distinct serum metabolomics profiles associated with malignant progression in the KrasG12D mouse model of pancreatic ductal adenocarcinoma.
+Uncovering the novel characteristics of Asian honey bee, Apis cerana, by whole genome sequencing.
+Identification of horizontally transferred genes in the genus Colletotrichum reveals a steady tempo of bacterial to fungal gene transfer.

@@ -1,0 +1,603 @@
+Multi-label multi-instance transfer learning for simultaneous reconstruction and cross-talk modeling of multiple human signaling pathways.
+BigQ: a NoSQL based framework to handle genomic variants in i2b2.
+Pathosphere.org: pathogen detection and characterization through a web-based, open source informatics platform.
+Treelink: data integration, clustering and visualization of phylogenetic trees.
+MixChIP: a probabilistic method for cell type specific protein-DNA binding analysis.
+Unsupervised image segmentation for microarray spots with irregular contours and inner holes.
+GIW and InCoB are advancing bioinformatics in the Asia-Pacific.
+On the distribution of cycles and paths in multichromosomal breakpoint graphs and the expected value of rearrangement distance.
+Algebraic Dynamic Programming over general data structures.
+Sorting by weighted inversions considering length and symmetry.
+FluxCTTX: A LIMS-based tool for management and analysis of cytotoxicity assays data.
+Evolution of genes neighborhood within reconciled phylogenies: an ensemble approach.
+An innovative electronic health records system for rare and complex diseases.
+NERI: network-medicine based integrative approach for disease gene prioritization by relative importance.
+Structural studies on molecular mechanisms of Nelfinavir resistance caused by non-active site mutation V77I in HIV-1 protease.
+The impact of sequence length and number of sequences on promoter prediction performance.
+Classification epitopes in groups based on their protein family.
+Erratum to: Efficient experimental design for uncertainty reduction in gene regulatory networks.
+MRMPlus: an open source quality control and assessment tool for SRM/MRM assay development.
+Parameterizing sequence alignment with an explicit evolutionary model.
+Penalized weighted low-rank approximation for robust recovery of recurrent copy number variations.
+Bioinformatics approach to predict target genes for dysregulated microRNAs in hepatocellular carcinoma: study on a chemically-induced HCC mouse model.
+MIA: Mutual Information Analyzer, a graphic user interface program that calculates entropy, vertical and horizontal mutual information of molecular sequence sets.
+Analysis of genomic rearrangements by using the Burrows-Wheeler transform of short-read data.
+Privacy-preserving search for chemical compound databases.
+Positive-unlabeled learning for the prediction of conformational B-cell epitopes.
+Condensing Raman spectrum for single-cell phenotype analysis.
+An adaptive genetic algorithm for selection of blood-based biomarkers for prediction of Alzheimer's disease progression.
+Light-RCV: a lightweight read coverage viewer for next generation sequencing data.
+Principal component analysis for designed experiments.
+Automated identification of copepods using digital image processing and artificial neural network.
+Accurate reconstruction of viral quasispecies spectra through improved estimation of strain richness.
+Prediction of neddylation sites from protein sequences and sequence-derived properties.
+PCTFPeval: a web tool for benchmarking newly developed algorithms for predicting cooperative transcription factor pairs in yeast.
+Identification of aberrant gene expression associated with aberrant promoter methylation in primordial germ cells between E13 and E16 rat F3 generation vinclozolin lineage.
+Characterizing informative sequence descriptors and predicting binding affinities of heterodimeric protein complexes.
+Obtaining long 16S rDNA sequences using multiple primers and its application on dioxin-containing samples.
+Discrete structural features among interface residue-level classes.
+A two-layered machine learning method to identify protein O-GlcNAcylation sites with O-GlcNAc transferase substrate motifs.
+Structural vs. functional mechanisms of duplicate gene loss following whole genome doubling.
+How genome complexity can explain the difficulty of aligning reads to genomes.
+ORBiT: Oak Ridge biosurveillance toolkit for public health dynamics.
+Signal reachability facilitates characterization of probabilistic signaling networks.
+Automated parameter estimation for biological models using Bayesian statistical model checking.
+Identifying representative drug resistant mutants of HIV.
+EC: an efficient error correction algorithm for short reads.
+A computational method for drug repositioning using publicly available gene expression data.
+In search of perfect reads.
+SpliceJumper: a classification-based approach for calling splicing junctions from RNA-seq data.
+Rare variants analysis using penalization methods for whole genome sequence data.
+M3-S: a genotype calling method incorporating information from samples with known genotypes.
+DHOEM: a statistical simulation software for simulating new markers in real SNP marker data.
+Accurate prediction of nuclear receptors with conjoint triad feature.
+GigaTON: an extensive publicly searchable database providing a new reference transcriptome in the pacific oyster Crassostrea gigas.
+Scalable analysis of Big pathology image data cohorts using efficient methods and high-performance computing strategies.
+PC-TraFF: identification of potentially collaborating transcription factors using pointwise mutual information.
+High-order dynamic Bayesian Network learning with hidden common causes for causal gene regulatory network.
+Fully automated registration of vibrational microspectroscopic images in histologically stained tissue sections.
+Reads2Type: a web application for rapid microbial taxonomy identification.
+Analysis of in vivo single cell behavior by high throughput, human-in-the-loop segmentation of three-dimensional images.
+Coev-web: a web platform designed to simulate and evaluate coevolving positions along a phylogenetic tree.
+MSAIndelFR: a scheme for multiple protein sequence alignment using information on indel flanking regions.
+FoCo: a simple and robust quantification algorithm of nuclear foci.
+An heuristic filtering tool to identify phenotype-associated genetic variants applied to human intellectual disability and canine coat colors.
+An affinity-structure database of helix-turn-helix: DNA complexes with a universal coordinate system.
+antaRNA – Multi-objective inverse folding of pseudoknot RNA using ant-colony optimization.
+Proposal of supervised data analysis strategy of plasma miRNAs from hybridisation array data with an application to assess hemolysis-related deregulation.
+DiffLogo: a comparative visualization of sequence motifs.
+misFinder: identify mis-assemblies in an unbiased manner using reference and paired-end reads.
+A fast method for calculating reliable event supports in tree reconciliations via Pareto optimality.
+A new network representation of the metabolism to detect chemical transformation modules.
+An investigation of causes of false positive single nucleotide polymorphisms using simulated reads from a small eukaryote genome.
+Two molecular measures of relatedness based on haplotype sharing.
+A large scale prediction of bacteriocin gene blocks suggests a wide functional spectrum for bacteriocins.
+A census of α-helical membrane proteins in double-stranded DNA viruses infecting bacteria and archaea.
+QQ-SNV: single nucleotide variant detection at low frequency by comparing the quality quantiles.
+TOGGLE: toolbox for generic NGS analyses.
+From raw data to data-analysis for magnetic resonance spectroscopy – the missing link: jMRUI2XML.
+AlignWise: a tool for identifying protein-coding sequence and correcting frame-shifts.
+Sequence information gain based motif analysis.
+Inferring intra-motif dependencies of DNA binding sites from ChIP-seq data.
+Reconstruction of 3D genome architecture via a two-stage algorithm.
+Practical impacts of genomic data “cleaning” on biological discovery using surrogate variable analysis.
+Erratum to: MONALISA for stochastic simulations of Petri net models of biochemical systems.
+miRA: adaptable novel miRNA identification in plants using small RNA sequencing data.
+ODTbrain: a Python library for full-view, dense diffraction tomography.
+Joint use of over- and under-sampling techniques and cross-validation for the development and assessment of prediction models.
+Predicting drug side effects by multi-label learning and ensemble learning.
+CellProfiler Tracer: exploring and validating high-throughput, time-lapse microscopy image data.
+BRANE Cut: biologically-related a priori network enhancement with graph cuts for gene regulatory network inference.
+Fizzy: feature subset selection for metagenomics.
+Evaluation of shotgun metagenomics sequence classification methods using in silico and in vitro simulated communities.
+Estimation of evolutionary parameters using short, random and partial sequences from mixed samples of anonymous individuals.
+Iterative sub-network component analysis enables reconstruction of large scale genetic networks.
+Evaluation of methods for differential expression analysis on multi-group RNA-seq count data.
+Inferring plant microRNA functional similarity using a weighted protein-protein interaction network.
+An assessment of catalytic residue 3D ensembles for the prediction of enzyme function.
+BitTorious volunteer: server-side extensions for centrally-managed volunteer storage in BitTorrent swarms.
+The Gap Procedure: for the identification of phylogenetic clusters in HIV-1 sequence data.
+Revisiting operons: an analysis of the landscape of transcriptional units in E. coli.
+tDRmapper: challenges and solutions to mapping, naming, and quantifying tRNA-derived RNAs from human small RNA-sequencing data.
+A Lattice-Boltzmann scheme for the simulation of diffusion in intracellular crowded systems.
+Use and mis-use of supplementary material in science publications.
+Cnidaria: fast, reference-free clustering of raw and assembled genome and transcriptome NGS data.
+Application of the EVEX resource to event extraction and network construction: Shared Task entry and result analysis.
+Optimizing graph-based patterns to extract biomedical events from the literature.
+TEES 2.2: Biomedical Event Extraction for Diverse Corpora.
+Sieve-based relation extraction of gene regulatory networks from biological literature.
+HMMvar-func: a new method for predicting the functional outcome of genetic variants.
+ToPASeq: an R package for topology-based pathway analysis of microarray and RNA-Seq data.
+Peak shape clustering reveals biological insights.
+Comparing the normalization methods for the differential analysis of Illumina high-throughput RNA-Seq data.
+Extended notions of sign consistency to relate experimental data to signaling and regulatory network topologies.
+Novel gene sets improve set-level classification of prokaryotic gene expression data.
+GOTA: GO term annotation of biomedical literature.
+CytoSpectre: a tool for spectral analysis of oriented structures on cellular and subcellular levels.
+Neuron anatomy structure reconstruction based on a sliding filter.
+DiSNPindel: improved intra-individual SNP and InDel detection in direct amplicon sequencing of a diploid.
+QCScreen: a software tool for data quality control in LC-HRMS based metabolomics.
+Validation and quality assurance for genome browser database exports.
+Synaptic plasticity in infralimbic cortex mediates socially-acquired nicotine self-administration.
+An automated resource for enhanced differential analysis.
+Efficient identification of mutations that potentially confer treatment resistance through computational derivation.
+Time course transcriptome data analysis for in vitro modeling of dilated cardiomyopathy using patient-derived induced pluripotent stem cells.
+Population structure analysis on 2504 individuals across 26 ancestries using bioinformatics approaches.
+Convex-hull voting method on a large data set.
+Practicality of identifying mitochondria variants from exome and RNAseq data.
+Multi-scale study of normal aging predicts novel late-onset Alzheimer's disease risk variants.
+Transcriptome analysis of breast cancer in African American women.
+Using large public data repositories to discover novel genetic mutations with prospective links to melanoma.
+Metabolomics data analysis and missing value issues with application to infarcted mouse hearts.
+Dunn Index Bootstrap (DIBS): A procedure to empirically select a cluster analysis method that identifies biologically and clinically relevant molecular disease subgroups.
+SGDriver: a novel structural genomics-based approach to prioritize cancer related and potentially druggable somatic mutations.
+Proceedings of the Fourteenth Annual UT- KBRIN Bioinformatics Summit 2015.
+Development of a literature informed Bayesian machine learning method for feature extraction and classification.
+A linear model for predicting performance of short-read aligners using genome complexity.
+Which methods to choose to correct cell types in genome-scale blood-derived DNA methylation data?
+Alignment-free methods for metagenomic profiling.
+Analysis of sleep traits in knockout mice from the large-scale KOMP2 population using a non-invasive, high-throughput piezoelectric system.
+An iterative workflow for creating biomedical visualizations using Inkscape and D3.js.
+Improving variant calling by incorporating known genetic variants into read alignment.
+AlloPred: prediction of allosteric pockets on proteins using normal mode perturbation analysis.
+PDB-Explorer: a web-based interactive map of the protein data bank in shape space.
+Iterative reconstruction of three-dimensional models of human chromosomes from chromosomal contact data.
+Whole genome SNP genotype piecemeal imputation.
+Phylogenomics and sequence-structure-function relationships in the GmrSD family of Type IV restriction enzymes.
+A large-scale conformation sampling and evaluation server for protein tertiary structure prediction and its assessment in CASP11.
+Comparative study on gene set and pathway topology-based enrichment methods.
+A straightforward method to compute average stochastic oscillations from data samples.
+Improving RNA-Seq expression estimation by modeling isoform- and exon-specific read sequencing rate.
+Survey statistics of automated segmentations applied to optical imaging of mammalian cells.
+cnvCurator: an interactive visualization and editing tool for somatic copy number variations.
+Estimating cumulative pathway effects on risk for age-related macular degeneration using mixed linear models.
+An automated real-time integration and interoperability framework for bioinformatics.
+Indexing a protein-protein interaction network expedites network alignment.
+Differential analysis of biological networks.
+SPINGO: a rapid species-classifier for microbial amplicon sequences.
+Sequence specificity between interacting and non-interacting homologs identifies interface residues – a homodimer and monomer use case.
+DectICO: an alignment-free supervised metagenomic classification method based on feature extraction and dynamic selection.
+Accelerating the Smith-Waterman algorithm with interpair pruning and band optimization for the all-pairs comparison of base sequences.
+DECIPHER: harnessing local sequence context to improve protein multiple sequence alignment.
+Mass-Up: an all-in-one open software application for MALDI-TOF mass spectrometry knowledge discovery.
+SCExV: a webtool for the analysis and visualisation of single cell qRT-PCR data.
+A computer simulation model of Wolbachia invasion for disease vector population modification.
+Interlog protein network: an evolutionary benchmark of protein interaction networks for the evaluation of clustering algorithms.
+Event inference in multidomain families with phylogenetic reconciliation.
+Prediction of microbial phenotypes based on comparative genomics.
+Exact approaches for scaffolding.
+Probabilistic modeling of the evolution of gene synteny within reconciled phylogenies.
+Sampling and counting genome rearrangement scenarios.
+Moments of genome evolution by Double Cut-and-Join.
+Reconstructing a SuperGeneTree minimizing reconciliation.
+Reconstruction of ancestral gene orders using intermediate genomes.
+Segmental HOG: new descriptor for glomerulus detection in kidney microscopy image.
+NetBenchmark: a bioconductor package for reproducible benchmarks of gene regulatory network inference.
+VEGAWES: variational segmentation on whole exome sequencing for copy number detection.
+methylPipe and compEpiTools: a suite of R packages for the integrative analysis of epigenomics data.
+PROKARYO: an illustrative and interactive computational model of the lactose operon in the bacterium Escherichia coli.
+Label noise in subtype discrimination of class C G protein-coupled receptors: A systematic approach to the analysis of classification errors.
+CATCHing putative causative variants in consanguineous families.
+A Bayesian approach for inducing sparsity in generalized linear models with multi-category response.
+A heuristic approach to determine an appropriate number of topics in topic modeling.
+Detrimental effects of duplicate reads and low complexity regions on RNA- and ChIP-seq data.
+Computational identification of genetic subnetwork modules associated with maize defense response to Fusarium verticillioides.
+Understanding and predicting binding between human leukocyte antigens (HLAs) and peptides by network analysis.
+An adverse event capture and management system for cancer studies.
+Enhancing cancer clonality analysis with integrative genomics.
+Global multiple protein-protein interaction network alignment by combining pairwise network alignments.
+DMAP: a connectivity map database to enable identification of novel drug repositioning candidates.
+Efficient experimental design for uncertainty reduction in gene regulatory networks.
+Proceedings of the 2015 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Density-based parallel skin lesion border detection with webCL.
+Dynamical modeling of uncertain interaction-based genomic networks.
+Systematic noise degrades gene co-expression signals but can be corrected.
+2D and 3D similarity landscape analysis identifies PARP as a novel off-target for the drug Vatalanib.
+htsint: a Python library for sequencing pipelines that combines data through gene set generation.
+Inference of regulatory networks with a convergence improved MCMC sampler.
+Subtype prediction in pediatric acute myeloid leukemia: classification using differential network rank conservation revisited.
+Group-based variant calling leveraging next-generation supercomputing for large-scale whole-genome sequencing studies.
+ATGme: Open-source web application for rare codon identification and custom DNA sequence optimization.
+Boosting for high-dimensional two-class prediction.
+Statistical significance approximation in local trend analysis of high-throughput time-series data using the theory of Markov chains.
+Phylodynamic reconstruction of the spatiotemporal transmission and demographic history of coxsackievirus B2.
+Reconstruction of novel transcription factor regulons through inference of their binding sites.
+Lab Retriever: a software tool for calculating likelihood ratios incorporating a probability of drop-out for forensic DNA profiles.
+Genome-wide prediction of prokaryotic two-component system networks using a sequence-based meta-predictor.
+Phylogenetic network analysis as a parsimony optimization problem.
+SMRT sequencing only de novo assembly of the sugar beet (Beta vulgaris) chloroplast genome.
+mAPKL: R/ Bioconductor package for detecting gene exemplars and revealing their characteristics.
+A weighting approach for judging the effect of patient strata on high-dimensional risk prediction signatures.
+A methodology for exploring biomarker – phenotype associations: application to flow cytometry data and systemic sclerosis clinical manifestations.
+Hybrid-Lambda: simulation of multiple merger and Kingman gene genealogies in species networks and species trees.
+Finite mixture clustering of human tissues with different levels of IGF-1 splice variants mRNA transcripts.
+Development and validation of an epitope prediction tool for swine (PigMatrix) based on the pocket profile method.
+Reference-free compression of high throughput sequencing data with a probabilistic de Bruijn graph.
+Seq-ing improved gene expression estimates from microarrays using machine learning.
+Statistical analysis of a Bayesian classifier based on the expression of miRNAs.
+CoSREM: a graph mining algorithm for the discovery of combinatorial splicing regulatory elements.
+Enabling network inference methods to handle missing data and outliers.
+Multi-objective optimization for RNA design with multiple target secondary structures.
+A reverse-engineering approach to dissect post-translational modulators of transcription factor’s activity from transcriptional data.
+HiCdat: a fast and easy-to-use Hi-C data analysis tool.
+WiseScaffolder: an algorithm for the semi-automatic scaffolding of Next Generation Sequencing data.
+EMSAR: estimation of transcript abundance from RNA-seq data by mappability-based segmentation and reclustering.
+Scientific workflow optimization for improved peptide and protein identification.
+SFESA: a web server for pairwise alignment refinement by secondary structure shifts.
+CompGO: an R package for comparing and visualizing Gene Ontology enrichment differences between DNA binding experiments.
+New in silico approach to assessing RNA secondary structures with non-canonical base pairs.
+Erratum to: Evaluation of BLAST-based edge-weighting metrics used for homology inference with the Markov Clustering algorithm.
+Quantitative gene set analysis generalized for repeated measures, confounder adjustment, and continuous covariates.
+Prior knowledge driven Granger causality analysis on gene regulatory network discovery.
+Predicting protein function via downward random walks on a gene ontology.
+GelJ – a tool for analyzing DNA fingerprint gel images.
+Multiscale modeling of mucosal immune responses.
+Protein complex detection in PPI networks based on data integration and supervised learning method.
+Dynamic identifying protein functional modules based on adaptive density modularity in protein-protein interaction networks.
+Ensemble learning for prediction of the bioactivity capacity of herbal medicines from chromatographic fingerprints.
+Multi-location gram-positive and gram-negative bacterial protein subcellular localization using gene ontology and multi-label classifier ensemble.
+Coevolutionary analyses require phylogenetically deep alignments and better null models to accurately detect inter-protein contacts within and between species.
+OD-seq: outlier detection in multiple sequence alignments.
+Automatically visualise and analyse data on pathways using PathVisioRPC from any programming environment.
+TMalphaDB and TMbetaDB: web servers to study the structural role of sequence motifs in α-helix and β-barrel domains of membrane proteins.
+POPE: post optimization posterior evaluation of likelihood free models.
+Reliable scaling of position weight matrices for binding strength comparisons between transcription factors.
+A cascade computer model for mocrobicide diffusivity from mucoadhesive formulations.
+A convex formulation for joint RNA isoform detection and quantification from multiple RNA-seq samples.
+MVDA: a multi-view genomic data integration methodology.
+Efficient test for nonlinear dependence of two continuous variables.
+SIMAT: GC-SIM-MS data analysis tool.
+diffHic: a Bioconductor package to detect differential genomic interactions in Hi-C data.
+SW1PerS: Sliding windows and 1-persistence scoring; discovering periodicity in gene expression time series data.
+Amplitude spectrum distance: measuring the global shape divergence of protein fragments.
+Robust sequence alignment using evolutionary rates coupled with an amino acid substitution matrix.
+Epiviz: a view inside the design of an integrated visual analysis software for genomics.
+VisRseq: R-based visual framework for analysis of sequencing data.
+Physically-based in silico light sheet microscopy for visualizing fluorescent brain models.
+Visual parameter optimisation for biomedical image processing.
+BactoGeNIE: a large-scale comparative genome visualization for big displays.
+Integrated visual analysis of protein structures, sequences, and feature data.
+Pan-Tetris: an interactive visualisation for Pan-genomes.
+GRAPHIE: graph based histology image explorer.
+XCluSim: a visual analytics tool for interactively comparing multiple clustering results of bioinformatics data.
+Highlights from the 5th Symposium on Biological Data Visualization: Part 1.
+A simplicial complex-based approach to unmixing tumor progression data.
+MultiSETTER: web server for multiple RNA structure comparison.
+leBIBIQBPP: a set of databases and a webtool for automatic phylogenetic analysis of prokaryotic sequences.
+ImmunExplorer (IMEX): a software framework for diversity and clonality analyses of immunoglobulins and T cell receptors on the basis of IMGT/HighV-QUEST preprocessed NGS data.
+Breaking the computational barriers of pairwise genome comparison.
+RNA-binding residues prediction using structural features.
+Automated interpretation of 3D laserscanned point clouds for plant organ segmentation.
+InteMAP: Integrated metagenomic assembly pipeline for NGS short reads.
+Comparison of data mining and allometric model in estimation of tree biomass.
+An investigation into inter- and intragenomic variations of graphic genomic signatures.
+Confident difference criterion: a new Bayesian differentially expressed gene selection algorithm with applications.
+HaploPOP: a software that improves population assignment by combining markers into haplotypes.
+Simulated unbound structures for benchmarking of protein docking in the Dockground resource.
+Erratum to: Improving protein order-disorder classification using charge-hydropathy plots.
+SuRankCo: supervised ranking of contigs in de novo assemblies.
+Comparison of phosphorylation patterns across eukaryotes by discriminative N-gram analysis.
+Equalizer reduces SNP bias in Affymetrix microarrays.
+Computing all hybridization networks for multiple binary phylogenetic input trees.
+SpirPro: A Spirulina proteome database and web-based tools for the analysis of protein-protein interactions at the metabolic level in Spirulina (Arthrospira) platensis C1.
+Inferring 3D chromatin structure using a multiscale approach based on quaternions.
+Evaluation of variant detection software for pooled next-generation sequence data.
+Odintifier - A computational method for identifying insertions of organellar origin from modern and ancient high-throughput sequencing data based on haplotype phasing.
+Mapping side chain interactions at protein helix termini.
+Sealer: a scalable gap-closing application for finishing draft genomes.
+Object-based representation and analysis of light and electron microscopic volume data using Blender.
+GESPA: classifying nsSNPs to predict disease association.
+Red: an intelligent, rapid, accurate tool for detecting repeats de-novo on the genomic scale.
+Knowledge transfer via classification rules using functional mapping for integrative modeling of gene expression data.
+Distribution Analyzer, a methodology for identifying and clustering outlier conditions from single-cell distributions, and its application to a Nanog reporter RNAi screen.
+QoRTs: a comprehensive toolset for quality control and data processing of RNA-Seq experiments.
+Joint haplotype assembly and genotype calling via sequential Monte Carlo algorithm.
+groHMM: a computational tool for identifying unannotated and cell type-specific transcription units from global run-on sequencing data.
+Epitopemap: a web application for integrated whole proteome epitope prediction.
+Extending the evaluation of Genia Event task toward knowledge base construction and comparison to Gene Regulation Ontology task.
+Overview of the Cancer Genetics and Pathway Curation tasks of BioNLP Shared Task 2013.
+Extracting biomedical events from pairs of text entities.
+Detection and categorization of bacteria habitats using shallow linguistic analysis.
+Semi-supervised Learning for the BioNLP Gene Regulation Network.
+Adaptable, high recall, event extraction system with minimal configuration.
+The contribution of co-reference resolution to supervised relation detection between bacteria and biotopes entities.
+Overview of the gene regulation network and the bacteria biotope tasks in BioNLP'13 shared task.
+BSPAT: a fast online tool for DNA methylation co-occurrence pattern analysis based on high-throughput bisulfite sequencing data.
+Optimal combination of feature selection and classification via local hyperplane based learning strategy.
+An evaluation of statistical methods for DNA methylation microarray data analysis.
+Topological characterization of neuronal arbor morphology via sequence representation: I - motif analysis.
+MONALISA for stochastic simulations of Petri net models of biochemical systems.
+Evaluation of BLAST-based edge-weighting metrics used for homology inference with the Markov Clustering algorithm.
+Machine learning approach for pooled DNA sample calibration.
+Deciding when to stop: efficient experimentation to learn to predict drug-target interactions.
+VISA - Vector Integration Site Analysis server: a web-based server to rapidly identify retroviral integration sites from next-generation sequencing.
+The unifrac significance test is sensitive to tree topology.
+PredSTP: a highly accurate SVM based model to predict sequential cystine stabilized peptides.
+Topological characterization of neuronal arbor morphology via sequence representation: II - global alignment.
+GPCRtm: An amino acid substitution matrix for the transmembrane region of class A G Protein-Coupled Receptors.
+MetaDiff: differential isoform expression analysis using random-effects meta-regression.
+Capturing coevolutionary signals inrepeat proteins.
+YBYRÁ facilitates comparison of large phylogenetic trees.
+Comparing K-mer based methods for improved classification of 16S sequences.
+BioMaS: a modular pipeline for Bioinformatic analysis of Metagenomic AmpliconS.
+Error correction and statistical analyses for intra-host comparisons of feline immunodeficiency virus diversity from high-throughput sequencing data.
+TMFoldRec: a statistical potential-based transmembrane protein fold recognition tool.
+Multiobjective triclustering of time-series transcriptome data reveals key genes of biological processes.
+Factors affecting the accuracy of a class prediction model in gene expression data.
+RDML-Ninja and RDMLdb for standardized exchange of qPCR data.
+Ferret: a sentence-based literature scanning system.
+Alignment of time course gene expression data and the classification of developmentally driven genes with hidden Markov models.
+Integrated web visualizations for protein-protein interaction databases.
+AllelicImbalance: an R/ bioconductor package for detecting, managing, and visualizing allele expression imbalance data from RNA sequencing.
+A composite genome approach to identify phylogenetically informative data from next-generation sequencing.
+BitMapper: an efficient all-mapper based on bit-vector computing.
+Clotho: addressing the scalability of forward time population genetic simulation.
+Light-weight reference-based compression of FASTQ data.
+Optimization of sequence alignments according to the number of sequences vs. number of sites trade-off.
+WormGUIDES: an interactive single cell developmental atlas and tool for collaborative multidimensional data exploration.
+Robust and automated three-dimensional segmentation of densely packed cell nuclei in different biological specimens with Lines-of-Sight decomposition.
+Using Gene Ontology to describe the role of the neurexin-neuroligin-SHANK complex in human, mouse and rat and its relevance to autism.
+Text mining facilitates database curation - extraction of mutation-disease associations from Bio-medical literature.
+UNCLES: method for the identification of genes differentially consistently co-expressed in a specific subset of datasets.
+Optimizing agent-based transmission models for infectious diseases.
+Alternative splicing detection workflow needs a careful combination of sample prep and bioinformatics analysis.
+Kissing loop interaction in adenine riboswitch: insights from umbrella sampling simulations.
+Differential diagnosis of pleural mesothelioma using Logic Learning Machine.
+Fast randomized approximate string matching with succinct hash data structures.
+Preface: BITS2014, the annual meeting of the Italian Society of Bioinformatics.
+ComiRNet: a web-based system for the analysis of miRNA-gene regulatory networks.
+adLIMS: a customized open source software that allows bridging clinical and basic molecular research studies.
+Automatising the analysis of stochastic biochemical time-series.
+DECODE: an integrated differential co-expression and differential expression analysis of gene expression data.
+Navigating 3D electron microscopy maps with EM-SURFER.
+Discrimination of cell cycle phases in PCNA-immunolabeled cells.
+Mirinho: An efficient and general plant and animal pre-miRNA predictor for genomic and deep sequencing data.
+Ambivalent covariance models.
+MANTIS: an R package that simulates multilocus models of pathogen evolution.
+tcR: an R package for T cell receptor repertoire advanced data analysis.
+Learning-guided automatic three dimensional synapse quantification for drosophila neurons.
+A density-based clustering approach for identifying overlapping protein complexes with functional preferences.
+Weighted protein residue networks based on joint recurrences between residues.
+NetworkPainter: dynamic intracellular pathway animation in Cytobank.
+Probing long-range interactions by extracting free energies from genome-wide chromosome conformation capture data.
+HTJoinSolver: Human immunoglobulin VDJ partitioning using approximate dynamic programming constrained by conserved motifs.
+InteractiVenn: a web-based tool for the analysis of sets through Venn diagrams.
+Software for the analysis and visualization of deep mutational scanning data.
+Multi-class BCGA-ELM based classifier that identifies biomarkers associated with hallmarks of cancer.
+affy2sv: an R package to pre-process Affymetrix CytoScan HD and 750K arrays for SNP, CNV, inversion and mosaicism calling.
+PathRings: a web-based tool for exploration of ortholog and expression data in biological pathways.
+NetCooperate: a network-based tool for inferring host-microbe and microbe-microbe cooperation.
+Optimal programs of pathway control: dissecting the influence of pathway topology and feedback inhibition on pathway regulation.
+ProtDCal: A program to compute general-purpose-numerical descriptors for sequences and 3D-structures of proteins.
+Hierarchical decomposition of dynamically evolving regulatory networks.
+A Long Fragment Aligner called ALFALFA.
+GENLIB: an R package for the analysis of genealogical data.
+KnowLife: a versatile approach for constructing a large knowledge graph for biomedical sciences.
+In-vitro diagnosis of single and poly microbial species targeted for diabetic foot infection using e-nose technology.
+ISOpureR: an R implementation of a computational purification algorithm of mixed tumour profiles.
+MSCA: a spectral comparison algorithm between time series to identify protein-protein interactions.
+Domain similarity based orthology detection.
+PhyTB: Phylogenetic tree visualisation and sample positioning for M. tuberculosis.
+DisCons: a novel tool to quantify and classify evolutionary conservation of intrinsic protein disorder.
+A multi-view genomic data simulator.
+Is this the right normalization? A diagnostic tool for ChIP-seq normalization.
+Bilingual term alignment from comparable corpora in English discharge summary and Chinese discharge summary.
+Performance of a blockwise approach in variable selection using linkage disequilibrium information.
+Deep convolutional neural networks for annotating gene expression patterns in the mouse brain.
+Determining minimum set of driver nodes in protein-protein interaction networks.
+Controlling false discoveries in high-dimensional situations: boosting with stability selection.
+Field phenotyping of grapevine growth using dense stereo reconstruction.
+Estimation of the methylation pattern distribution from deep sequencing data.
+Pydna: a simulation and documentation tool for DNA assembly strategies using python.
+Optimally choosing PWM motif databases and sequence scanning approaches based on ChIP-seq data.
+VISIONET: intuitive visualisation of overlapping transcription factor networks, with applications in cardiogenic gene discovery.
+An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition.
+Principal component analysis-based unsupervised feature extraction applied to in silico drug discovery for posttraumatic stress disorder-mediated heart disease.
+Sifter-T: A scalable framework for phylogenomic probabilistic protein domain functional annotation.
+Evolution of 3'UTR-associated RNAs.
+Taxonomic and functional diversity of microbial community from a mining environment.
+Using coevolution to improve protein subfamily classification.
+Exploring the membrane potential of a simple dual membrane system by using a constant electric field.
+Rational discovery of new capsaicin analogues as TRPV1 activators.
+Highlights from the 1st ISCB Latin American Student Council Symposium 2014.
+Mendel,MD: a user-friendly online program for clinical exome analysis.
+Visual analysis of biological data-knowledge networks.
+UrQt: an efficient software for the Unsupervised Quality trimming of NGS data.
+plethy: management of whole body plethysmography data in R.
+Customised fragments libraries for protein structure prediction based on structural class annotations.
+Secondary structural entropy in RNA switch (Riboswitch) identification.
+Elviz – exploration of metagenome assemblies with an interactive visualization tool.
+coMET: visualisation of regional epigenome-wide association scan results and DNA co-methylation patterns.
+Moment based gene set tests.
+Structured learning for spatial information extraction from biomedical text: bacteria biotopes.
+Grammar-based compression approach to extraction of common rules among multiple trees of glycans and RNAs.
+DOCKSCORE: a webserver for ranking protein-protein docked poses.
+KaBOB: ontology-based semantic integration of biomedical databases.
+Psychoactive pharmaceuticals as environmental contaminants may disrupt highly inter-connected nodes in an Autism-associated protein-protein interaction network.
+MICA: A fast short-read aligner that takes full advantage of Many Integrated Core Architecture (MIC).
+Heterozygous genome assembly via binary classification of homologous sequence.
+Self-training in significance space of support vectors for imbalanced biomedical event data.
+A practical guideline for intracranial volume estimation in patients with Alzheimer's disease.
+A method of searching for related literature on protein structure analysis by considering a user's intention.
+A coherent mathematical characterization of isotope trace extraction, isotopic envelope extraction, and LC-MS correspondence.
+A novel procedure for statistical inference and verification of gene regulatory subnetwork.
+Current controlled vocabularies are insufficient to uniquely map molecular entities to mass spectrometry signal.
+A probabilistic approach for pediatric epilepsy diagnosis using brain functional connectivity networks.
+Quantifying conformational changes in GPCRs: glimpse of a common functional mechanism.
+SomInaClust: detection of cancer genes based on somatic mutation patterns of inactivation and clustering.
+PaPI: pseudo amino acid composition to score human protein-coding variants.
+Comparative proteomics: assessment of biological variability and dataset comparability.
+Sparse conditional logistic regression for analyzing large-scale matched data from epidemiological studies: a simple algorithm.
+Probabilistic topic modeling for the analysis and classification of genomic sequences.
+Machine-learning scoring functions for identifying native poses of ligands docked to known and novel proteins.
+Inferring slowly-changing dynamic gene-regulatory networks.
+Computational algorithms to predict Gene Ontology annotations.
+ContextMap 2: fast and accurate context-based RNA-seq mapping.
+CHEXVIS: a tool for molecular channel extraction and visualization.
+Comparative interactions of withanolides and sterols with two members of sterol glycosyltransferases from Withania somnifera.
+Interpolation based consensus clustering for gene expression time series.
+IPO: a tool for automated optimization of XCMS parameters.
+MAESTRO - multi agent stability prediction upon point mutations.
+A network model for angiogenesis in ovarian cancer.
+REGULATOR: a database of metazoan transcription factors and maternal factors for developmental studies.
+Feature engineering for MEDLINE citation categorization with MeSH.
+Differential co-expression and regulation analyses reveal different mechanisms underlying major depressive disorder and subsyndromal symptomatic depression.
+OpenMS-Simulator: an open-source software for theoretical tandem mass spectrum prediction.
+YOC, A new strategy for pairwise alignment of collinear genomes.
+Essentiality and centrality in protein interaction networks revisited.
+Wide-coverage relation extraction from MEDLINE using deep syntax.
+Efficient representation of uncertainty in multiple sequence alignments using directed acyclic graphs.
+A strategy to build and validate a prognostic biomarker model based on RT-qPCR gene expression and clinical covariates.
+A unified framework for estimating parameters of kinetic biological models.
+Aro: a machine learning approach to identifying single molecules and estimating classification error in fluorescence microscopy images.
+Understanding the molecular basis of EGFR kinase domain/MIG-6 peptide recognition complex using computational analyses.
+FlowClus: efficiently filtering and denoising pyrosequenced amplicons.
+Prediction of host - pathogen protein interactions between Mycobacterium tuberculosis and Homo sapiens using sequence motifs.
+ProteinVolume: calculating molecular van der Waals and void volumes in proteins.
+Automatic segmentation of deep intracerebral electrodes in computed tomography scans.
+aTRAM - automated target restricted assembly method: a fast method for assembling loci across divergent taxa from next-generation sequencing data.
+Systematic computation with functional gene-sets among leukemic and hematopoietic stem cells reveals a favorable prognostic signature for acute myeloid leukemia.
+Cell-composition effects in the analysis of DNA methylation array data: a mathematical perspective.
+DomSign: a top-down annotation pipeline to enlarge enzyme space in the protein universe.
+Identification of binding sites and favorable ligand binding moieties by virtual screening and self-organizing map analysis.
+Sigma-RF: prediction of the variability of spatial restraints in template-based modeling by random forest.
+dbVOR: a database system for importing pedigree, phenotype and genotype data and exporting selected subsets.
+Re-alignment of the unmapped reads with base quality score.
+Using epigenomics data to predict gene expression in lung cancer.
+Isomorphism and similarity for 2-generation pedigrees.
+PIGS: improved estimates of identity-by-descent probabilities by probabilistic IBD graph sampling.
+Identifying overlapping mutated driver pathways by constructing gene networks in cancer.
+Comparing a knowledge-driven approach to a supervised machine learning approach in large-scale extraction of drug-side effect relationships from free-text biomedical literature.
+A comparative study of disease genes and drug targets in the human protein interactome.
+A molecular structure matching approach to efficient identification of endogenous mammalian biochemical structures.
+Exploiting topic modeling to boost metagenomic reads binning.
+An integrated network of microRNA and gene expression in ovarian cancer.
+Improving multiple sequence alignment by using better guide trees.
+Constrained distance transforms for spatial atlas registration.
+Identifying module biomarker in type 2 diabetes mellitus by discriminative area of functional activity.
+Predicted protein-protein interactions in the moss Physcomitrella patens: a new bioinformatic resource.
+NoDe: a fast error-correction algorithm for pyrosequencing amplicon reads.
+PathwayBooster: a tool to support the curation of metabolic pathways.
+BMC Bioinformatics reviewer acknowledgement 2014.
+SimBA: simulation algorithm to fit extant-population distributions.
+Novel genetic matching methods for handling population stratification in genome-wide association studies.
+USI: a fast and accurate approach for conceptual document annotation.
+EGFR Mutant Structural Database: computationally predicted 3D structures and the corresponding binding free energies with gefitinib and erlotinib.
+A semi–supervised tensor regression model for siRNA efficacy prediction.
+A model of the regulatory network involved in the control of the cell cycle and cell differentiation in the Caenorhabditis elegans vulva.
+micropan: an R-package for microbial pan-genomics.
+Fully automated pipeline for detection of sex linked genes using RNA-Seq data.
+Kernel approaches for differential expression analysis of mass spectrometry-based metabolomics data.
+Inferring dynamic gene regulatory networks in cardiac differentiation through the integration of multi-dimensional data.
+Comparing variant calling algorithms for target-exon sequencing in a large sample.
+Identification of active miRNA and transcription factor regulatory pathways in human obesity-related inflammation.
+GBSX: a toolkit for experimental design and demultiplexing genotyping by sequencing experiments.
+A high performance prediction of HPV genotypes by Chaos game representation and singular value decomposition.
+ITIS, a bioinformatics tool for accurate identification of transposon insertion sites using next-generation sequencing data.
+Spectral gene set enrichment (SGSE).
+Classification of bioinformatics workflows using weighted versions of partitioning and hierarchical clustering algorithms.
+RIEMS: a software pipeline for sensitive and comprehensive taxonomic classification of reads from metagenomics datasets.
+MetCap: a bioinformatics probe design pipeline for large-scale targeted metagenomics.
+SCNVSim: somatic copy number variation and structure variation simulator.
+GeneDig: a web application for accessing genomic and bioinformatics knowledge.
+Impact of missing data imputation methods on gene expression clustering and classification.
+Removing batch effects from purified plasma cell gene expression microarrays with modified ComBat.
+Metabolome searcher: a high throughput tool for metabolite identification and metabolic pathway mapping directly from mass spectrometry and using genome restriction.
+BgN-Score and BsN-Score: Bagging and boosting based ensemble neural networks scoring functions for accurate binding affinity prediction of protein-ligand complexes.
+Analysis of miRNA expression profiles in breast cancer using biclustering.
+Beef quality parameters estimation using ultrasound and color images.
+Integration of gene expression and DNA-methylation profiles improves molecular subtype classification in acute myeloid leukemia.
+An integrated approach of gene expression and DNA-methylation profiles of WNT signaling genes uncovers novel prognostic markers in Acute Myeloid Leukemia.
+The relative vertex clustering value - a new criterion for the fast discovery of functional modules in protein interaction networks.
+Problems with the nested granularity of feature domains in bioinformatics: the eXtasy case.
+Gram-positive and gram-negative subcellular localization using rotation forest and physicochemical-based features.
+ViVaMBC: estimating viral sequence variation in complex populations from illumina deep-sequencing data using model-based clustering.
+A hidden Markov approach for ascertaining cSNP genotypes from RNA sequence data in the presence of allelic imbalance by exploiting linkage disequilibrium.
+histoneHMM: Differential analysis of histone modifications with broad genomic footprints.
+Extraction of relations between genes and diseases from text and large-scale data analysis: implications for translational research.
+Identifying named entities from PubMed® for enriching semantic categories.
+Discovery of prognostic biomarkers for predicting lung cancer metastasis using microarray and survival data.
+BiNChE: A web tool and library for chemical enrichment analysis based on the ChEBI ontology.
+Inferring bona fide transfrags in RNA-Seq derived-transcriptome assemblies of non-model organisms.
+The effect of rare variants on inflation of the test statistics in case–control analyses.
+A multiobjective approach to the genetic code adaptability problem.
+Pheno2Geno - High-throughput generation of genetic markers and maps from molecular phenotypes for crosses between inbred strains.
+Data-driven encoding for quantitative genetic trait prediction.
+The application of sparse estimation of covariance matrix to quadratic discriminant analysis.
+Sampling with poling-based flux balance analysis: optimal versus sub-optimal flux space analysis of Actinobacillus succinogenes.
+Insertion and deletion correcting DNA barcodes based on watermarks.
+MeSH ORA framework: R/Bioconductor packages to support MeSH over-representation analysis.
+OTO: Ontology Term Organizer.
+Family-based association analysis: a fast and efficient method of multivariate association analysis with multiple variants.
+Measuring semantic similarities by combining gene ontology annotations and gene co-function networks.
+Improving duplicated nodes position in vertebrate gene trees.
+Hybrid approaches for the detection of networks of critical residues involved in functional motions in protein families.
+Identification and analysis of methylation call differences between bisulfite microarray and bisulfite sequencing data with statistical learning techniques.
+Mining the human proteome for conserved mechanisms.
+An exploration of the 3D chemical space has highlighted a specific shape profile for the compounds intended to inhibit protein-protein interactions.
+Applications of proteochemometrics - from species extrapolation to cell line sensitivity modelling.
+Using ConTemplate and the PDB to explore conformational space: on the detection of rare protein conformations.
+Viral DNA replication: new insights and discoveries from large scale computational analysis.
+Highlights from the Third European International Society for Computational Biology (ISCB) Student Council Symposium 2014.
+Identification of indels in next-generation sequencing data.
+NMF-mGPU: non-negative matrix factorization on multi-GPU systems.
+Identifying restrictions in the order of accumulation of mutations during tumor progression: effects of passengers, evolutionary models, and sampling.
+An evidence-based approach to identify aging-related genes in Caenorhabditis elegans.
+Effective alignment of RNA pseudoknot structures using partition function posterior log-odds scores.
+BACA: bubble chArt to compare annotations.
+Data-intensive analysis of HIV mutations.
+Mutations and CpG islands among hepatitis B virus genotypes in Europe.
+MBBC: an efficient approach for metagenomic binning based on clustering.
+Evaluation and improvements of clustering algorithms for detecting remote homologous protein families.
+Sensitive and highly resolved identification of RNA-protein interaction sites in PAR-CLIP data.
+PCalign: a method to quantify physicochemical similarity of protein-protein interfaces.
+A systematic evaluation of high-dimensional, ensemble-based regression for exploring large model spaces in microbiome analyses.
+MARZ: an algorithm to combinatorially analyze gapped n-mer models of transcription factor binding.
+Alignment-free clustering of transcription factor binding motifs using a genetic-k-medoids approach.
+Computational study of β-N-acetylhexosaminidase from Talaromyces flavus, a glycosidase with high substrate flexibility.
+Exploring possible DNA structures in real-time polymerase kinetics using Pacific Biosciences sequencer data.
+Aber-OWL: a framework for ontology-based data access in biology.
+Candidate prioritization for low-abundant differentially expressed proteins in 2D-DIGE datasets.
+An algorithm to enumerate all possible protein conformations verifying a set of distance constraints.
+Fast inexact mapping using advanced tree exploration on backward search methods.
+Quantitative analysis of differences in copy numbers using read depth obtained from PCR-enriched samples and controls.
+TagDust2: a generic method to extract reads from sequencing data.
+ERD: a fast and reliable tool for RNA design including constraints.
+MDAT- Aligning multiple domain arrangements.
+Parameter advising for multiple sequence alignment.
+The road to linking genomics and proteomics of pathogenic bacteria: from binary protein complexes to interaction pathways.
+Normalizing alternate representations of large sequence variants across multiple bacterial genomes.
+Tetranucleotide usage in mycobacteriophage genomes: alignment-free methods to cluster phage and infer evolutionary relationships.
+Protein translational control and its contribution to oncogenesis revealed by computational methods.
+Genotyping microsatellites in next-generation sequencing data.
+Statistical elimination of spectral features with large between-run variation enhances quantitative protein-level conclusions in experiments with data-independent spectral acquisition.
+COSMOS: cloud enabled NGS analysis.
+NGS-Logistics: data infrastructure for efficient analysis of NGS sequence variants across multiple centers.
+Highlights from the tenth ISCB Student Council Symposium 2014.
+The acquisition of novel N-glycosylation sites in conserved proteins during human evolution.
+SFMetrics: an analysis tool for scanning force microscopy images of biomolecules.
+ViralmiR: a support-vector-machine-based method for predicting viral microRNA precursors.
+SCMPSP: Prediction and characterization of photosynthetic proteins based on a scoring card method.
+On the packing density of the unbound protein-protein interaction interface and its implications in dynamics.
+Network tuned multiple rank aggregation and applications to gene ranking.
+An interpretable rule-based diagnostic classification of diabetic nephropathy among type 2 diabetes patients.
+Estimating copy numbers of alleles from population-scale high-throughput sequencing data.
+IAOseq: inferring abundance of overlapping genes using RNA-seq data.
+PEAT: an intelligent and efficient paired-end sequencing adapter trimming algorithm.
+Characterization and identification of ubiquitin conjugation sites with E3 ligase recognition specificities.
+Structure and sequence analyses of Bacteroides proteins BVU_4064 and BF1687 reveal presence of two novel predominantly-beta domains, predicted to be involved in lipid and cell surface interactions.
+Fast and robust group-wise eQTL mapping using sparse graphical models.
+YersiniaBase: a genomic resource and analysis platform for comparative analysis of Yersinia.
+Predicting protein functions using incomplete hierarchical labels.
+Decomposing the space of protein quaternary structures with the interface fragment pair library.
+Amyloid precursor protein interaction network in human testis: sentinel proteins for male reproduction.
+Single-molecule dataset (SMD): a generalized storage format for raw and processed single-molecule data.
+Rational selection of experimental readout and intervention sites for reducing uncertainties in computational model predictions.
+Biomedical question answering using semantic relations.
+Improving statistical inference on pathogen densities estimated by quantitative molecular methods: malaria gametocytaemia as a case study.
+Pollux: platform independent error correction of single and mixed genomes.
+SubPatCNV: approximate subspace pattern mining for mapping copy-number variations.
+Nonparametric Bayesian clustering to detect bipolar methylated genomic loci.
+Semi-supervised adaptive-height snipping of the hierarchical clustering tree.
+Fast individual ancestry inference from DNA sequence data leveraging allele frequencies for multiple populations.
+HyLiTE: accurate and flexible analysis of gene expression in hybrid and allopolyploid species.
